@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] sortie feuille de route'
 description: '[!DNL Adobe Experience Manager] sortie feuille de route'
 translation-type: tm+mt
-source-git-commit: abee2c5b1796d9c729d8492439c81cceb8290084
+source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '367'
 ht-degree: 17%
 
 ---
@@ -18,13 +18,12 @@ ht-degree: 17%
 >
 >Les mises à jour de la feuille de route disponibles dans cet article sont fournies à titre indicatif et peuvent être modifiées à tout moment.
 
-## [!DNL Experience Manager] comme  [!DNL Cloud Service] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [[!DNL Experience Manager] comme  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=fr) suit une cadence de libération mensuelle. Par conséquent, de nouvelles fonctionnalités sont disponibles sous forme de mises à jour continues de [!DNL Experience Manager] chaque mois. Les prochaines versions de [!DNL Experience Manager] sous la forme [!DNL Cloud Service]s sont les suivantes.
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] comme  [!DNL Cloud Service] 2020.12.0 | 2020.12.0 | Version mensuelle | 17 décembre 2020 |
 | [!DNL Experience Manager] comme un  [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | Version mensuelle | 28 janvier 2021 |
 | [!DNL Experience Manager] comme un  [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | Version mensuelle | 25 février 2021 |
 | [!DNL Experience Manager] comme un  [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Version mensuelle | 25 mars 2021 |
