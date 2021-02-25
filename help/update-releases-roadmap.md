@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] sortie feuille de route'
 description: '[!DNL Adobe Experience Manager] sortie feuille de route'
 translation-type: tm+mt
-source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
+source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 17%
@@ -48,7 +48,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d&#39;am
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 25 février 2021 |
+| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 11 mars 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 27 mai 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26 août 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 novembre 2021 |
@@ -77,6 +77,6 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d&#39;am
 >
 >* [Matrice EOL](https://helpx.adobe.com/fr/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] versions et mises à jour](https://helpx.adobe.com/fr/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Formation et assistance](https://helpx.adobe.com/fr/support/experience-manager.html)
+>* [[!DNL Experience Manager] Formation et assistance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
 >* [[!DNL Experience Manager] Mettre à jour les définitions de véhicule de version](/help/update-release-vehicle-definitions.md)
 
