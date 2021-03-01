@@ -15,12 +15,12 @@ ht-degree: 43%
 ---
 
 
-# Feuille de route et mises à jour de la version Adobe Experience Manager  {#aem-release-updates}
+# Feuille de route et mises à jour de la version Adobe Experience Manager {#aem-release-updates}
 
 + [Page d&#39;accueil d’informations sur la publication](home.md)
-+ [aem mises à jour des versions](aem-releases-updates.md)
-+ [aem relâche la feuille de route](update-releases-roadmap.md)
-+ [aem mettre à jour les définitions de véhicule](update-release-vehicle-definitions.md)
++ [AEM mises à jour des versions](aem-releases-updates.md)
++ [AEM relâche la feuille de route](update-releases-roadmap.md)
++ [AEM mettre à jour les définitions de véhicule](update-release-vehicle-definitions.md)
 + Mises à jour de la version précédente {#previous-updates}
    + [AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
    + [AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
