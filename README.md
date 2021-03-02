@@ -1,14 +1,14 @@
 ---
 source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '73'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
-# Informations sur la version de Adobe Experience Manager
+# Informations concernant la version d’Adobe Experience Manager
 
-Il s’agit du référentiel pour les informations de version Adobe Experience Manager.
+Il s’agit du référentiel relatif aux informations concernant la version d’Adobe Experience Manager.
 
 Vos contributions à la documentation sont les bienvenues. Veuillez consulter les ressources suivantes :
 
