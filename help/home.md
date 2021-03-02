@@ -1,34 +1,34 @@
 ---
-title: '[!DNL Adobe Experience Manager] Mises à jour des versions et plan de route'
-description: '[!DNL Adobe Experience Manager] Mises à jour des versions et plan de route'
-translation-type: tm+mt
+title: Feuille de route et mises à jour de version d’[!DNL Adobe Experience Manager]
+description: Feuille de route et mises à jour de version d’[!DNL Adobe Experience Manager]
+translation-type: ht
 source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Feuille de route et mises à jour de la version Adobe Experience Manager
+# Feuille de route et mises à jour de version d’Adobe Experience Manager
 
-Ce guide contient des informations sur la feuille de route des versions [!DNL Adobe Experience Manager], les mises à jour des versions précédentes et les mises à jour de la documentation.
+Ce guide contient des informations sur la feuille de route des versions d’[!DNL Adobe Experience Manager], les mises à jour de versions précédentes et les mises à jour de la documentation.
 
-* [[!DNL Experience Manager] mises à jour des versions](aem-releases-updates.md)
-* [[!DNL Experience Manager] sortie feuille de route](update-releases-roadmap.md)
-* [[!DNL Experience Manager] définition des véhicules](update-release-vehicle-definitions.md)
+* Mises à jour des versions d’[[!DNL Experience Manager] ](aem-releases-updates.md)
+* Feuille de route des versions d’[[!DNL Experience Manager] ](update-releases-roadmap.md)
+* Définitions des véhicules de version d’[[!DNL Experience Manager] ](update-release-vehicle-definitions.md)
 
-## Mises à jour précédentes
+## Mises à jour de versions précédentes
 
-* [Notes de mise à jour :  [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [Notes de mise à jour :  [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
+* [Notes de mise à jour : pack de correctifs cumulés d’ [!DNL Experience Manager] 6.3](release-notes-aem-6-3-cumulative-fix-pack.md)
+* [Notes de mise à jour : pack de correctifs cumulés d’ [!DNL Experience Manager] 6.2](release-notes-aem-6-2-cumulative-fix-pack.md)
 
-## [!DNL Experience Manager] Mises à jour des versions de Forms
+## Mises à jour des versions d’[!DNL Experience Manager] Forms
 
-* [[!DNL Experience Manager] Versions de Forms](aem-forms-releases.md)
-* [Installation des packs de correctifs cumulés  [!DNL Experience Manager] sur Forms JEE](install-cfp-aem-forms-jee.md)
+* Versions d’[[!DNL Experience Manager] Forms](aem-forms-releases.md)
+* [Installation des packs de correctifs cumulés sur  [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Mises à jour de la documentation
 
-* [[!DNL Experience Manager] documentation : Dernières mises à jour de la documentation](documentation-updates.md)
-* [Mises à jour de la documentation précédente](previous-documentation-updates.md)
+* Documentation [[!DNL Experience Manager]  : mises à jour récentes de la documentation](documentation-updates.md)
+* [Mises à jour précédentes de la documentation](previous-documentation-updates.md)
