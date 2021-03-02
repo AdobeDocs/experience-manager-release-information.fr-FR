@@ -1,18 +1,18 @@
 ---
 cloud: experience-cloud
 solution-title: Formation et assistance
-solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html
+solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr
 getting-started-title: Prise en main
-getting-started-url: https://helpx.adobe.com/fr/experience-manager/get-started.html
+getting-started-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=fr
 tutorials-title: Tutoriels
-tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.fr-FR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
