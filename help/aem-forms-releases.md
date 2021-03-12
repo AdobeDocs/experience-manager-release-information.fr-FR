@@ -385,7 +385,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.2.0-COMPAT" target="_blank">Package de compatibilité AEM Forms</a></li>
      <li>Programme d’installation d’AEM Forms JEE<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.1.30</strong></p> <p>Code source de l’application AEM Forms :<strong> 4.1.6</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.4.0-0003</strong></p> </td> 
+   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.1.30</strong></p> <p>AEM Forms App Source Code :<strong> 4.1.6</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.4.0-0003</strong></p> </td> 
   </tr> 
   <tr> 
    <td>29 juin 2018</td> 
@@ -401,7 +401,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG" target="_blank">Source de l’application AEM Forms</a> </li> 
      <li>Programme d’installation d’AEM Forms JEE<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.1.14</strong></p> <p>Code source de l’application AEM Forms :<strong> 4.1.2</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.4.0-0001</strong></p> </td> 
+   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.1.14</strong></p> <p>AEM Forms App Source Code :<strong> 4.1.2</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.4.0-0001</strong></p> </td> 
   </tr> 
   <tr> 
    <td>4 avril 2018</td> 
@@ -425,7 +425,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
      <li>AEM Workbench <sup>[1]</sup></li> 
      <li>Programme d’installation d’AEM Designer <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.0.86</strong></p> <p>Package Central Migration Bridge :<strong> 6.0.18</strong></p> <p>Package de configuration de sécurité globale AEM WebSphere :<strong> 1.0.0</strong></p> <p>Package de compatibilité AEM Forms :<strong> 1.0.18</strong></p> <p>Code source de l’application AEM Forms :<strong> 4.0.30</strong></p> </td> 
+   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>5.0.86</strong></p> <p>Package Central Migration Bridge :<strong> 6.0.18</strong></p> <p>Package de configuration de sécurité globale AEM WebSphere :<strong> 1.0.0</strong></p> <p>Package de compatibilité AEM Forms :<strong> 1.0.18</strong></p> <p>AEM Forms App Source Code :<strong> 4.0.30</strong></p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -620,7 +620,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr> 
   <tr> 
    <td>5 avril 2018</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">Package de module complémentaire d’AEM 6.3 Service Pack 2 Forms</a></td> 
+   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">Package de module complémentaire d’AEM 6.3 Service Pack 2 Forms</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
     <ul> 
@@ -740,7 +740,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">Package de module complémentaire AEM Forms pour Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">Package de module complémentaire AEM Forms pour Mac OS X </a><sup>[2]</sup></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Package Central Migration Bridge</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">Package de code source de l’application AEM Forms</a></li> 
+     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">Package de AEM Forms App Source Code</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">Package AEM Forms Document Security Indexer</a></li> 
      <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">Package du site de référence FSI AEM Forms</a></li> 
