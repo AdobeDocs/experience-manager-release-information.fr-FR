@@ -21,9 +21,9 @@ Vous pouvez également consulter les [mises à jour de documentation précédent
 
 >[!NOTE]
 >
->AEM en tant que Cloud Service est publié chaque mois.
+>AEM as a Cloud Service est publié chaque mois.
 >
->Voir les [Notes de mise à jour](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=fr) pour obtenir la documentation relative aux différentes versions (versions actuelles et antérieures).
+>Consultez les [Notes de mise à jour](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=fr) pour obtenir la documentation relative aux différentes versions (versions actuelles et antérieures).
 
 | Date | Thème | Modifications |
 | --- | --- | --- |
@@ -58,9 +58,9 @@ Vous pouvez également consulter les [mises à jour de documentation précédent
 
 | Date | Thème | Modifications |
 | --- | --- | --- |
-| 11 mars 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager]  6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr#service-pack) est disponible |
+| 11 mars 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr#service-pack) est disponible |
 | 25 novembre 2020 | Accessibilité dans Dynamic Media | Dynamic Media et les visionneuses Dynamic Media prennent en charge les technologies d’assistance et de contrôle du clavier telles que les lecteurs d’écran JAWS et NVDA dans l’interface utilisateur de création. Voir [Accessibilité dans Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=fr#dynamic). |
-| 26 novembre 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager]  6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) est disponible |
+| 26 novembre 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) est disponible |
 | 3 septembre 2020 | Invalidation du cache CDN dans Dynamic Media | Vous pouvez maintenant envoyer une requête depuis Dynamic Media pour que le cache CDN arrive à expiration en quelques minutes. Cette fonctionnalité est utile lorsque vous effectuez des mises à jour de ressources et que vous souhaitez que ces modifications prennent effet immédiatement sur votre site web.<br>Voir [Invalidation du cache CDN à l’aide de Dynamic Media.](https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 3 septembre 2020 | Utilisation de la publication sélective dans Dynamic Media | Vous pouvez choisir de publier ou d’annuler la publication de ressources vers ou depuis [!DNL Experience Manager] ou Dynamic Media au niveau du dossier, à l’aide de **Gérer la publication** ou de **Publication rapide**, plutôt que de vous reposer uniquement sur la **configuration de Dynamic Media** dont les paramètres sont globaux pour tous les dossiers de votre instance Dynamic Media.<br>Voir [Utilisation de la publication sélective dans Dynamic Media.](https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/dynamic/selective-publishing.html) |
 | 3 septembre 2020 | [!DNL Experience Manager] 6.5 Service Pack 6 | [[!DNL Experience Manager] 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr) est disponible |
