@@ -1,11 +1,11 @@
 ---
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 est le dernier CFP de la version  [!DNL Experience Manager] 6.4. Pour plus d&#39;informations sur la dernière version du CFP, consultez les notes [[!DNL Experience Manager]  de mise à jour sur le CFP ](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr)6.4 Cumulative Fix Pack.
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 est le dernier CFP destiné à [!DNL Experience Manager] 6.4. Pour plus d’informations sur la dernière version du CFP, consultez les [[!DNL Experience Manager] Notes de mise à jour du Pack de correctifs cumulés 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr).
 
 >[!MORELIKETHIS]
 >
