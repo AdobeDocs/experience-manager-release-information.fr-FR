@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
 workflow-type: tm+mt
 source-wordcount: '13231'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -33,8 +33,8 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
     <td><strong>Versions de build</strong></td> 
    </tr>
    <tr> 
-    <td>18 mars 2021</td> 
-    <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 8 Forms pour AEM 6.5.8.0</a></td> 
+    <td>18 mars 2021</td> 
+    <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 8 Forms pour AEM 6.5.8.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
      <ul> 
@@ -145,7 +145,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
    </tr> 
    <tr> 
     <td>19 septembre 2019</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr#service-pack">Package de module complémentaire AEM Forms Service Pack 2 Forms pour AEM 6.5.2.0</a></td> 
+    <td><a href="https://helpx.adobe.com/fr/experience-manager/6-5/release-notes/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 2 Forms pour AEM 6.5.2.0</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -215,8 +215,8 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
    <td><strong>Versions de build</strong></td> 
   </tr>
   <tr> 
-   <td>4 mars 2021</td> 
-   <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/release-notes/cfp-release-notes.html">Packages de modules complémentaires AEM Forms pour AEM 6.4 Service Pack 8 Pack de correctifs cumulés 4 (6.4.8.4)</a></td> 
+   <td>4 mars 2021</td> 
+   <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/release-notes/cfp-release-notes.html">Packages de modules complémentaires AEM Forms pour AEM 6.4 Service Pack 8 Pack de correctifs cumulés 4 (6.4.8.4)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
     <ul> 
@@ -1169,7 +1169,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
 
 >[!NOTE]
 >
->AEM [!DNL Forms] publie régulièrement des correctifs ou des correctifs rapides pour résoudre les bugs et améliorer la convivialité et les performances du logiciel. Si vous rencontrez un problème lors de l’utilisation d’AEM [!DNL Forms], il est possible qu’il soit déjà résolu par le biais d’un correctif ou de correctifs rapides. Pour plus d’informations sur les correctifs rapides disponibles, voir [Correctifs logiciels d’Adobe Experience Manager 6.2.](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=fr)
+>AEM [!DNL Forms] publie régulièrement des correctifs ou des correctifs rapides pour résoudre les bugs et améliorer la convivialité et les performances du logiciel. Si vous rencontrez un problème lors de l’utilisation d’AEM [!DNL Forms], il est possible qu’il soit déjà résolu par le biais d’un correctif ou de correctifs rapides. Pour plus d’informations sur les correctifs rapides disponibles, voir [Correctifs logiciels d’Adobe Experience Manager 6.2.](https://helpx.adobe.com/fr/experience-manager/kb/aem62-available-hotfixes.html)
 
 ## Éléments à retenir {#things-to-remember}
 
