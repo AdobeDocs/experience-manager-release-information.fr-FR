@@ -3,9 +3,9 @@ title: Versions d’AEM Forms
 description: Contient la liste de toutes les versions d’AEM Forms et des packages correspondants
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
+source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
-source-wordcount: '13231'
+source-wordcount: '13263'
 ht-degree: 99%
 
 ---
@@ -42,6 +42,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Package de module complémentaire AEM Forms pour Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">Package de module complémentaire AEM Forms pour Mac OS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">Package de compatibilité AEM Forms</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">Correctif AEM Forms Designer</a></li>
       <br><b>Programmes d’installation de correctifs JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -55,7 +56,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0025<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.334</p> <p>Package de compatibilité AEM Forms : 2.0.36</p><p>SDK client : 6.0.334<br /> </p></td> 
+    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0025<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.334</p> <p>Package de compatibilité AEM Forms : 2.0.36</p><p>SDK client : 6.0.334<br /> </p><p>Correctif AEM Forms Designer : 650.014</p></td> 
    </tr>
    <tr> 
     <td>3 décembre 2020</td> 
