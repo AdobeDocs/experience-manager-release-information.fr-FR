@@ -8,13 +8,13 @@ breadcrumb-title: Informations sur la version AEM
 user-guide-description: Reportez-vous aux dernières mises à jour d’AEM.
 feature-set: Experience Manager
 feature: Informations sur la version
-role: Leader, Architecte, Développeur, Architecte de données, Ingénieur de données, Administrateur, Professionnel
-level: Débutant, intermédiaire, expérimenté
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 86%
+source-wordcount: '81'
+ht-degree: 100%
 
 ---
 
