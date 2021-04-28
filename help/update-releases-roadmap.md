@@ -3,10 +3,10 @@ title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 translation-type: tm+mt
-source-git-commit: f0ebb9285b6702dadd8827ad66e9b83a4095a8b9
+source-git-commit: e73837adaeb3407c4c92de0c927e92e0044dac27
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Publication mensuelle | 29 avril 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Publication mensuelle | 06 mai 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Publication mensuelle | 27 mai 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | Publication mensuelle | 24 juin 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Publication mensuelle | 29 juillet 2021 |
