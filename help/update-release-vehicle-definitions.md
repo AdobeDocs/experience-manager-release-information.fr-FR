@@ -2,14 +2,13 @@
 title: Définitions des véhicules de version de mise à jour
 description: Cet article décrit les différents types de publications d’ [!DNL Experience Manager] , y compris les versions, les Feature Packs et les Service Packs.
 contentOwner: AK
-translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
-workflow-type: ht
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
 
 ---
-
 
 # Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager] {#update-release-vehicle-definitions}
 
@@ -55,7 +54,7 @@ Ce document contient des informations à propos des différents types de version
 | Disponibilité et installation | <ul> <li> Livré sous la forme d’un module. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendant du dernier Service Pack publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients n’ont pas à se soucier de trouver/résoudre des problèmes de dépendances. Le pack de correctifs cumulés doit être installé sur le dernier Service Pack publié. </li> <li>  Le pack de correctifs cumulés peut être installé en tant que module unique, ce qui améliore l’expérience client.  </li> </ul> |
 | Niveau de test | Contrôle qualité validé au niveau de l’intégration et test de régression |
 
-## Incrustation {#overlay}
+## Recouvrement {#overlay}
 
 | Élément | Détails |
 |-------|--------|
