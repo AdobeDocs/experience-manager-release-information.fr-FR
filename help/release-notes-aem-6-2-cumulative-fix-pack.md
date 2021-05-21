@@ -44,13 +44,10 @@ Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP20, dernier pack de correctif
 >[!NOTE]
 >
 >* Un nouveau bundle Sling `discovery-  api` Johnzon 1.0.0 est inclus avec le pack de correctifs cumulés d’AEM 6.2 SP1-CFP10. En outre, un sling-discovery d’utilisateur de service est ajouté avec les privilèges de lecture et d’écriture pour le nœud */var/discovery* dans le référentiel CRX.
-   >
-   >
-* Le groupe d’email d’apache commons **org.apache.commons/commons-email/1.5** a été ajouté en remplacement de **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
-   >
-   >
-* Adobe recommande de déployer CFP par le biais du dossier d’installation pour les clients qui comptent un grand nombre d’utilisateurs sur une instance AEM.
-
+>
+>* Le groupe d’email d’apache commons **org.apache.commons/commons-email/1.5** a été ajouté en remplacement de **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
+>
+>* Adobe recommande de déployer CFP par le biais du dossier d’installation pour les clients qui comptent un grand nombre d’utilisateurs sur une instance AEM.
 >
 
 
@@ -1326,10 +1323,8 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 >
 >* Un copier-coller de Word / Web vers l’éditeur de texte CM affiche un saut de ligne dans le contenu. NPR-19530
 >* Le contenu sans saut de ligne dans l’éditeur de texte CM n’est pas encapsulé. NPR-19449
-
 >
->
-Ces questions seront abordées dans un prochain CFP.
+>Ces questions seront abordées dans un prochain CFP.
 
 #### Formulaires adaptatifs {#adaptive-forms-9}
 
