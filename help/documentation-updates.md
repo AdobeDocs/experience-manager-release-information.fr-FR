@@ -3,9 +3,9 @@ title: Mises à jour récentes de la documentation [!DNL Experience Manager]
 description: 'Nouveautés, mises à jour ou modifications apportées à la documentation d’ [!DNL Experience Manager] '
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '3247'
+source-wordcount: '3262'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,8 @@ Vous pouvez également consulter les [mises à jour de documentation précédent
 
 | Date | Thème | Modifications |
 | --- | --- | --- |
-| 11 mars 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr#service-pack) est disponible |
+| 27 mai 2021 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr#service-pack) est disponible |
+| 11 mars 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) est disponible |
 | 25 novembre 2020 | Accessibilité dans Dynamic Media | Dynamic Media et les visionneuses Dynamic Media prennent en charge les technologies d’assistance et de contrôle du clavier telles que les lecteurs d’écran JAWS et NVDA dans l’interface utilisateur de création. Voir [Accessibilité dans Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=fr#dynamic). |
 | 26 novembre 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) est disponible |
 | 3 septembre 2020 | Invalidation du cache CDN dans Dynamic Media | Vous pouvez maintenant envoyer une requête depuis Dynamic Media pour que le cache CDN arrive à expiration en quelques minutes. Cette fonctionnalité est utile lorsque vous effectuez des mises à jour de ressources et que vous souhaitez que ces modifications prennent effet immédiatement sur votre site web.<br>Voir [Invalidation du cache CDN à l’aide de Dynamic Media.](https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
