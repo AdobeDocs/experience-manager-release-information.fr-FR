@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
     <td><strong>Versions de build</strong></td> 
    </tr>
    <tr> 
-    <td>3 juin 2021</td> 
+    <td>3 juin 2021</td> 
     <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 9 Forms pour AEM 6.5.9.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
