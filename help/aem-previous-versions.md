@@ -3,7 +3,7 @@ title: Anciennes versions d’AEM, CQ et CRX
 description: Modules de documentation des versions antérieures d’Adobe Experience Manager, de CQ et de CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 # Anciennes versions d’[!DNL Adobe Experience Manager], CQ et CRX {#older-versions-aem-cq-crx}
 
-## Documentation des anciennes versions d’[!DNL Experience Manager]  {#older-version-aem-documentation}
+## Documentation des anciennes versions d’[!DNL Experience Manager] {#older-version-aem-documentation}
 
 Les versions d’[!DNL Experience Manager], de CQ et de CRX répertoriées sur cette page sont en fin de vie et ne sont plus officiellement vendues par Adobe. Les dernières versions de la documentation officielle relative à ces anciennes versions sont disponibles en libre-service. Il est recommandé d’effectuer une mise à niveau vers la dernière version (actuellement [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=fr)).
 
@@ -93,6 +93,6 @@ Pour installer un module de documentation hérité, [!DNL Experience Manager] do
 
 1. Dans un navigateur web, lancez la page de documentation. Par exemple, pour AEM 5.6.1, l’URL serait : http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## Obtenir de l’aide de la communauté [!DNL Experience Manager]  {#get-help-from-aem-community}
+## Obtenir de l’aide de la communauté [!DNL Experience Manager] {#get-help-from-aem-community}
 
 Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
