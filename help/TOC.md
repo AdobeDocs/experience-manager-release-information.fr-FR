@@ -11,7 +11,7 @@ feature: Informations sur la version
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Feuille de route et mises à jour de version d’Adobe Experience Manager {#aem-release-updates}
 
-+ [Page d’accueil des informations sur la version ](home.md)
++ [Page d’accueil des informations sur la version](home.md)
 + [Versions mises à jour d’AEM](aem-releases-updates.md)
 + [Feuille de route des versions d’AEM](update-releases-roadmap.md)
 + [Définitions des véhicules de version de mise à jour d’AEM](update-release-vehicle-definitions.md)
