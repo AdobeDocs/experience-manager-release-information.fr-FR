@@ -2,9 +2,9 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
-workflow-type: ht
-source-wordcount: '317'
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,6 @@ ht-degree: 100%
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Publication mensuelle | 29 juillet 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Publication mensuelle | 26 août 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Publication mensuelle | 30 septembre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Publication mensuelle | 28 octobre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Publication mensuelle | 2 décembre 2021 |
@@ -41,7 +39,6 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26 août 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 novembre 2021 |
 
 >[!NOTE]
@@ -57,5 +54,5 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 >* [Tableau de fin de vie](https://helpx.adobe.com/fr/support/programs/eol-matrix.html)
 >* Versions et mises à jour d’[[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=fr)
 >* Formation et assistance relatives à [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
->* [Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager]](/help/update-release-vehicle-definitions.md)
+>* Définitions des véhicules de version de mise à jour d’[[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
