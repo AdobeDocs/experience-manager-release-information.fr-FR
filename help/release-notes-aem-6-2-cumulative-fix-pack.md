@@ -2,14 +2,14 @@
 title: Pack de correctifs cumulés AEM 6.2
 description: Notes de mise à jour du pack de correctifs cumulatifs Experience Manager 6.2. Approfondissez la question des problèmes résolus par divers packs de correctifs cumulatifs dans les composants Experience Manager.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
 workflow-type: tm+mt
-source-wordcount: '19975'
-ht-degree: 100%
+source-wordcount: '19969'
+ht-degree: 99%
 
 ---
 
-# Notes de mise à jour du pack de correctifs cumulés d’AEM 6.2 {#release-notes-aem-cumulative-fix-pack}
+# Notes de mise à jour du pack de correctifs cumulés AEM 6.2{#release-notes-aem-cumulative-fix-pack}
 
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
@@ -48,8 +48,8 @@ Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP20, dernier pack de correctif
 >* Le groupe d’email d’apache commons **org.apache.commons/commons-email/1.5** a été ajouté en remplacement de **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
 >* Adobe recommande de déployer CFP par le biais du dossier d’installation pour les clients qui comptent un grand nombre d’utilisateurs sur une instance AEM.
->
 
+>
 
 
 ## Problèmes inclus {#issues-included}
@@ -63,7 +63,7 @@ En outre, ce CFP inclut des correctifs fournis dans les [packs de correctifs cu
 * Rétroportage de plusieurs améliorations de la personnalisation du ciblage des campagnes. NPR-29163 : correctif pour CQ-4264126
 * com.day.cq.personalization.impl.TeaserResourceEventHandler résulte en une boucle infinie et provoque des mises à jour des nœuds lors de la publication. NPR-28561 : correctif pour CQ-4263096
 
-### DAM – Général {#dam-general}
+### DAM - Général {#dam-general}
 
 * Impossible d’afficher/de masquer le bouton de réplication pour les utilisateurs non-administrateurs dans des dossiers DAM spécifiques. NPR-29026 : correctif pour CQ-4265361
 
@@ -89,7 +89,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Problèmes d’utilisation avec le composant de griffonnage pour les appareils iOS 12.1. NPR-29082 : correctif pour CQ-4261765
 
-#### Forms – Document Security {#forms-document-security}
+#### Forms - Document Security {#forms-document-security}
 
 * La vérification de toutes les signatures dans un PDF à l’aide de PDF Advanced Electronic Signatures (PAdES) génère InvalidOperationException. NPR-27848 : correctif pour CQ-4244837
 
@@ -97,13 +97,13 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Lors de la prévisualisation de la lettre au format PDF, le champ de texte placé sur le gabarit de page ne respecte pas la valeur saisie à partir de l’onglet de données ou selon la liaison de données spécifiée. NPR-29239 : correctif pour CQ-4266856.
 
-#### Forms – Communication interactive {#forms-interactive-communication}
+#### Forms - Communication interactive {#forms-interactive-communication}
 
 * Lorsqu’un caractère apostrophe est ajouté, les champs préremplis de la lettre apparaissent comme caractères ASCII au lieu de l’alphabet classique. NPR-28863 : correctif pour CQ-4262900
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer}
 
-* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
+* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
 
 ## Correctifs et Feature Packs inclus dans les packs de correctifs cumulés précédents {#hotfixes-and-feature-packs-included-in-previous-cumulative-fix-packs}
 
@@ -116,7 +116,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Prise en charge de l’API MS Translator v3.0 pour AEM 6.2
 * Ajout d’un message dans le journal après l’installation réussie du package pour tous les SP, CFP et HF.
 
-### Assets {#assets}
+### Ressources {#assets}
 
 * Impossible de renommer le dossier DAM en l’absence de l’autorisation de modification d’ACL. NPR-27555 : correctif pour CQ-104652
 * L’outil d’édition des préréglages d’image ne répond pas dans 6.2.1 CFP 17 et versions ultérieures. NPR-28147 : correctif pour CQ-4261041
@@ -141,7 +141,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Activez la prise en charge du service MS Translator dans AEM 6.3 après la mise à niveau de MS Translator vers l’API v3.0. NPR-28123 : correctif pour CQ-4259096
 
-### IU – Foundation {#ui-foundation}
+### IU - Fondation {#ui-foundation}
 
 * Le calendrier des sites OOTB affiche des dates incorrectes. NPR-28392
 
@@ -156,7 +156,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Le plug-in du package Granite sélectionne la dépendance d’une version inférieure d’org.apache.sling.i18n. Correctif pour CQ-4263245
 * Le lot com.adobe.cq.com.adobe.cq.ui.commons est supprimé lors de l’installation du dernier CFP après 6.2SP1-CFP15. Correctif pour CQ-4258808
 
-### Forms {#forms-1}
+### Formulaires {#forms-1}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -168,7 +168,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-1}
 
-* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
+* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
 
 ### Lots OSGI et packages de contenu inclus {#osgi-bundles-and-content-packages-included}
 
@@ -192,7 +192,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Correction d’une fuite de session dans ReplicationEventListener.
 * Ajout de la prise en charge de la redirection vers le composant de page principal.
 
-### Assets {#assets-1}
+### Ressources {#assets-1}
 
 * Les processus Camera RAW sont bloqués pendant les périodes d’assimilation massive, ce qui finit par bloquer tout traitement du flux de travail. NPR-26990 : correctif pour NPR-23860
 * La fonctionnalité de téléchargement exploite AEM Assets par le biais du servlet de téléchargement de ressources, ce qui permet aux utilisateurs anonymes de télécharger toutes les ressources. NPR-27054, correctif pour CQ-4254732
@@ -212,7 +212,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * com.day.cq.personalization.impl.BrandsRetriever parcourt l’arbre entier pour recueillir les marques disponibles. NPR-27060 : correctif pour CQ-4255790
 
-### WCM – Composants Foundation {#wcm-foundation-components}
+### WCM - Composants Foundation {#wcm-foundation-components}
 
 * Problème de fonctionnalité de recherche avec le composant de liste Foundation. NPR-26817 : correctif pour CQ-4250324
 
@@ -228,17 +228,17 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Fuite de session JCR dans ReplicationListener. NPR-27063 : correctif pour CQ-4232088
 
-### Forms {#forms-2}
+### Formulaires {#forms-2}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
 ### Package de modules complémentaires Forms {#forms-add-on-package-2}
 
-* Aucun nouveau correctif AEM Forms dans le module complémentaire de Forms.
+* Aucun nouveau correctif AEM Forms dans le module complémentaire de Forms.
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-2}
 
-* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
+* Aucun nouveau correctif AEM Forms dans le programme d’installation de Forms JEE.
 
 #### Lots OSGI et packages de contenu inclus {#osgi-bundles-and-content-packages-included-1}
 
@@ -287,7 +287,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Rendu vide lors de l’utilisation de l’option d’exclusion. NPR-25295 : correctif pour CQ-4246792
 * Les expériences supprimées de l’environnement de création ne sont jamais supprimées du site de publication lors de l’activation de la page. NPR-24869 : correctif pour CQ-4247832
 
-### DAM – Client DM {#dam-dm-client}
+### DAM - Client DM {#dam-dm-client}
 
 * (Chrome, Firefox) VideoPlayer ignore les clics de souris sur les périphériques tactiles. Correctif pour CQ-4247370
 
@@ -305,13 +305,13 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Le lot cq -social-as-provider ne démarre pas avec les versions 3.x de mongo driver. NPR-26271 : correctif pour CQ-4252710
 
-### IU – Foundation {#ui-foundation-1}
+### IU - Fondation {#ui-foundation-1}
 
 * Mise à jour vers jqueryui clientlib v1.12.1. NPR-25090 : correctif pour Granite-21981, CQ-4248897
 
 * (Omni-recherche) : la propriété « Titre » est vulnérable au cross-site scripting (XSS) dans Sites. NPR-24994 : correctif pour Granite-19933
 
-### Forms {#forms-3}
+### Formulaires {#forms-3}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -325,7 +325,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Ressources de formulaire sans rapport signalées comme références pendant la publication de la page. NPR-26167 : correctif pour CQ-4251004
 
-### Forms – Programme d’installation JEE {#forms-jee-installer-3}
+### Forms - Programme d’installation JEE {#forms-jee-installer-3}
 
 #### Document Security {#document-security}
 
@@ -403,7 +403,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les opérations de lecture des métadonnées ne sont pas terminées. NPR-24240 : correctif pour Granite-19866
 * Mettez à jour Jetty vers la version 9.4.11.v20180605 pour corriger les vulnérabilités. NPR-25033 : correctif pour Granite-22120
 
-### WCM – Composants Foundation {#wcm-foundation-components-1}
+### WCM - Composants Foundation {#wcm-foundation-components-1}
 
 * PageComparator émet ClassCastException lors du tri des pages. NPR-24123 : correctif pour CQ-4244048
 * La fonctionnalité Afficher/Masquer du composant déroulant de formulaire ne fonctionne pas comme prévu. NPR-24562 : correctif pour CQ-4222853
@@ -414,7 +414,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * (IU classique) Le composant affiche les valeurs par défaut même si le service de modèle de données de formulaire associé est défini sur un champ vide. NPR-21903 : correctif pour GRANITE-19744
 * Lancement de NPE multichamp lorsque FormData n’est pas présent pour la requête. NPR-24513 : correctif pour Granite-21055
 
-## Forms {#forms-4}
+## Formulaires {#forms-4}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -500,7 +500,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les étiquettes des différents modes apparaissent avec les icônes. NPR-23275
 * Erreur « Valeur du sélecteur de récursivité non valide » lors de la migration d’un composant d’AEM 6.0 vers AEM 6.2. NPR-23503 : correctif pour CQ-4241258
 
-### Communities {#communities-1}
+### Communautés {#communities-1}
 
 * Les notifications par web et par email ne sont pas déclenchées en raison d’un échec d’envoi du message aux groupes. NPR-23447 : correctif pour CQ-4242880
 
@@ -513,7 +513,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * L’utilisation d’Omni-recherche avec une requête de trait d’union renvoie une erreur de serveur. NPR-22999 : correctif pour Granite-19674
 * DatePicker ne prend pas en charge la définition manuelle d’un conseil de type externe par un champ masqué. La modification de l’indicateur de type génère une erreur de conversion. NPR-23333 : correctif pour Granite-21194
 
-### WCM – Composants Foundation {#wcm-foundation-components-2}
+### WCM - Composants Foundation {#wcm-foundation-components-2}
 
 * Le composant CAPTCHA a été abandonné pour une meilleure sécurité. Si vous utilisez le composant CAPTCHA, le message « Le composant Captcha est obsolète et ne doit plus être utilisé. » s’affiche après l’installation de la version 6.2 SP2-CFP15 ou ultérieure. Le composant AEM peut être personnalisé de manière inclure reCAPTCHA pour une meilleure sécurité. NPR-22151 : correctif pour CQ-4220052
 * Le composant « Tableau » de WCM Foundation est vulnérable au cross-site scripting par stockage. NPR-23206 : correctif pour CQ-4240760
@@ -522,7 +522,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Cross-site scripting (XSS) dans les liens des Projets de l’IU d’administration. NPR-23272 : correctif pour CQ-4241795
 
-## Forms {#forms-5}
+## Formulaires {#forms-5}
 
 ### Package de modules complémentaires Forms {#forms-add-on-package-5}
 
@@ -539,7 +539,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Impossible d’appliquer l’extension Reader à Adobe PDF. NPR-23067
 
-#### Gestionnaire de formulaires {#forms-manager}
+#### Forms Manager {#forms-manager}
 
 * Les formulaires incorporés dans Site ne sont pas publiées lors de la republication de la page de Site. NPR-23014 : correctif pour CQ-4236566
 
@@ -643,7 +643,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * (IU classique) Le composant affiche les valeurs par défaut même si le service de modèle de données de formulaire associé est défini sur un champ vide. NPR-21903 : correctif pour GRANITE-19744
 
-### WCM – Composants Foundation {#wcm-foundation-components-3}
+### WCM - Composants Foundation  {#wcm-foundation-components-3}
 
 * Erreur lors de la publication d’une page Live Copy qui pointe vers une page d’importateur dans Adobe Campaigns. NPR-22470 : correctif pour CQ-4237164
 * Erreurs JavaScript lors de l’ouverture de l’éditeur Fragments d’expérience. NPR-22598 : correctif pour CQ-4238415
@@ -652,11 +652,11 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Le service de notification par courrier électronique de workflow Day CQ déclenche un courrier électronique par nœud Mongo pour les notifications WorkflowCompleted et WorkflowAborted. NPR-22486 : correctif pour CQ-4238172
 
-## Forms {#forms-6}
+## Formulaires {#forms-6}
 
 ### Package de modules complémentaires Forms {#forms-add-on-package-6}
 
-Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
+Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
 #### Formulaires adaptatifs {#adaptive-forms-4}
 
@@ -722,11 +722,11 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * la propriété jcr est manquante pour l’ID utilisateur initiateur lors de la création du projet de traduction. NPR-21715 : correctif pour CQ-4230713
 
-### WCM – Composants Foundation {#wcm-foundation-components-4}
+### WCM - Composants Foundation {#wcm-foundation-components-4}
 
 * La fonctionnalité Afficher/Masquer du composant déroulant de formulaire ne fonctionne pas comme prévu. NPR-22164 : correctif pour CQ-4235288
 
-## Forms {#forms-7}
+## Formulaires {#forms-7}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
@@ -744,7 +744,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-7}
 
-#### Incohérence affectant le service {#assembler-service}
+#### Incohérence affectant le service assembleur {#assembler-service}
 
 * Le fichier PDF généré à l’aide de la version 6.2.0-ASM-1017-003 est endommagé. NPR-21427 : correctif pour CQ-4228046
 
@@ -814,7 +814,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Cross-site scripting (XSS) dans l’éditeur de métadonnées DAM. NPR-21434 : correctif pour CQ-83472
 * Plusieurs fichiers SWF vulnérables au cross-site scripting (XSS). NPR-20612 : correctif pour CQ-4213297
 
-## Forms {#forms-8}
+## Formulaires {#forms-8}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
@@ -929,7 +929,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Correction de problèmes liés aux requêtes Curl Head pour les ressources prêtes à l’emploi dans AEM. NPR-20511 : correctif pour CQ-4221520 et CQ-103024
 
-## Forms {#forms-9}
+## Formulaires {#forms-9}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
@@ -950,7 +950,7 @@ Les principaux aspects pour AEM Forms sont les suivants :
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-9}
 
-#### Incohérence affectant le service {#assembler-service-1}
+#### Incohérence affectant le service assembleur {#assembler-service-1}
 
 * docConvertor ne parvient pas à produire PDF/A avec l’erreur « (Le préfixe « stEvt » pour l’élément « stEvt:action » n’est pas lié » ). NPR-21032 : correctif pour CQ-4222540
 * Une exception est générée avec le nom java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE lors de l’appel du service OMPFSubmission/PDFA/PDFtoPDFA. Ceci empêche de terminer le processus de vérification de signature de courte durée jusqu’au redémarrage du serveur. NPR-20792
@@ -1019,11 +1019,11 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Lorsque Datepicker est un champ dans un groupe de plusieurs champs, les valeurs enregistrées dans les champs de date ne sont pas conservées lors de la modification du composant. NPR-20077 : correctif pour GRANITE-19147
 * Les requêtes antérieures ne sont pas abandonnées si des requêtes consécutives sont déclenchées, ce qui entraîne des résultats incorrects. NPR-20397 : correctif pour GRANITE-19306
 
-### WCM – Composants Foundation {#wcm-foundation-components-6}
+### WCM - Composants Foundation {#wcm-foundation-components-6}
 
 * La propriété ImageMap existe toujours même après la suppression des images du composant d’éditeur statique d’images multiples. NPR-20142 : correctif pour CQ-4222982
 
-## Forms {#forms-10}
+## Formulaires {#forms-10}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
@@ -1100,7 +1100,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Activation de la publication de balises à partir d’AEM dans Brand Portal depuis la console tagadmin/tagging. NPR-20271
 
-## Forms {#forms-11}
+## Formulaires {#forms-11}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
@@ -1114,7 +1114,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Amélioration des Formulaires adaptatifs pour joindre un PDF comme pièce jointe dans Safari. Pour prendre en charge la même fonctionnalité dans des formulaires existants, nous devons modifier la configuration dans le widget de pièce jointe et mettre à jour la valeur application/pdf au lieu de .pdf dans « Types de fichiers pris en charge ». NPR-19623
 
-#### Gestionnaire de formulaires {#forms-manager-1}
+#### Forms Manager {#forms-manager-1}
 
 * Si validationState n’est pas défini sur un champ de formulaire adaptatif et que le événement elementFocusChanged se produit, un événement d’erreur (errorState) est renvoyé au serveur Adobe Analytics. NPR-19513
 
@@ -1190,7 +1190,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les utilisateurs ne peuvent pas filtrer les notifications dans la boîte de réception par utilisateur/groupe dans l’interface utilisateur Classic de la boîte de réception. NPR-19122 : correctif pour CQ-4215374
 * La zone cliquable ne conserve pas les coordonnées sélectionnées dans le composant d’image HTL. NPR-18911 : CQ-4211584
 
-## Forms {#forms-12}
+## Formulaires {#forms-12}
 
 * Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -1211,7 +1211,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 >* La recherche ne fonctionne pas pour le contenu dynamique (comme les valeurs d’élément du dictionnaire de données ou les valeurs de variable) dans le fragment de document.
 
 
-#### Gestionnaire de formulaires {#forms-manager-2}
+#### Forms Manager {#forms-manager-2}
 
 * Les propriétés de Schéma XML d’Adaptive Forms ne peuvent pas être modifiées après l’application de CFP6 à AEM 6.2. Correctif pour CQ-4219684
 * Tous les services du lot principal AEM Forms Manager ne sont pas démarrés lors du redémarrage du serveur. Correctif pour CQ-4217014
@@ -1304,7 +1304,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Activation de la publication de balises à partir d’AEM dans Brand Portal depuis la console tagadmin/tagging. CQ-4212165
 
-## Forms {#forms-13}
+## Formulaires {#forms-13}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -1323,6 +1323,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 >
 >* Un copier-coller de Word / Web vers l’éditeur de texte CM affiche un saut de ligne dans le contenu. NPR-19530
 >* Le contenu sans saut de ligne dans l’éditeur de texte CM n’est pas encapsulé. NPR-19449
+
 >
 >Ces questions seront abordées dans un prochain CFP.
 
@@ -1333,11 +1334,11 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 * Le script destiné à modifier le titre du bouton lors de l’initialisation de l’événement du panneau guideroot ne fonctionne pas. NPR-18476
 * La barre de défilement n’est pas visible dans le panneau de droite pour les règles créées dans l’éditeur de règles. NPR-18716
 
-#### Application AEM Forms {#aem-forms-app}
+#### Application AEM Forms {#aem-forms-app}
 
 * Les formulaires ne sont pas affichés correctement dans l’application AEM Forms en mode hors ligne ou lorsqu’elle n’est pas connectée au réseau. CQ-4218368
 
-### Programme d’installation de Forms JEE {#forms-jee-installer-13}
+### Programme d’installation de Forms JEE  {#forms-jee-installer-13}
 
 #### Service PDFG {#pdfg-service-3}
 
@@ -1419,7 +1420,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Lors du rendu d’un composant de l’image HTL, le nom de fichier dans l’URL est renommé, ce qui produit une URL endommagée. NPR-17908 ; correctif pour CQ-4211587
 * Impossible de quitter les propriétés de la page après avoir apporté des modifications. NPR-17832 ; correctif pour CQ-96110
 
-## Forms {#forms-14}
+## Formulaires {#forms-14}
 
 Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir [Versions d’AEM Forms](aem-forms-releases.md).
 
@@ -1437,7 +1438,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * L’interface utilisateur AEM Forms répertorie toutes les ressources dans le premier ordre le plus ancien. Les utilisateurs ne sont pas en mesure de réorganiser les ressources dans le premier ordre le plus récent. NPR-18451
 
-### Programme d’installation de Forms JEE {#forms-jee-installer-14}
+### Programme d’installation de Forms JEE  {#forms-jee-installer-14}
 
 **Service Output**
 
@@ -1504,11 +1505,11 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Vulnérabilité XSS dans la sortie générée par HTMLRendererServlet. NPR-17136
 * Requête visant à empêcher la divulgation des versions AEM dans la page de flux de syndication Web d’AEM. NPR-16219
 
-### Forms {#forms-15}
+### Formulaires {#forms-15}
 
 #### Package de modules complémentaires Forms {#forms-add-on-package-15}
 
-Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
+Les correctifs d’AEM Forms sont fournis par le biais de packages de modules complémentaires et d’autres programmes d’installation de correctifs fournis avec la version. Pour plus d’informations, voir Versions d’AEM Forms.
 
 **Formulaires adaptatifs**
 
@@ -1650,7 +1651,7 @@ La console de workflow des projets affiche une exception NullPointerException su
 * Aucune validation de type MIME n’est réalisée lorsque les binaires des fichiers sont transférés vers AEM. NPR-16617
 * Problèmes de téléchargement d’images d’avatar pour les utilisateurs LDAP. NPR-16561
 
-### Forms {#forms-16}
+### Formulaires {#forms-16}
 
 #### Package de modules complémentaires Forms {#forms-add-on-package-16}
 
@@ -1696,7 +1697,7 @@ La console de workflow des projets affiche une exception NullPointerException su
 
 * Un fichier spécifique n’est pas étendu à Reader sur l’installation OSGI d’AEM Forms. NPR-16625
 
-#### Programme d’installation de Forms JEE {#forms-jee-installer-16}
+#### Programme d’installation de Forms JEE  {#forms-jee-installer-16}
 
 **Base**
 
@@ -1781,7 +1782,7 @@ Les principaux aspects du CFP3 sont les suivants :
 
 * La tâche de traduction de synchronisation n’est pas déclenchée automatiquement et l’interrogation d’AEM ne se produit pas sans interroger les projets de traduction. NPR-15163 : correctif pour CQ-90856
 
-### Forms {#forms-17}
+### Formulaires {#forms-17}
 
 #### Package de modules complémentaires Forms {#forms-add-on-package-17}
 
@@ -1827,7 +1828,7 @@ Les principaux aspects du CFP3 sont les suivants :
 
 * L’analyse de code statique du service Barcoded Forms (BCF) signale des problèmes. NPR-13855
 
-#### Programme d’installation de Forms JEE {#forms-jee-installer-17}
+#### Programme d’installation de Forms JEE  {#forms-jee-installer-17}
 
 **Process Management – Espace de travail HTML**
 
@@ -1964,7 +1965,7 @@ Les principaux aspects du pack de correctifs cumulés 2 sont les suivants :
 
 * Paramètre de jeton CSRF ajouté aux formulaires avec une méthode GET. NPR-15229
 
-### Forms {#forms-18}
+### Formulaires {#forms-18}
 
 #### Package de modules complémentaires Forms {#forms-add-on-package-18}
 
@@ -1987,7 +1988,7 @@ Les principaux aspects du pack de correctifs cumulés 2 sont les suivants :
 * Le service de préremplissage ne fonctionne pas pour XDP Forms. NPR-15466
 * Lors du stockage de brouillons et d’envois de formulaires adaptatifs dans la base de données, l’état du formulaire adaptatif est corrompu lors de la perte de connectivité à la base de données pour une quelque raison que ce soit (par exemple, après une longue période d’inactivité). NPR-15297
 
-#### Programme d’installation de Forms JEE {#forms-jee-installer-18}
+#### Programme d’installation de Forms JEE  {#forms-jee-installer-18}
 
 `**Core**`
 
@@ -1997,7 +1998,7 @@ Les principaux aspects du pack de correctifs cumulés 2 sont les suivants :
 
 * Lors de l’utilisation du service Output pour fusionner un formulaire spécifique avec un contenu dataxml, le temps de réponse est 20 fois plus long que la même opération réalisée avec le serveur ES4 SP1. NPR-15283
 
-#### Application AEM Forms {#aem-forms-app-1}
+#### Application AEM Forms {#aem-forms-app-1}
 
 * Lors de la récupération de tâches non enregistrées, le message affiché lors de la récupération de tâches non enregistrées doit être plus clair afin de réduire les erreurs utilisateur. NPR-15377
 * L’application AEM Forms ne rend pas les formulaires créés à partir de modèles personnalisés. NPR-15892
@@ -2176,7 +2177,7 @@ Les principaux aspects d’AEM 6.2 SP2-CFP1 sont les suivants :
 
 * La fonctionnalité CORS (CoreCross Origine Resource Sharing) en tant que filtre de servlet n’est pas activée pour Jboss+. NPR-13050
 
-## Instructions de téléchargement du CFP via distribution de logiciels {#download-instructions-for-cfp-via-package-share}
+## Instructions de téléchargement relatives aux CFP via la Distribution de logiciels {#download-instructions-for-cfp-via-package-share}
 
 >[!NOTE]
 >
@@ -2186,7 +2187,7 @@ Vous pouvez télécharger le module CFP directement à partir de distribution de
 
 1. Ouvrez [Distribution de logiciels](https://experience.adobe.com/downloads). Vous avez besoin d’un Adobe ID pour vous connecter à la Distribution de logiciels.
 1. Appuyez sur **[!UICONTROL Adobe Experience Manager]** disponible dans le menu d’en-tête.
-1. Appuyez sur le nom du package, sélectionnez **[!UICONTROL Accepter les conditions du CLUF]**, puis appuyez sur **[!UICONTROL Télécharger]**.
+1. Appuyez sur le nom du package, sélectionnez **[!UICONTROL Accepter les termes du contrat de licence utilisateur final]**, puis appuyez sur **[!UICONTROL Télécharger]**.
 
 ## Instructions d’installation pour CFP {#installation-instructions-for-cfp}
 
@@ -2242,7 +2243,7 @@ Le CFP peut être automatiquement installé dans une instance en cours d’exéc
 >
 >Depuis AEM 6.2 SP1-CFP1, le niveau de journal dans Jackrabbit FileVault est passé d’INFO à DEBUG pour la plupart des messages. Pour obtenir les journaux d’installation d’un package de contenu installé sur AEM 6.2 SP1-CFP1 ou une version ultérieure, activez le niveau de journal DEBUG pour `org.apache.jackrabbit.vault.packaging.impl`.
 
-### Installation d’AEM Forms {#install-forms}
+### Installation d’AEM Forms {#install-forms}
 
 >[!NOTE]
 >
@@ -2262,7 +2263,7 @@ Le CFP peut être automatiquement installé dans une instance en cours d’exéc
 
 Les correctifs dans AEM Forms JEE sont fournis dans un programme d’installation distinct. Pour plus d’informations sur l’installation d’un CFP pour AEM Forms sur JEE, reportez-vous à [Installation d’un CFP pour AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
-#### Programme d’installation du Concepteur Forms  {#designer-installer}
+#### Programme d’installation du Concepteur Forms {#designer-installer}
 
 1. Pour installer la mise à jour, exécutez le fichier Designer6.2.0_&lt;Langue>_Cumulative_QF.msp.
 1. Sur l’écran de bienvenue, cliquez sur **Mettre à jour**. L’installation démarre.
@@ -2450,5 +2451,5 @@ Le texte suivant répertorie les lots OSGI et les packages de contenu inclus dan
 >* [Notes de mise à jour d’AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [Page de produits AEM ](http://www.adobe.com/fr/solutions/web-experience-management.html)
 >* [Documentation d’AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Abonnement](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) aux [mises à jour de produits prioritaires d’Adobe](https://docs.adobe.com/content/help/fr/release-notes/experience-cloud/current.html)
+>* [Mises à jour de produit prioritaires par Adobe](https://docs.adobe.com/content/help/fr/release-notes/experience-cloud/current.html)
 
