@@ -1,10 +1,9 @@
 ---
 title: Pack de correctifs cumulés AEM 6.2
-description: Notes de mise à jour du pack de correctifs cumulatifs Experience Manager 6.2. Approfondissez la question des problèmes résolus par divers packs de correctifs cumulatifs dans les composants Experience Manager.
-exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
+description: Notes de mise à jour du pack de correctifs cumulés AEM 6.2.
+source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
 workflow-type: tm+mt
-source-wordcount: '19969'
+source-wordcount: '19953'
 ht-degree: 99%
 
 ---

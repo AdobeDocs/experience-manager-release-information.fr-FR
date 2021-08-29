@@ -3,14 +3,14 @@ title: Mises à jour de la documentation précédente
 description: Cette page répertorie les modifications et mises à jour importantes de la documentation d’ [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 83a535170db2fb2c2d4b306710935298c2ee8cf5
 workflow-type: tm+mt
-source-wordcount: '9351'
-ht-degree: 100%
+source-wordcount: '9196'
+ht-degree: 93%
 
 ---
 
-# Mises à jour de la documentation précédente {#previous-documentation-updates}
+# Mises à jour de la documentation précédente{#previous-documentation-updates}
 
 Cette page répertorie les modifications et mises à jour importantes de la documentation d’[!DNL Adobe Experience Manager]. Vous pouvez afficher ici les [mises à jour récentes de la documentation](documentation-updates.md).
 
@@ -26,12 +26,12 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
    <tr>
    <td>12 décembre 2019</td> 
    <td>Prévisualisation de ressources 3D<br /> </td> 
-   <td><p>AEM prend en charge le chargement, la diffusion et l’aperçu interactif des ressources 3D dans le cadre du processus de création. La visionneuse 3D interactive est disponible sur la page de détails de la ressource dans AEM. La visionneuse comprend, entre autres, un ensemble de contrôles de caméra interactifs qui permettent d’orbiter, de zoomer et de faire un panoramique sur la ressource 3D.</p> <p>Voir la section <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/using/previewing-3d-assets.html" target="_blank">Prévisualisation de ressources 3D</a>.</p> </td> 
+   <td><p>AEM prend en charge le chargement, la diffusion et l’aperçu interactif des ressources 3D dans le cadre du processus de création. La visionneuse 3D interactive est disponible sur la page de détails de la ressource dans AEM. La visionneuse comprend, entre autres, un ensemble de contrôles de caméra interactifs qui permettent d’orbiter, de zoomer et de faire un panoramique sur la ressource 3D.</p> <p>Voir la section <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=en" target="_blank">Prévisualisation de ressources 3D</a>.</p> </td> 
   </tr>
   <tr>
    <td>12 décembre 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/release-notes/sp-release-notes.html">AEM 6.5 Service Pack 3</a> est disponible.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/sp-release-notes.html?lang=en">AEM 6.5 Service Pack 3</a> est disponible.</td> 
   </tr>
   <tr>
    <td>5 décembre 2019</td> 
@@ -51,17 +51,17 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>18 octobre 2019<br /> </td> 
    <td>Gestion de l’expérience découplée<br /> </td> 
-   <td>Les fonctionnalités du <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/developing/headless/spas/spa-ssr.html#remote-content-renderer-configuration">Moteur de rendu de contenu distant</a>, utilisé pour le rendu côté serveur des applications d’une seule page, ont été documentées.<br /> </td> 
+   <td>Les fonctionnalités du <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=en">Moteur de rendu de contenu distant</a>, utilisé pour le rendu côté serveur des applications d’une seule page, ont été documentées.<br /> </td> 
   </tr>
   <tr>
    <td>11 octobre 2019</td> 
    <td>Activity Map</td> 
-   <td><p>En raison de modifications de sécurité dans l’API Adobe Analytics, il n’est plus possible d’utiliser la version d’Activity Map incluse dans AEM. Le <a href="https://docs.adobe.com/content/help/fr-FR/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">plug-in ActivityMap fourni par Adobe Analytics</a> doit désormais être utilisé. </p> </td> 
+   <td><p>En raison de modifications de sécurité dans l’API Adobe Analytics, il n’est plus possible d’utiliser la version d’Activity Map incluse dans AEM. Le <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=en" target="_blank">plug-in ActivityMap fourni par Adobe Analytics</a> doit désormais être utilisé. </p> </td> 
   </tr>
   <tr>
    <td>10 octobre 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager version 2019.10.0 a été publié le 10 octobre 2019.</p> <p>Reportez-vous aux <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-cloud-manager/using/release-notes/release-notes-current.html">Notes de mise à jour de la version 2019.10.0</a> qui mettent en évidence <i>les nouveautés</i> et les mises à jour sur les étapes de déploiement et la gestion des versions de projet de niveau expert.<br /> </p> </td> 
+   <td><p>Cloud Manager version 2019.10.0 a été publié le 10 octobre 2019.</p> <p>Reportez-vous aux <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en">Notes de mise à jour de la version 2019.10.0</a> qui mettent en évidence <i>les nouveautés</i> et les mises à jour sur les étapes de déploiement et la gestion des versions de projet de niveau expert.<br /> </p> </td> 
   </tr>
   <tr>
    <td>8 octobre 2019</td> 
@@ -86,17 +86,17 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>25 septembre 2019</td> 
    <td>Recherche d’AEM Assets<br /> </td> 
-   <td>Les nouveaux contenus relatifs à la recherche et à la découverte de ressources constituent un guichet unique pour obtenir des informations sur l’utilisation, la configuration, le dépannage, les restrictions, ainsi que des conseils. Consultez <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/using/search-assets.html" target="_blank">recherche de ressources</a>.</td> 
+   <td>Les nouveaux contenus relatifs à la recherche et à la découverte de ressources constituent un guichet unique pour obtenir des informations sur l’utilisation, la configuration, le dépannage, les restrictions, ainsi que des conseils. Consultez <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=en" target="_blank">recherche de ressources</a>.</td> 
   </tr>
   <tr>
    <td>25 septembre 2019</td> 
    <td>Scene7 - Workflow de retraitement des ressources<br /> </td> 
-   <td><p>Vous pouvez désormais retraiter des ressources dans un dossier qui comporte déjà un profil de traitement existant que vous avez modifié ultérieurement.</p> <p>Voir <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">Retraitement des ressources dans un dossier</a>.<br /> </p> </td> 
+   <td><p>Vous pouvez désormais retraiter des ressources dans un dossier qui comporte déjà un profil de traitement existant que vous avez modifié ultérieurement.</p> <p>Voir <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Retraitement des ressources dans un dossier</a>.<br /> </p> </td> 
   </tr>
   <tr>
    <td>25 septembre 2019</td> 
    <td>Intégration des visionneuses Dynamic Media à Adobe Analytics et Adobe Launch</td> 
-   <td><p>L’extension Visionneuses Dynamic Media pour Adobe Launch, ainsi que la version 5.13 des Visionneuses Dynamic Media, permettent aux clients de Dynamic Media, Adobe Analytics et Adobe Launch d’utiliser des événements et des données spécifiques aux visionneuses Dynamic Media dans leur configuration Adobe Launch.</p> <p>Reportez-vous à la section <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/dynamic/launch.html" target="_blank">Intégration des visionneuses Dynamic Media avec Adobe Analytics et Adobe Launch</a>. </p> </td> 
+   <td><p>L’extension Visionneuses Dynamic Media pour Adobe Launch, ainsi que la version 5.13 des Visionneuses Dynamic Media, permettent aux clients de Dynamic Media, Adobe Analytics et Adobe Launch d’utiliser des événements et des données spécifiques aux visionneuses Dynamic Media dans leur configuration Adobe Launch.</p> <p>Reportez-vous à la section <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=en" target="_blank">Intégration des visionneuses Dynamic Media avec Adobe Analytics et Adobe Launch</a>. </p> </td> 
   </tr>
   <tr>
    <td>19 septembre 2019</td> 
@@ -136,12 +136,12 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>25 juillet 2019</td> 
    <td>Fonctionnalité AEM Assets sous licences différentes</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=fr" target="_blank">La liste des fonctionnalités</a> d’AEM Assets disponibles avec une DAM autonome par rapport à celles d’AEM MediaLibrary est mise à jour pour la version 6.5 d’AEM.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">La liste des fonctionnalités</a> d’AEM Assets disponibles avec une DAM autonome par rapport à celles d’AEM MediaLibrary est mise à jour pour la version 6.5 d’AEM.<br /> </td> 
   </tr>
   <tr>
    <td>12 juillet 2019</td> 
    <td>Téléchargement de fichiers dans Dynamic Media Classic</td> 
-   <td>La rubrique <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-classic/using/upload-publish/uploading-files.html#upload-options">Télécharger les options de la tâche</a> de Dynamic Media Classic a été réécrite et mise à jour.</td> 
+   <td>La rubrique <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=en#upload-options">Télécharger les options de la tâche</a> de Dynamic Media Classic a été réécrite et mise à jour.</td> 
   </tr>
   <tr>
    <td>8 juillet 2019</td> 
@@ -186,17 +186,17 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>14 mai 2019</td> 
    <td>Guide de référence des visionneuses</td> 
-   <td>Le préchargement des modificateurs pour le lecteur des visionneuses <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">Video</a>, <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> est désormais documenté.</td> 
+   <td>Le préchargement des modificateurs pour le lecteur des visionneuses <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=en">Video</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=en">Video360</a> est désormais documenté.</td> 
   </tr>
   <tr>
    <td>14 mai 2019</td> 
-   <td>Dynamic Media Classic (anciennement Scene7)</td> 
-   <td>Le Guide d’utilisation d’Adobe Scene7 est désormais dénommé <i>Adobe Dynamic Media Classic</i>. Reportez-vous à la <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-classic/using/home.html">documentation de Dynamic Media Classic</a>.<br /> </td> 
+   <td>Dynamic Media Classic</td> 
+   <td>Le Guide d’utilisation d’Adobe Scene7 est désormais dénommé <i>Adobe Dynamic Media Classic</i>. Reportez-vous à la <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en">documentation de Dynamic Media Classic</a>.<br /> </td> 
   </tr>
   <tr>
    <td>13 mai 2019</td> 
    <td>API IS/IR</td> 
-   <td>Ajout de nouvelles valeurs BFC (conversion au format de navigateur) à la <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">section de référence Attributs du catalogue d’images</a>.</td> 
+   <td>Ajout de nouvelles valeurs BFC (conversion au format de navigateur) à la <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=en">section de référence Attributs du catalogue d’images</a>.</td> 
   </tr>
   <tr>
    <td>8 mai 2019</td> 
@@ -206,7 +206,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>1er mai 2019</td> 
    <td>Guide de référence des visionneuses</td> 
-   <td><p>Nouvelle <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/assets/dynamic/360-video.html">documentation vidéo 360/VR</a>.</p> </td> 
+   <td><p>Nouvelle <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=en">documentation vidéo 360/VR</a>.</p> </td> 
   </tr>
   <tr>
    <td>18 avril 2019</td> 
@@ -235,7 +235,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] 6.4 {#aem-64}
+## [!DNL Adobe Experience Manager] 6.4 {#aem-64}
 
 <table> 
  <tbody>
@@ -252,12 +252,12 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>11 octobre 2019</td> 
    <td>Activity Map</td> 
-   <td><p>En raison de modifications de sécurité dans l’API Adobe Analytics, il n’est plus possible d’utiliser la version d’Activity Map incluse dans AEM. Le <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">plug-in ActivityMap fourni par Adobe Analytics</a> doit désormais être utilisé. </p> </td> 
+   <td><p>En raison de modifications de sécurité dans l’API Adobe Analytics, il n’est plus possible d’utiliser la version d’Activity Map incluse dans AEM. Le <a href="https://docs.adobe.com/content/help/fr-FR/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">plug-in ActivityMap fourni par Adobe Analytics</a> doit désormais être utilisé. </p> </td> 
   </tr>
   <tr>
    <td>25 septembre 2019</td> 
    <td>Scene7 - Workflow de retraitement des ressources</td> 
-   <td><p>Vous pouvez désormais retraiter des ressources dans un dossier qui comporte déjà un profil de traitement existant que vous avez modifié ultérieurement.</p> <p>Voir <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">Retraitement des ressources dans un dossier</a>.</p> </td> 
+   <td><p>Vous pouvez désormais retraiter des ressources dans un dossier qui comporte déjà un profil de traitement existant que vous avez modifié ultérieurement.</p> <p>Voir <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Retraitement des ressources dans un dossier</a>.</p> </td> 
   </tr>
   <tr>
    <td>19 septembre 2019</td> 
@@ -382,11 +382,6 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
    <td>Page de démarrage rapide pour les développeurs destinée à expliquer comment utiliser <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">les fragments d’expérience dans We.Retail</a>.<br /> </td> 
   </tr>
   <tr>
-   <td>16 novembre 2018</td> 
-   <td>AEM Assets 3D</td> 
-   <td>Ce Feature Pack pour AEM 6.4.2.0 assure la prise en charge des ressources Adobe Dimension (.dn) et GL Transmission Format (.glTF et .glb). Voir les <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/release-notes/aem3d-release-notes.html">notes de mise à jour AEM 3D</a>.</td> 
-  </tr>
-  <tr>
    <td>2 novembre 2018</td> 
    <td>AEM Screens</td> 
    <td>La documentation AEM Screens a été déplacée de la branche Sites vers la branche exclusive Screens. Voir le <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">Guide de l’utilisateur d’AEM Screens</a> pour accéder à une documentation complète et consolidée.</td> 
@@ -399,7 +394,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>25 octobre 2018</td> 
    <td>Protection de lien dynamique dans Dynamic Media</td> 
-   <td>Voir la section <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=fr#dynamic" target="_blank">Activation de la protection de lien dynamique dans Dynamic Media</a>.</td> 
+   <td>Voir la section <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=en" target="_blank">Activation de la protection de lien dynamique dans Dynamic Media</a>.</td> 
   </tr>
   <tr>
    <td>16 octobre 2018</td> 
@@ -434,7 +429,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>29 août 2018<br /> </td> 
    <td>AEM Assets</td> 
-   <td>Pour configurer les intégrations oAuth, le service de passerelle Adobe I/O est décrit dans les articles <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">Configuration de l’intégration d’AEM Assets</a> et <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">Configuration de l’intégration d’Assets avec Brand Portal</a>.</td> 
+   <td>Pour configurer les intégrations oAuth, le service de passerelle Adobe I/O est décrit dans les articles <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">Configuration de l’intégration d’AEM Assets</a> et <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=en" target="_blank">Configuration de l’intégration d’Assets avec Brand Portal</a>.</td> 
   </tr>
   <tr>
    <td>24 août 2018</td> 
@@ -459,22 +454,17 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>19 juillet 2018</td> 
    <td>API Image Serving et Image Rendering</td> 
-   <td><p>Les versions Image Serving 6.6.1 et Image Rendering 6.6.1 sont désormais disponibles pour Dynamic Media sur AEM et Dynamic Media Classic (Scene7).</p> <p>Voir la section <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html">À propos de cette version</a>.</p> </td> 
+   <td><p>Les versions Image Serving 6.6.1 et Image Rendering 6.6.1 sont désormais disponibles pour Dynamic Media sur AEM et Dynamic Media Classic.</p> <p>Voir la section <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=en">À propos de cette version</a>.</p> </td> 
   </tr>
   <tr>
    <td>17 juillet 2018</td> 
    <td>Guide de référence des visionneuses</td> 
-   <td><p>La version 5.10.1 des visionneuses est désormais disponible pour Dynamic Media sur AEM et Dynamic Media Classic (Scene7).</p> <p>Voir les <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html">notes de mise à jour des visionneuses (5.10.1)</a>.</p> </td> 
-  </tr>
-  <tr>
-   <td>16 juillet 2018</td> 
-   <td>AEM 3D Assets 3.0.1</td> 
-   <td>Ce Feature Pack pour AEM 6.4.1.0 apporte des fonctionnalités 3D à AEM Assets et Dynamic Media en mode hybride. Pour plus d’informations et des instructions concernant l’installation, consultez les <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/aem3d-release-notes.html">notes de mise à jour d’AEM 3D</a>.</td> 
+   <td><p>La version 5.10.1 des visionneuses est désormais disponible pour Dynamic Media sur AEM et Dynamic Media Classic.</p> <p>Voir les <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html?lang=en">notes de mise à jour des visionneuses (5.10.1)</a>.</p> </td> 
   </tr>
   <tr>
    <td>13 juillet 2018</td> 
    <td>Rapports vidéo</td> 
-   <td><p>Vous pouvez configurer les rapports vidéo pour plusieurs installations d’AEM à l’aide de Dynamic Media en mode hybride.</p> <p>Voir la <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/assets/dynamic/config-dynamic.html">Configuration des rapports vidéo</a>.</p> </td> 
+   <td><p>Vous pouvez configurer les rapports vidéo pour plusieurs installations d’AEM à l’aide de Dynamic Media en mode hybride.</p> <p>Voir la <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=en">Configuration des rapports vidéo</a>.</p> </td> 
   </tr>
   <tr>
    <td>11 juillet 2018</td> 
@@ -560,7 +550,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>25 avril 2018</td> 
    <td>Dynamic Media : visionneuse Carrousel</td> 
-   <td>La nouvelle <a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html" target="_blank">visionneuse Carrousel de Dynamic Media</a> affiche un carrousel d’images de bannières non zoomables, comportant des zones réactives cliquables. Cette visionneuse a pour objectif de mettre en œuvre une expérience de « carrousel d’achat » permettant aux utilisateurs de sélectionner une zone réactive de l’image de la bannière et d’accéder ainsi à une page d’aperçu ou d’informations détaillées de produits sur le site web du client. Elle est conçue pour fonctionner sur ordinateurs de bureau et périphériques mobiles.</td> 
+   <td>La nouvelle <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=en" target="_blank">visionneuse Carrousel de Dynamic Media</a> affiche un carrousel d’images de bannières non zoomables, comportant des zones réactives cliquables. Cette visionneuse a pour objectif de mettre en œuvre une expérience de « carrousel d’achat » permettant aux utilisateurs de sélectionner une zone réactive de l’image de la bannière et d’accéder ainsi à une page d’aperçu ou d’informations détaillées de produits sur le site web du client. Elle est conçue pour fonctionner sur ordinateurs de bureau et périphériques mobiles.</td> 
   </tr>
   <tr>
    <td>24 avril 2018<br /> </td> 
@@ -613,7 +603,7 @@ Les versions suivantes ont été déplacées :
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
+## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
 
 <table> 
  <tbody>
@@ -700,7 +690,7 @@ Les versions suivantes ont été déplacées :
   <tr>
    <td>29 août 2018</td> 
    <td>AEM Assets</td> 
-   <td>Pour configurer les intégrations oAuth, le service de passerelle Adobe I/O est décrit dans les articles <a href="https://helpx.adobe.com/fr/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">Configuration de l’intégration d’AEM Assets</a> et <a href="https://helpx.adobe.com/fr/experience-manager/6-3/assets/using/brand-portal-configuring-integration.html" target="_blank">Configuration de l’intégration d’Assets avec Brand Portal</a>.<br /> </td> 
+   <td>Pour configurer les intégrations oAuth, le service de passerelle Adobe I/O est décrit dans les articles <a href="https://helpx.adobe.com/fr/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">Configuration de l’intégration d’AEM Assets</a> et <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">Configuration de l’intégration d’Assets avec Brand Portal</a>.<br /> </td> 
   </tr>
   <tr>
    <td>24 août 2018</td> 
@@ -815,7 +805,7 @@ Les versions suivantes ont été déplacées :
   <tr>
    <td>14 novembre 2017 </td> 
    <td>Imagerie dynamique</td> 
-   <td><p>Forum aux questions sur la nouvelle fonctionnalité d’imagerie dynamique dans Dynamic Media Classic (Scene7)/Dynamic Media.<br /> </p> <p>Voir la section <a href="https://helpx.adobe.com/fr/experience-manager/6-3/assets/using/imaging-faq.html">Imagerie dynamique</a>.</p> </td> 
+   <td><p>Questions fréquentes sur la nouvelle fonctionnalité d’imagerie dynamique dans Dynamic Media Classic / Dynamic Media.<br /> </p> <p>Voir la section <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Imagerie dynamique</a>.</p> </td> 
   </tr>
   <tr>
    <td>13 octobre 2017</td> 
@@ -825,7 +815,7 @@ Les versions suivantes ont été déplacées :
   <tr>
    <td>11 octobre 2017</td> 
    <td>Mises à jour des fragments de contenu et Content Services - Feature Pack</td> 
-   <td>Cet ensemble de Feature Packs contient des mises à jour relatives aux fragments de contenu, à l’exportateur JSON et aux composants principaux. Voir la section <a href="https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/dynamic-media-featurepack-14410.html">Mises à jour des fragments de contenu et Content Services – Notes de mise à jour des Feature Packs</a>.</td> 
+   <td>Cet ensemble de Feature Packs contient des mises à jour relatives aux fragments de contenu, à l’exportateur JSON et aux composants principaux. Voir la section <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Mises à jour des fragments de contenu et Content Services – Notes de mise à jour des Feature Packs</a>.</td> 
   </tr>
   <tr>
    <td>3 octobre 2017</td> 
@@ -845,7 +835,7 @@ Les versions suivantes ont été déplacées :
   <tr>
    <td>5 septembre 2017</td> 
    <td>Feature Packs Dynamic Media 14410 et 18912</td> 
-   <td><p>Ce Feature Pack offre de nouvelles fonctionnalités d’automatisation et de diffusion pour les clients Dynamic Media. Il s’agit d’une mise à niveau pour les clients Dynamic Media Classic (Scene7) en transition vers Dynamic Media. </p> <p><a href="https://helpx.adobe.com/fr/experience-manager/6-3/assets/using/config-dynamic-fp-14410.html">Configuration de Dynamic Media avec les Feature Packs 14410 et 18912</a></p> </td> 
+   <td><p>Ce Feature Pack offre de nouvelles fonctionnalités d’automatisation et de diffusion aux clients Dynamic Media. Il s’agit d’une mise à niveau permettant aux clients Dynamic Media Classic de passer à Dynamic Media. </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuration de Dynamic Media avec les Feature Packs 14410 et 18912</a></p> </td> 
   </tr>
   <tr>
    <td>31 août 2017</td> 
@@ -1242,18 +1232,18 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>17 août 2016</td> 
-   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/config-dynamic.html#setting%2520up%2520authentication">Configuration de l’authentification</a></td> 
-   <td>Se rapporte à la <a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/config-dynamic.html">configuration de Dynamic Media</a>.<br /> Amélioration des étapes afin de clarifier la configuration de l’authentification.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuration de l’authentification</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">configuration de Dynamic Media</a>.<br /> Amélioration des étapes afin de clarifier la configuration de l’authentification.<br /> </td> 
   </tr>
   <tr>
    <td>17 août 2016</td> 
-   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">Configuration de l’agent de réplication</a></td> 
-   <td>Se rapporte à la <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html">configuration de Dynamic Media</a>.<br /> Amélioration des étapes pour clarifier la configuration de l’agent de réplication.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuration de l’agent de réplication</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">configuration de Dynamic Media</a>.<br /> Amélioration des étapes pour clarifier la configuration de l’agent de réplication.</td> 
   </tr>
   <tr>
    <td>17 août 2016</td> 
-   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/config-dynamic.html#troubleshooting%2520authentication">Résolution des problèmes d’authentification</a></td> 
-   <td>Se rapporte à la <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html">configuration de Dynamic Media</a>.<br /> Ajout de trois nouvelles rubriques de résolution des problèmes d’authentification.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Résolution des problèmes d’authentification</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">configuration de Dynamic Media</a>.<br /> Ajout de trois nouvelles rubriques de résolution des problèmes d’authentification.</td> 
   </tr>
   <tr>
    <td>4 août 2016</td> 
@@ -1303,8 +1293,8 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>22 décembre 2016</td> 
-   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/aem-assets-6-2-feature-pack-2.html">AEM Assets 6.2 FP2</a></td> 
-   <td>Dans ce Feature Pack, de nouvelles améliorations ont été apportées à l’évolutivité, aux performances et à la facilité d’utilisation à l’intention des utilisateurs d’AEM 6.2. Il comprend également la prise en charge des miniatures vidéo personnalisées et des fonctionnalités de gestion des couleurs des médias dynamiques.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">AEM Assets 6.2 FP2</a></td> 
+   <td>Dans ce Feature Pack, de nouvelles améliorations ont été apportées à l’évolutivité, aux performances et à la facilité d’utilisation à l’intention des utilisateurs d’AEM 6.2. Le Feature Pack prend également en charge les miniatures vidéo personnalisées et les fonctionnalités de gestion des couleurs de Dynamic Media.</td> 
   </tr>
   <tr>
    <td>22 novembre 2016</td> 
@@ -1313,12 +1303,12 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>18 novembre 2016</td> 
-   <td><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/config-dynamic.html#configuring%20dynamic%20media%20color%20management">Correction des couleurs Dynamic Media</a></td> 
-   <td>Cette section contient les instructions nécessaires pour modifier les couleurs dans les ressources Dynamic Media avant de les prévisualiser.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Correction des couleurs Dynamic Media</a></td> 
+   <td>Instructions sur la manière de corriger les couleurs des ressources Dynamic Media avant de les prévisualiser.</td> 
   </tr>
   <tr>
    <td>18 novembre 2016</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">Configuration de la réplication d’images</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuration de la réplication d’images</a></td> 
    <td>Se rapporte aux nouvelles instructions de configuration de la réplication d’images.</td> 
   </tr>
   <tr>
@@ -1328,7 +1318,7 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>3 novembre 2016</td> 
-   <td>Mise à jour des exigences techniques concernant Dynamic Media <a href="https://helpx.adobe.com/fr/experience-manager/aem-previous-versions.html">6.1</a>, <a href="https://helpx.adobe.com/fr/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a></td> 
+   <td>Mise à jour des exigences techniques concernant Dynamic Media <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a></td> 
    <td>Mise à jour des composants redistribuables de Visual Studio C++ pour les besoins techniques.</td> 
   </tr>
   <tr>
@@ -1343,23 +1333,13 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>17 octobre 2016</td> 
-   <td><a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/viewer-presets.html">Visionneuses Dynamic Media</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Visionneuses Dynamic Media</a></td> 
    <td>Les visionneuses AEM 6.2 sont désormais disponibles dans AEM 6.1.</td> 
   </tr>
   <tr>
    <td>11 octobre 2016</td> 
-   <td><a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20Dynamic%20Media%20Color%20Management">Gestion des couleurs de Dynamic Media</a></td> 
-   <td>Nouveau Feature Pack pour AEM 6.1 pour corriger les couleurs des ressources Dynamic Media avant de les prévisualiser.</td> 
-  </tr>
-  <tr>
-   <td>26 septembre 2016</td> 
-   <td>AEM Assets 3D</td> 
-   <td>Adobe Experience Manager 3D Assets est un nouveau module complémentaire d’AEM qui permet de charger, gérer, afficher et générer du contenu 3D. La prise en charge de l’affichage et du rendu est optimisée pour les objets individuels.
-    <ul> 
-     <li><a href="https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/aem3d-release-notes.html">Notes de mise à jour d’AEM Assets 3D</a></li> 
-     <li><a href="https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/aem3d-release-notes.html#InstallingandconfiguringAEM3D">Installation et configuration d’AEM 3D Assets</a></li> 
-     <li><a href="https://helpx.adobe.com/fr/experience-manager/6-2/assets/using/3d-assets.html">Utilisation des ressources 3D</a></li> 
-    </ul> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Gestion des couleurs de Dynamic Media</a></td> 
+   <td>Nouveau Feature Pack pour AEM 6.1 qui vous permet de colorier correctement les ressources Dynamic Media avant de les prévisualiser.</td> 
   </tr>
   <tr>
    <td>21 septembre 2016</td> 
@@ -1378,18 +1358,18 @@ Les versions suivantes ont été déplacées :
   </tr>
   <tr>
    <td>17 août 2016</td> 
-   <td><a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Setting%20up%20Authentication">Configuration de l’authentification</a></td> 
-   <td>Se rapporte à la <a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Configuration de Dynamic Media</a>.<br /> Amélioration des étapes afin de clarifier la configuration de l’authentification.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuration de l’authentification</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuration de Dynamic Media</a>.<br /> Amélioration des étapes afin de clarifier la configuration de l’authentification.</td> 
   </tr>
   <tr>
    <td>17 août 2016<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20the%20Replication%20Agent">Configuration de l’agent de réplication</a></td> 
-   <td>Se rapporte à la <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Configuration de Dynamic Media</a>.<br /> Amélioration des étapes pour clarifier la configuration de l’agent de réplication.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuration de l’agent de réplication</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuration de Dynamic Media</a>.<br /> Amélioration des étapes pour clarifier la configuration de l’agent de réplication.</td> 
   </tr>
   <tr>
    <td>17 août 2016</td> 
-   <td><a href="https://docs.adobe.com/content/docs/fr-FR/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Troubleshooting%20Authentication">Résolution des problèmes d’authentification</a></td> 
-   <td>Se rapporte à la <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">Configuration de Dynamic Media</a>.<br /> Ajout de trois nouvelles rubriques d’authentification de résolution de problèmes.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Résolution des problèmes d’authentification</a></td> 
+   <td>Se rapporte à la <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuration de Dynamic Media</a>.<br /> Ajout de trois nouvelles rubriques d’authentification de résolution de problèmes.</td> 
   </tr>
   <tr>
    <td>12 août 2016</td> 
@@ -1542,10 +1522,10 @@ Les versions suivantes ont été déplacées :
    <td>Mise à jour des vidéos de configuration et des FAQ</td> 
    <td><p>Brand Portal 6.4.5 est une version qui vise à offrir aux utilisateurs de Brand Portal (agences/équipes externes) la possibilité de charger du contenu vers Brand Portal et de le publier sur AEM Assets, sans qu’il faille accéder à l’environnement de création. Cette fonctionnalité s’appelle <strong>Approvisionnement en ressources dans Brand Portal</strong>.</p> <p>La documentation couvre les mises à jour notables suivantes :</p> 
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Ajout d’une vidéo</a> présentant le workflow global d’approvisionnement en ressources dans Brand Portal.<br /> </li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=fr">Ajout d’une vidéo</a> présentant le workflow global d’approvisionnement en ressources dans Brand Portal.<br /> </li> 
      <li>Ajout d’une nouvelle vidéo sur <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">Comment configurer l’approvisionnement en ressources dans AEM Assets</a>.</li> 
      <li>Ajout d’une nouvelle vidéo sur <a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Comment configurer le dossier de contribution dans AEM Assets</a>.</li> 
-     <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html">Forum aux questions dans</a> pour l’approvisionnement en ressources.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Forum aux questions dans</a> pour l’approvisionnement en ressources.</li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -1553,7 +1533,7 @@ Les versions suivantes ont été déplacées :
    <td>Vidéo relative à l’approvisionnement en ressources et articles sur la configuration</td> 
    <td><p>Brand Portal 6.4.5 est une version qui vise à offrir aux utilisateurs de Brand Portal (agences/équipes externes) la possibilité de charger du contenu vers Brand Portal et de le publier sur AEM Assets, sans qu’il faille accéder à l’environnement de création. Cette fonctionnalité s’appelle <strong>Approvisionnement en ressources dans Brand Portal</strong>.</p> <p>La documentation couvre les mises à jour notables suivantes :</p> 
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Ajout d’une vidéo</a> présentant le workflow global d’approvisionnement en ressources dans Brand Portal.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Ajout d’une vidéo</a> présentant le workflow global d’approvisionnement en ressources dans Brand Portal.</li> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configuration du dossier de contribution dans AEM Assets</a></li> 
      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Utilisation de l’approvisionnement en ressources pour publier des ressources du dossier de contributions dans AEM Assets</a></li> 
     </ul> </td> 
@@ -1563,19 +1543,19 @@ Les versions suivantes ont été déplacées :
    <td>Présentation du forum aux questions sur Brand Portal</td> 
    <td>La documentation couvre les mises à jour notables suivantes :
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html">Forum aux questions</a> pour l’approvisionnement en ressources dans Brand Portal.</li> 
-     <li>Mise à jour de la documentation pour l’<a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">approvisionnement en ressources dans Brand Portal</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Forum aux questions</a> pour l’approvisionnement en ressources dans Brand Portal.</li> 
+     <li>Mise à jour de la documentation pour l’<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">approvisionnement en ressources dans Brand Portal</a>.</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>10 octobre 2019 </td> 
    <td>Approvisionnement en ressources dans Brand Portal</td> 
-   <td><p>Documentation sur la manière de configurer l’approvisionnement en ressources dans AEM Assets, et articles connexes.</p> <p>Reportez-vous à <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Approvisionnement en ressources dans Brand Portal</a> pour obtenir la documentation sur cette fonctionnalité.</p> </td> 
+   <td><p>Documentation sur la manière de configurer l’approvisionnement en ressources dans AEM Assets, et articles connexes.</p> <p>Reportez-vous à <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Approvisionnement en ressources dans Brand Portal</a> pour obtenir la documentation sur cette fonctionnalité.</p> </td> 
   </tr>
   <tr>
    <td>28 septembre 2019</td> 
    <td>AEM Assets Brand Portal version 6.4.5</td> 
-   <td><p>Brand Portal 6.4.5 est une version qui vise à offrir aux utilisateurs de Brand Portal (agences/équipes externes) la possibilité de charger du contenu vers Brand Portal et de le publier sur AEM Assets, sans qu’il faille accéder à l’environnement de création. Cette fonctionnalité s’appelle <strong>Approvisionnement en ressources dans Brand Portal</strong>.</p> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/whats-new.html#what-changed-in-645">Nouveautés de Brand Portal 6.4.5</a></p> </td> 
+   <td><p>Brand Portal 6.4.5 est une version qui vise à offrir aux utilisateurs de Brand Portal (agences/équipes externes) la possibilité de charger du contenu vers Brand Portal et de le publier sur AEM Assets, sans qu’il faille accéder à l’environnement de création. Cette fonctionnalité s’appelle <strong>Approvisionnement en ressources dans Brand Portal</strong>.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">Nouveautés de Brand Portal 6.4.5</a></p> </td> 
   </tr>
   <tr>
    <td>8 août 2019</td> 
@@ -1584,7 +1564,7 @@ Les versions suivantes ont été déplacées :
     <ul> 
      <li><strong>BP 6.4.4.7</strong> - Optimiser le workflow de synchronisation des utilisateurs pour éviter une exécution simultanée.</li> 
      <li><strong>BP 6.4.4.6</strong> - Optimisations des performances pour la génération de rapports de téléchargement.</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html">Notes de mise à jour de Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en">Notes de mise à jour de Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>13 février 2019</td> 
@@ -1593,7 +1573,7 @@ Les versions suivantes ont été déplacées :
     <ul> 
      <li>Le prédicat de propriété dans le filtre de recherche prend désormais en charge la recherche par expression partielle.</li> 
      <li>Le prédicat de propriété dans le filtre de recherche prend désormais en charge les recherches par caractères génériques (*).</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/whats-new.html">Notes de mise à jour de Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Guide d’utilisation de Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Notes de mise à jour de Brand Portal</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Guide d’utilisation de Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>1er novembre 2018 </td> 
@@ -1602,12 +1582,12 @@ Les versions suivantes ont été déplacées :
     <ul> 
      <li>Les organisations peuvent demander une autre URL, à l’exception de l’URL d’accès à Brand Portal existante, en indiquant un autre préfixe dans l’URL.</li> 
      <li>Nouvelle configuration servant à activer la hiérarchie des dossiers pour les utilisateurs non-administrateurs.</li> 
-     <li>Prévisualisation, lecture et téléchargement des rendus Dynamic Media.</li> 
+     <li>Prévisualisez, lisez et téléchargez les rendus Dynamic Media.</li> 
      <li>Publication planifiée depuis l’instance d’auteur d’AEM vers Brand Portal.</li> 
      <li>Nouvelle configuration pour configurer les paramètres du serveur d’images Dynamic Media.</li> 
      <li>Prédicat Explorateur de chemins d’accès dans le formulaire de recherche.</li> 
      <li>Le téléchargement via un lien par email expire après 45 jours. </li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Notes de mise à jour de Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/home.html" target="_blank">Guide d’utilisation de Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Notes de mise à jour de Brand Portal</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en" target="_blank">Guide d’utilisation de Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>16 août 2018 </td> 
@@ -1623,7 +1603,7 @@ Les versions suivantes ont été déplacées :
      <li>Prise en charge de la recherche non sensible à la casse de prédicats de propriétés et prédicats de propriétés à plusieurs valeurs dans le filtre de recherche.</li> 
      <li>Six nouvelles configurations pour donner un meilleur contrôle aux organisations et leur permettre de satisfaire leurs besoins professionnels.</li> 
      <li>L’IU permettant de configurer les intégrations oAuth est maintenant hébergée sur <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a>.</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html">Guide d’utilisation de Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guide d’utilisation de Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>17 mai 2018</td> 
@@ -1637,7 +1617,7 @@ Les versions suivantes ont été déplacées :
      <li>Introduction d’un nouveau rapport de partage de liens.</li> 
      <li>Interface de création de rapports plus intuitive, avec des fonctionnalités granulaires pour personnaliser les rapports.</li> 
      <li>Amélioration de la fonctionnalité de recherche des ressources : filtres d’horodatage précis, nouveau filtre Type d’accès, nouvelles options de recherche dans le filtre de recherche Type de fichier et possibilité de revenir aux résultats de la recherche.</li> 
-    </ul> <p><a href="https://helpx.adobe.com/fr/experience-manager/brand-portal/user-guide.html">Guide d’utilisation de Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guide d’utilisation de Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>26 octobre 2017</td> 
@@ -1649,14 +1629,14 @@ Les versions suivantes ont été déplacées :
      <li>Publication complète du schéma de métadonnées entre Assets et Brand Portal</li> 
      <li>Amélioration des fonctionnalités des rapports : ressources téléchargées, parvenues à expiration et publiées</li> 
      <li>Introduction de nouvelles fonctionnalités de DRM : contrôles d’expiration et notification des ressources</li> 
-     <li>Nouvel article <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=fr#introduction">Nouveautés</a> pour en savoir plus sur les fonctionnalités inédites et mises à jour</li> 
-     <li>Nouveau <a href="https://helpx.adobe.com/experience-manager/brand-portal/user-guide.html">Guide de l’utilisateur de Brand Portal</a> indépendant du Guide de l’utilisateur d’AEM Assets</li> 
+     <li>Nouvel article <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Nouveautés</a> pour en savoir plus sur les fonctionnalités inédites et mises à jour</li> 
+     <li>Nouveau <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guide de l’utilisateur de Brand Portal</a> indépendant du Guide de l’utilisateur d’AEM Assets</li> 
     </ul> </td> 
   </tr>
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] Appli de bureau {#aem-desktop-app}
+## Appli de bureau [!DNL Adobe Experience Manager] {#aem-desktop-app}
 
 <table> 
  <tbody>
