@@ -1,9 +1,9 @@
 ---
 title: Pack de correctifs cumulés AEM 6.2
 description: Notes de mise à jour du pack de correctifs cumulés AEM 6.2.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **Produit** | Adobe Experience Manager |
 |---|---|
 | **Version** | 6.2 |
-| **Mise à jour** | [Pack de correctifs cumulés 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Mise à jour** | Pack de correctifs cumulés 6.2 SP1-CFP20 |
 | **Prérequis** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Disponibilité générale** | 6 juin 2019 |
 
@@ -2206,7 +2206,7 @@ Cette section décrit les exigences et les étapes à suivre pour installer le C
 
 * AEM 6.2 Service Pack 1 est une condition préalable à l’installation du CFP. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 1 d’AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
-* Le pack de correctifs cumulés peut être téléchargé sur [Distribution de logiciels](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), accessible directement depuis l’instance AEM.
+* Le pack de correctifs cumulés peut être téléchargé sur [Distribution de logiciels](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), accessible directement depuis l’instance AEM.
 * Pour un déploiement en grappe utilisant (RDBMK ou MongoDB), le package CFP peut être installé sur n’importe quelle instance de création qui utilise le gestionnaire de modules.
 
 * Avant d’installer le pack de correctifs cumulés, veillez à prendre un instantané ou à effectuer une sauvegarde de votre instance AEM.

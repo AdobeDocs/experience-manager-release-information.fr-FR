@@ -1,9 +1,9 @@
 ---
 title: Pack de correctifs cumulés AEM 6.3
 description: Notes de mise à jour du pack de correctifs cumulés AEM 6.3.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15916'
+source-wordcount: '15893'
 ht-degree: 99%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **Produit** | Adobe Experience Manager |
 |---|---|
 | **Version** | 6.3 |
-| **Version** | Pack de correctifs cumulés 6.3.3.8 dans [Partage de modules](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8), [Distribution de logiciels (Bêta)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **Version ** | Pack de correctifs cumulés 6.3.3.8 sur [Distribution logicielle](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **Prérequis** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **Disponibilité générale** | 5 mars 2020 |
 
@@ -1721,7 +1721,7 @@ Le pack de correctifs cumulés AEM 6.3.0.1 consiste en une mise à jour importa
 
 ## Instructions de téléchargement relatives aux CFP via la Distribution de logiciels {#download-instructions-for-cfp-via-package-share}
 
-Vous pouvez télécharger le package CFP directement à partir de la [distribution de logiciels](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) ou effectuer les étapes suivantes :
+Vous pouvez télécharger le package CFP directement à partir de la [distribution de logiciels](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) ou effectuer les étapes suivantes :
 
 1. Ouvrez la [Distribution de logiciels](https://experience.adobe.com/downloads). Vous avez besoin d’un Adobe ID pour vous connecter à la Distribution de logiciels.
 1. Appuyez sur **[!UICONTROL Adobe Experience Manager]** disponible dans le menu d’en-tête.

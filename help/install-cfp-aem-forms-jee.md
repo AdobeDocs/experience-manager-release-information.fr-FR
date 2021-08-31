@@ -3,9 +3,9 @@ title: Installation des packs de correctifs cumulés sur AEM Forms JEE
 description: Résumé des étapes d’installation et de configuration du pack de correctifs cumulés (CFP) sur AEM Forms JEE
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1044'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,9 @@ Procédez comme suit, selon la séquence spécifiée, pour installer le pack de 
 1. Installez la dernière version du CFP AEM [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
 1. Installez le package de module complémentaire [!DNL Forms] pour AEM CFP [6.3.3.x](aem-forms-releases.md).
 
-### Installez le package des lots AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
+### Installez le package des lots AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-Le package [AEM [!DNL  Forms JEE] ](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG) (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
+Le package AEM [!DNL  Forms JEE]  (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
 
 ### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
@@ -48,14 +48,14 @@ Procédez comme suit, selon la séquence spécifiée, pour installer le pack de 
 
 1. Contactez l’[assistance d’Adobe](https://www.adobe.com/account/sign-in.supportportal.html) pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE] pour le CFP.
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Installez [AEM Hotfix 12785 version 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
+1. Installez AEM Hotfix 12785 version 7.0.
 1. Installez [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Installez la dernière version [AEM 6.2 Service Pack1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Installez le package de module complémentaire [!DNL Forms] pour [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md).
 
-### Installez le package des lots AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
+### Installez le package des lots AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package-1}
 
-Le [package AEM Forms JEE](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
+Le package AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
 
 ### Configuration du délai d’expiration pour les opérations au niveau du composant (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -93,7 +93,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
-## Installation et configuration d’AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
+## Installation et configuration d’AEM [!DNL Forms JEE]  {#install-and-configure-aem-forms-jee}
 
 1. Effectuez une sauvegarde du dossier /deploy. Il est nécessaire si vous décidez de désinstaller le Quick Fix.
 1. Arrêtez le serveur d’applications.
