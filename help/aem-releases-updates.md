@@ -4,13 +4,13 @@ description: Mises à jour des versions d’[!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
 ---
 
-# Versions et mises à jour d’[!DNL Adobe Experience Manager]  {#aem-releases-and-updates}
+# Versions et mises à jour d’[!DNL Adobe Experience Manager] {#aem-releases-and-updates}
 
 ![[!DNL Experience Manager]Nouvelles versions](assets/new-aem-releases1.jpeg)
 
@@ -32,7 +32,7 @@ Pour Managed Services et les offres sur site, cet article répertorie la derniè
 
 Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs.
 
-* [[!DNL Experience Manager]  6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr)
+* [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr)
 
@@ -42,7 +42,7 @@ Vous trouverez la liste des nouvelles fonctionnalités sous [Nouveautés dans le
 
 Les mises à jour du produit [!DNL Experience Manager] 6.4 sont fournies dans le cadre des CFP trimestriels. Elles comportent des correctifs.
 
-* [[!DNL Experience Manager]  6.4 Service Pack 8 Pack de correctifs cumulés 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr)
+* [[!DNL Experience Manager] 6.4 Service Pack 8 Pack de correctifs cumulés 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr)
 
 * [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=fr)
 
@@ -54,7 +54,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.4 sont fournies dans l
 
 * [[!DNL Experience Manager] 6.3 Service Pack 3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html)
 
-* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes.html)
+* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes.html)
 
 ### [!DNL Experience Manager] 6.2 {#aem-62}
 
