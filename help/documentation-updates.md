@@ -10,7 +10,7 @@ ht-degree: 73%
 
 ---
 
-# Documentation [!DNL Experience Manager] : mises à jour récentes de la documentation  {#aem-documentation-recent-documentation-updates}
+# Documentation [!DNL Experience Manager] : mises à jour récentes de la documentation {#aem-documentation-recent-documentation-updates}
 
 Cette page répertorie les modifications et mises à jour importantes apportées à la documentation d’Adobe Experience Manager depuis le début de l’année.
 
