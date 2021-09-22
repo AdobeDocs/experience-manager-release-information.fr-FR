@@ -2,9 +2,9 @@
 title: Pack de correctifs cumulés AEM 6.2
 description: Notes de mise à jour du pack de correctifs cumulés AEM 6.2.
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -108,7 +108,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Pack de correctifs cumulés 19 {#cumulative-fix-pack-1}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP19 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP19 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -183,7 +183,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP19
 
 ### Pack de correctifs cumulés 18 {#cumulative-fix-pack-2}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP18 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP18 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -251,7 +251,7 @@ Liste des packages de contenu inclus dans AEM 6.2 SP1-CFP18
 
 ### Pack de correctifs cumulés 17 {#cumulative-fix-pack-3}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP17 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP17 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -343,7 +343,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP17
 
 ### Pack de correctifs cumulés 16 {#cumulative-fix-pack-4}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP16 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP16 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -455,7 +455,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP16
 
 ### Pack de correctifs cumulés 15 {#cumulative-fix-pack-5}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP15 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP15 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -499,7 +499,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les étiquettes des différents modes apparaissent avec les icônes. NPR-23275
 * Erreur « Valeur du sélecteur de récursivité non valide » lors de la migration d’un composant d’AEM 6.0 vers AEM 6.2. NPR-23503 : correctif pour CQ-4241258
 
-### Communautés {#communities-1}
+### Communities {#communities-1}
 
 * Les notifications par web et par email ne sont pas déclenchées en raison d’un échec d’envoi du message aux groupes. NPR-23447 : correctif pour CQ-4242880
 
@@ -849,7 +849,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Mise à jour de Jsafe Jars vers Cryptoj 6.1.3.1 dans PDFG. NPR-21359
 
-#### Gestion des processus {#process-management-1}
+#### Process Management {#process-management-1}
 
 * (Workspace HTML) Activation du redimensionnement des colonnes afin que la catégorie de noms n’apparaisse pas tronquée. NPR-19770 : correctif pour CQ-4233668
 
@@ -958,7 +958,7 @@ Les principaux aspects pour AEM Forms sont les suivants :
 
 * Activez l’authentification de certificat pour les utilisateurs de Workbench. NPR-17548 : correctif pour CQ-4214486
 
-#### Gestion des processus {#process-management-2}
+#### Process Management {#process-management-2}
 
 * Le processus de préparation des données est appelé plusieurs fois lorsque le formulaire mobile est rendu avec les paramètres dataref. NPR-19801 : correctif pour CQ-4230427 : CQ-4230400
 
@@ -1392,7 +1392,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * La traversée de requête survient lorsque le plan directeur de catalogue n’a aucune condition définie pour une section. NPR-18229 ; correctif pour CQ-4211924
 
-### Communautés {#communities-2}
+### Communities {#communities-2}
 
 * PollingImporterImpl. retarde la fermeture d’AEM. NPR-18298 ; correctif pour CQ-96133
 
@@ -1545,7 +1545,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Après avoir installé AEM Forms 6.2 GM et appliqué le CFP AEM 6.2, l’exécution de LiveCycle Configuration Manager fait apparaître un point-virgule indésirable dans les informations de version et la date d’installation du correctif n’est pas mise à jour. NPR-14322
 
-**Gestion des processus**
+**Process Management**
 
 * La variable TaskContext n’est pas renseignée pour les workflow AEM Forms. CQ-4211857
 
@@ -1570,11 +1570,11 @@ Correspondence Management
 
 ### Lots OSGi inclus dans CFP5 {#osgi-bundles-included-in-cfp-3}
 
-Liste des lots OSGi mis à jour entre AEM6.2 SP1 et CFP5
+Liste des lots OSGi mis à jour entre AEM 6.2 SP1 et CFP5
 
 [Obtenir le fichier](assets/do-not-localize/cfp5_osgi_bundles.txt)
 
-Liste des packages de contenu mis à jour entre AEM6.2 SP1 et CFP5
+Liste des packages de contenu mis à jour entre AEM 6.2 SP1 et CFP5
 
 [Obtenir le fichier](assets/do-not-localize/content-package-cfp5.txt)
 
@@ -1708,7 +1708,7 @@ La console de workflow des projets affiche une exception NullPointerException su
 * Un clic sur le bouton **[!UICONTROL Retour]** pour un formulaire dans l’espace de travail HTML ne ferme pas le formulaire, mais le renvoie à sa file d’attente de groupe.\
    NPR-16352
 
-**Gestion des processus**
+**Process Management**
 
 * Autoriser les utilisateurs de définir le nom d’affichage des tâches précédentes sur l’une des tâches suivantes d’une instance de processus. NPR-15382
 
@@ -2332,7 +2332,7 @@ La NPR-21355 est incluse dans le CFP12.1. Si vous installez le CFP12.1 ou une ve
 
 1. Créez une sauvegarde des fichiers jsafeFIPS.jar, jsafeJCEFIPS.jar et certjFIPS.jar situés dans [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/ et supprimez les fichiers du répertoire susmentionné.
 
-   Contactez l’[assistance Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) pour obtenir de nouveaux fichiers JAR. Placez les fichiers JAR obtenus auprès de l’[assistance à l’Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) sous [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/
+   Contactez l’[assistance Adobe](https://helpx.adobe.com/fr/marketing-cloud/contact-support.html) pour obtenir de nouveaux fichiers JAR. Placez les fichiers JAR obtenus auprès de l’[assistance à l’Adobe](https://helpx.adobe.com/fr/marketing-cloud/contact-support.html) sous [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/
 
 1. (Windows uniquement) Modifiez les fichiers de configuration `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` ou `domain.conf.bat` :
 
