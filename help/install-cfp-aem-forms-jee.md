@@ -4,7 +4,7 @@ description: Résumé des étapes d’installation et de configuration du pack d
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1044'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Procédez comme suit, selon la séquence spécifiée, pour installer le pack de 
 
 ### Installez le package des lots AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-Le package AEM [!DNL  Forms JEE]  (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
+Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
 
 ### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
