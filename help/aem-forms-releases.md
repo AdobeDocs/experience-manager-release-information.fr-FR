@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 5ec20490b5845b863e3b707b883f2a819b46e0b0
 workflow-type: tm+mt
 source-wordcount: '10253'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
     <td><strong>Versions de build</strong></td> 
    </tr>
    <tr> 
-    <td>02 Septembre 2021</td> 
+    <td>2 septembre 2021</td> 
     <td><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 10 Forms pour AEM 6.5.10.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td> 
     <td> 
@@ -41,7 +41,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Package de module complémentaire AEM Forms pour Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Package de module complémentaire AEM Forms pour Mac OS X [2]</a></li>            
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">Package de compatibilité AEM Forms</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">Package intégré AEM Forms on JEE</a></li>    
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">Package AEM Forms on JEE Embed</a></li>    
       <br><b>Installateurs de correctifs d’AEM Forms on JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Win/AEMForms-6.5.0-0032_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0032/JBoss/Linux/AEMForms-6.5.0-0032_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -56,7 +56,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
      </ul> </td> 
-    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0032<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.490</p> <p>SDK client : 6.0.490<br /> </p><p>Package de compatibilité AEM Forms : 2.0.40</p><p>Correctif AEM Forms Designer : 650.017</p><p>Package d’intégration AEM Forms on JEE : 5.0.18</p></td> 
+    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0032<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.490</p> <p>SDK client : 6.0.490<br /> </p><p>Package de compatibilité AEM Forms : 2.0.40</p><p>Correctif AEM Forms Designer : 650.017</p><p>Package AEM Forms on JEE embed : 5.0.18</p></td> 
    </tr>
    <tr> 
     <td>3 juin 2021</td> 
@@ -67,7 +67,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Package de module complémentaire AEM Forms pour Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Package de module complémentaire AEM Forms pour Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">Package de module complémentaire AEM Forms pour Mac OS X [2]</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">Package intégré AEM Forms on JEE</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">Package AEM Forms on JEE Embed</a></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>      
       <br><b>Programmes d’installation de correctifs JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
@@ -82,7 +82,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0028<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.434</p> <p>SDK client : 6.0.434<br /> </p><p>AEM Forms Workbench : 6.5.0.20210524.1.938669</p><p>Package d’intégration AEM Forms on JEE : 5.0.14</p></td> 
+    <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0028<br /> </p> Packages de modules complémentaires d’AEM Forms : 6.0.434</p> <p>SDK client : 6.0.434<br /> </p><p>AEM Forms Workbench : 6.5.0.20210524.1.938669</p><p>Package AEM Forms on JEE embed : 5.0.14</p></td> 
    </tr>
    <tr> 
     <td>18 mars 2021</td> 
@@ -743,10 +743,10 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Package de module complémentaire AEM Forms pour Mac OS X</a><sup> [2] </sup></li> 
      <li>Programme d’installation d’AEM Forms JEE <sup>[1]</sup></li> 
      <li>SDK client AEM Forms <sup>[1]</sup></li> 
-     <li>Package d’intégration AEM Forms on JEE <sup>[1] [3]</sup></li> 
+     <li>Package AEM Forms on JEE embed <sup>[1] [3]</sup></li> 
      <li>Source de l’application AEM Forms<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>4.1.36</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.3.0-0013</strong></p> <p> Package d’intégration AEM Forms on JEE : <strong>4.0.20</strong></p> <p>Source de l’application AEM Forms : <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>Packages de modules complémentaires et SDK Client AEM Forms : <strong>4.1.36</strong></p> <p>Programme d’installation d’AEM Forms JEE : <strong>6.3.0-0013</strong></p> <p> Package AEM Forms on JEE embed : <strong>4.0.20</strong></p> <p>Source de l’application AEM Forms : <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
    <td>13 octobre 2017</td> 
@@ -820,7 +820,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
 
 `[2]` Le package de module complémentaire AEM [!DNL Forms] pour Mac OS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package Mac OS X.
 
-`[3]` **IMPORTANT** : Avant d’installer le package intégré AEM Forms on JEE, installez  [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md)  et assurez-vous que la version du  **lot du** service d’authentification Apache Sling est 1.4.0 ou plus, sinon le serveur risque de ne plus répondre et de ne plus pouvoir être récupéré. Vous pouvez vérifier la version du lot à l’adresse `http://[server]:[port]/system/console/bundles`.
+`[3]` **IMPORTANT** : Avant d’installer le package AEM Forms on JEE embed, installez le [Pack AEM de correctifs cumulés 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) et assurez-vous que la version de lot **Apache Sling Authentication Service** est 1.4.0 ou plus, faute de quoi le serveur risque de ne plus répondre et de ne plus pouvoir être récupéré. Vous pouvez vérifier la version du lot à l’adresse `http://[server]:[port]/system/console/bundles`.
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
