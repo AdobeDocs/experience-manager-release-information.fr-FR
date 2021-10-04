@@ -2,10 +2,10 @@
 title: Anciennes versions d’AEM, CQ et CRX
 description: Modules de documentation des versions antérieures d’Adobe Experience Manager, de CQ et de CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: ht
+source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
+workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ## Documentation des anciennes versions d’[!DNL Experience Manager] {#older-version-aem-documentation}
 
-Les versions d’[!DNL Experience Manager], de CQ et de CRX répertoriées sur cette page sont en fin de vie et ne sont plus officiellement vendues par Adobe. Les dernières versions de la documentation officielle relative à ces anciennes versions sont disponibles en libre-service. Il est recommandé d’effectuer une mise à niveau vers la dernière version (actuellement [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=fr)).
+Les versions d’[!DNL Adobe Experience Manager], de CQ et de CRX répertoriées sur cette page sont en fin de vie et ne sont plus officiellement vendues par Adobe. Les dernières versions de la documentation officielle relative à ces anciennes versions sont disponibles en libre-service. Nous vous recommandons d’effectuer la mise à niveau vers la dernière version - [[!DNL Adobe Experience Manager] en tant que Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).
 
 >[!NOTE]
 >
