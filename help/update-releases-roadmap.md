@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: dcd72e5b5a4bbcf7c9892b654a18f4b687dc2c2c
 workflow-type: tm+mt
 source-wordcount: '311'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,10 +38,10 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 novembre 2021 |
-| [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 24 février 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 26 mai 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 août 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24 novembre 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 24 février 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 26 mai 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 août 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24 novembre 2022 |
 
 
 >[!NOTE]
