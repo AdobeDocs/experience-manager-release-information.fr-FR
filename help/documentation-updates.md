@@ -3,10 +3,10 @@ title: Mises à jour récentes de la documentation [!DNL Experience Manager]
 description: 'Nouveautés, mises à jour ou modifications apportées à la documentation d’ [!DNL Experience Manager] '
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ Vous pouvez également consulter les [mises à jour de documentation précédent
 
 | Date | Thème | Modifications |
 | --- | --- | --- |
+| 25 novembre 2021 | AEM avec Dynamic Media - Configuration | Vous pouvez désormais configurer les paramètres généraux et la configuration de la publication directement depuis Dynamic Media sur AEM au lieu d’avoir à utiliser l’application de bureau Dynamic Media.<br>Voir [Configuration des paramètres généraux de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) et [Configuration de la configuration de publication Dynamic Media pour Image Server](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>Voir aussi [Configuration de Dynamic Media - mode Scene7](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html?lang=fr) |
 | 04 novembre 2021 | AEM avec Dynamic Media – Recadrage intelligent | Amélioration du recadrage intelligent et de l’échantillon intelligent des ressources d’image à l’aide des derniers services Adobe Sensei. Les mises à jour de la documentation sont les suivantes :<br>• Nouvelle option **[!UICONTROL Conserver le contenu de recadrage dans les résolutions cibles]** dans la boîte de dialogue Options de recadrage dans Profils d’image.<br>• Lorsque vous réalignez ou redimensionnez manuellement la fenêtre de recadrage intelligent de plusieurs ressources, ces modifications sont conservées, même si vous décidez par la suite de traiter à nouveau ces ressources. Toutefois, si vous modifiez la largeur, la hauteur ou les deux dans la variable **[!UICONTROL Recadrage d’image réactive]** dans le profil d’image, ces ressources sont alors soumises à un nouveau traitement.<br>• Nouveau tableau des formats de fichiers image pris en charge pour le recadrage intelligent et l’échantillon intelligent.<br>Voir [Profils d’image](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html?lang=fr) pour ces mises à jour. |
 | 03 novembre 2021 | API de visionneuse de vidéos avec recadrage intelligent | Nouvelle [documentation de l’API de visionneuse de vidéos avec recadrage intelligent désormais disponible](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=fr) dans le Guide de référence des visionneuses Dynamic Media. |
 | 2 décembre 2020 | Paramètres prédéfinis de lot | Découvrez comment automatiser la création de visionneuses d’images et de visionneuses à 360° à l’aide des paramètres prédéfinis de lot de Dynamic Media. Voir [Paramètres prédéfinis de lot](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=fr#dynamicmedia). |
