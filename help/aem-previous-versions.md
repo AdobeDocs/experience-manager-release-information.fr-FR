@@ -3,9 +3,9 @@ title: Anciennes versions d’AEM, CQ et CRX
 description: Modules de documentation des versions antérieures d’Adobe Experience Manager, de CQ et de CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 971c4b389b94be04edb48762bb8546fdb6faebe4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '820'
+ht-degree: 100%
 
 ---
 
