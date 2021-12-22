@@ -52,7 +52,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
     <td><p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0038<br /> <p>Packages de modules complémentaires AEM Forms : 6.0.566-NPR-37836-B0001</p></td> 
    </tr>
    <tr> 
-    <td>3 décembre 2021</td> 
+    <td>3 décembre 2021</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de module complémentaire AEM Forms Service Pack 11 Forms pour AEM 6.5.11.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td> 
     <td> 
