@@ -3,9 +3,9 @@ title: Pack de correctifs cumulés AEM 6.3
 description: Notes de mise à jour du pack de correctifs cumulés AEM 6.3.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e9031f819352f34248c6a458ef5a9101a660fbea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15909'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Pour plus d’informations sur le CFP et sur d’autres types de versions, consu
 
 Le pack de correctifs cumulés 6.3.3.8 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.8 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.8 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants :
 
@@ -96,7 +96,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 **Problèmes résolus dans la version 6.3.0-0047**
 
-* (JEE uniquement) Vulnérabilités de sécurité critiques (CVE-2021-44228 et CVE-2021-45046) signalées pour Apache Log4j2.
+* (JEE uniquement) Vulnérabilités de sécurité critiques (CVE-2021-44228 et CVE-2021-45046) signalées pour Apache Log4j2.
 
 ## Correctifs et Feature Packs inclus dans les packs de correctifs cumulés précédents {#previous}
 
@@ -104,7 +104,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 Le pack de correctifs cumulés 6.3.3.7 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.7 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.7 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Ressources {#assets-1}
 
@@ -172,7 +172,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 Le pack de correctifs cumulés 6.3.3.6 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.6 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.6 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Ressources {#assets-2}
 
@@ -189,7 +189,7 @@ Le pack de correctifs cumulés AEM 6.3.3.6 nécessite la présence du Service P
 * Les rapports prêts à l’emploi dans /etc/reports/ ne fonctionnent pas correctement et le graphique de données historiques ne s’affiche pas. NPR-30016 : correctif pour CQ-4220180
 * La valeur du paramètre de requête resourceType est copiée dans la valeur d’un attribut de balise HTML encapsulé dans des guillemets doubles. NPR-29832 : correctif pour CQ-4255365
 
-### Communautés {#communities-1}
+### Communities {#communities-1}
 
 * Problème de contenu en double avec la console de modération d’AEM Communities. NPR-30667 : correctif pour CQ-4276829
 
@@ -226,7 +226,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 Le pack de correctifs cumulés 6.3.3.5 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.5 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.5 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants :
 
@@ -253,7 +253,7 @@ Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants�
 * Les propriétés vides et les propriétés multiples ne sont pas propagées pas à partir du plan directeur lors du déploiement. La réinitialisation de la live copy avec plan directeur ne fonctionne pas pour les composants. NPR-29252 : correctif pour CQ-4264928, CQ-4264926, CQ-4267722
 * La réduction de l’éditeur de texte enrichi à partir du mode plein écran en mode modification de la source entraîne une perte de contenu. NPR-28838 : correctif pour CQ-4260584
 
-### Communautés {#communities-2}
+### Communities {#communities-2}
 
 * Les visiteurs et les membres, sans privilèges de modérateur, peuvent voir les publications non approuvées et en attente en collant l’URL. NPR-29726 : correctif pour CQ-4271124
 * Un temps de réponse élevé allant jusqu’à 40-50 secondes est observé lors de la connexion de l’utilisateur à la Communauté. NPR-29679 : correctif pour CQ-4269444
@@ -294,7 +294,7 @@ Liste des packages de contenu inclus dans AEM 6.3.3.5
 
 Le pack de correctifs cumulés 6.3.3.4 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.4 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.4 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants :
 
@@ -314,7 +314,7 @@ Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants�
 * Le partage de lien avec des fichiers vidéo codés DMS7 génère des dossiers vides. NPR-28851 : correctif pour CQ-4206743
 * La réplication d’AEM vers le Brand Portal est bloquée pendant de longues périodes. NPR-28913 : correctif pour CQ-4254932
 
-### Communautés {#communities-3}
+### Communities {#communities-3}
 
 * Impossible d’ouvrir les messages dont les pièces jointes se trouve dans les dossiers Envoyé et Boîte de réception d’Outlook. NPR-28559 : correctif pour CQ-4217072
 
@@ -402,7 +402,7 @@ Liste des packages de contenu inclus dans AEM 6.3.3.4
 
 Le pack de correctifs cumulés 6.3.3.3 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.3 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.3 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants :
 
@@ -418,7 +418,7 @@ Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants�
 * Impossible de télécharger plusieurs fichiers de type .jp2,.max,.oft,.msg. NPR-28002 : correctif pour CQ-4210856
 * Les paramètres de publication d’ImageServer ne se répliquent pas vers une diffusion hybride. NPR-28329 : correctif pour CQ-4253030
 
-#### Communautés {#communities-4}
+#### Communities {#communities-4}
 
 * Activation de la navigation au clavier pour les composants d’activation d’AEM Communities lors de la publication. NPR-27739 : correctif pour CQ-4253856
 * Activation de la navigation au clavier pour déclencher la lecture du contenu. NPR-27738 : correctif pour CQ-4254026
@@ -566,7 +566,7 @@ Les principaux aspects du pack de correctifs cumulés AEM sont les suivants :
 
 * Problèmes affectant l’interface utilisateur du schéma de métadonnées de dossier après l’installation de SP3. Correctif pour CQ-4257737
 
-#### Communautés {#communities-5}
+#### Communities {#communities-5}
 
 * Ajout de la prise en charge de la pagination pour la liste des groupes lors de la publication. NPR-26953 : correctif pour CQ-4246525
 * La notification du nombre non lu ne peut pas être définie sur plus de 21. NPR-27496 : correctif pour CQ-4252829
@@ -630,7 +630,7 @@ Liste des packages de contenu inclus dans AEM 6.3.3.2
 
 Le pack de correctifs cumulés 6.3.3.1 apporte une mise à jour importante comprenant plusieurs correctifs internes et clients rassemblés depuis la publication générale du Service Pack 3 (6.3.3.0) AEM 6.3 de septembre 2018.
 
-Le pack de correctifs cumulés AEM 6.3.3.1 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+Le pack de correctifs cumulés AEM 6.3.3.1 nécessite la présence du Service Pack 3 AEM 6.3. Vous devez donc installer le pack de correctifs cumulés AEM 6.3.3.x après avoir installé le Service Pack 3 AEM 6.3. Pour obtenir des instructions sur l’installation, consultez les [Notes de mise à jour du service Pack 3 d’AEM 6.3](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants :
 
@@ -709,7 +709,7 @@ Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants�
 * Le fournisseur OAuth d’AEM n’effectue pas de recherche non sensible à la casse. NPR-26133 : correctif pour GRANITE-22650
 * Le programme de validation de package ne valide pas les packages inclus dans CFP/SP. NPR-26775 : correctif pour Granite-22825
 
-#### Communautés {#communities-6}
+#### Communities {#communities-6}
 
 * Problème de délimiteur affectant les résultats de recherche. NPR-27051 : correctif pour CQ-4248939
 * Remplace la valeur de la liste déroulante de Dallas à Virginia dans Adobe Storage Resource Provider. NPR-26936 : correctif pour CQ-4254434
@@ -934,7 +934,7 @@ Les principaux aspects du **pack de correctifs cumulés AEM** sont les suivants�
 
 * La sortie Json de la campagne ne contient pas la racine du contexte du servlet. NPR-23733 : correctif pour CQ-4243827
 
-### Communautés {#communities-7}
+### Communities {#communities-7}
 
 * La recherche sur les communautés échoue pour quelques mots. NPR-23256 : correctif pour CQ-4240717
 * Impossible d’affecter des groupes pour le problème de rôle des gestionnaires de communauté. NPR-23317 : correctif pour CQ-4241233 : CQ-4221399
@@ -1209,7 +1209,7 @@ Les principaux aspects pour AEM Forms sont les suivants :
 * Activation de l’authentification de certificat pour les utilisateurs de Workbench. NPR-20644 : correctif pour CQ-4214486
 * Le téléchargement du journal du serveur à l’aide de Workbench fonctionne uniquement pour un serveur et non pour l’autre serveur. NPR-21079 : correctif pour CQ-4229842
 
-#### Gestion des processus {#process-management-1}
+#### Process Management {#process-management-1}
 
 * (Espace de travail HTML) Problèmes de taille d’écran avec les barres de défilement. NPR-23288
 * (Espace de travail HTML) Les points de départ du workflow ne sont pas triés dans un ordre alphanumérique. NPR-22841 : correctif pour CQ-4238944
@@ -1304,7 +1304,7 @@ Les principaux aspects du pack de correctifs cumulés AEM sont les suivants :
 * Dans les workflows de commerce, une image vierge est automatiquement insérée lors de la création d’une variante basée sur un produit principal avec plusieurs images. NPR-20068 : correctif pour CQ-4222048
 * Le filtrage par balises sur les pages de collection dans la console de produits ne fonctionne pas. NPR-20292 : correctif pour CQ-4224023
 
-### Communautés {#communities-8}
+### Communities {#communities-8}
 
 * Les résultats de recherche ne correspondent pas au composant searchresult. NPR-20070 : correctif pour CQ-4220913
 * Les notifications par e-mail ne sont déclenchées pour aucune des activités liées au modérateur sur les composants publiés. NPR-20122
@@ -1381,7 +1381,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-9}
 
-#### Gestion des processus {#process-management-2}
+#### Process Management {#process-management-2}
 
 * Le point de départ FormSetPrefillApp ne préremplit pas les champs de la visionneuse de formulaires dans l’application AEM Forms. NPR-20950
 
@@ -1458,7 +1458,7 @@ Les principaux aspects du pack de correctifs cumulés AEM sont les suivants :
 
 * Erreur de connexion SSL. Impossible d’établir une connexion sécurisée au serveur. NPR-19628
 
-### Communautés {#communities-9}
+### Communities {#communities-9}
 
 * Le courrier est déclenché lors de la publication de contenu sur des sites prémodérés. NPR-20008
 * Les notifications par e-mail ne fonctionnent pour aucune des activités liées au modérateur sur les composants publiés. NPR-19767 : HF pour CQ-4218060
@@ -1534,7 +1534,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-10}
 
-#### Gestion des processus {#process-management-3}
+#### Process Management {#process-management-3}
 
 * Les onglets de pièces jointes, de notes et de détails du processus ne fonctionnent pas dans l’espace de travail lorsque le formulaire est agrandi/réduit et enregistré en tant que brouillon ou transféré. NPR-20243
 * Le champ de texte multiligne (TextArea) ne conserve pas de nouveau caractère de ligne ni de saut de ligne dans le texte après l’envoi des données dans l’espace de travail HTML. NPR-20085
@@ -1822,7 +1822,7 @@ Les correctifs dans AEM Forms JEE sont fournis dans un programme d’installati
 
 >[!NOTE]
 >
->Si vous installez la version 6.3.3.0 ou ultérieure, procédez comme suit pour configurer les paramètres du serveur d’applications JBoss. Si vous installez la version 6.3.3.0 sur un serveur AEM Forms qui s’exécute sur des serveurs d’applications Oracle WebLogic ou IBM WebSpehere, aucune configuration supplémentaire n’est nécessaire. Pour plus d’informations, reportez-vous aux [Notes de mise à jour d’AEM 6.3.3.0](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+>Si vous installez la version 6.3.3.0 ou ultérieure, procédez comme suit pour configurer les paramètres du serveur d’applications JBoss. Si vous installez la version 6.3.3.0 sur un serveur AEM Forms qui s’exécute sur des serveurs d’applications Oracle WebLogic ou IBM WebSpehere, aucune configuration supplémentaire n’est nécessaire. Pour plus d’informations, reportez-vous aux [Notes de mise à jour d’AEM 6.3.3.0](https://helpx.adobe.com/fr/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ## Mises à jour de configuration pour l’intégration de Search&amp;Promote {#configuration-updates-for-search-promote-integration}
 
@@ -1849,7 +1849,7 @@ Avec le pack de correctifs cumulés AEM 6.3.0.2 et les versions ultérieures, l
 
 >[!NOTE]
 >
->Au cas où vous seriez concerné par l’un de ces deux problèmes, contactez le [service d’assistance clientèle d’AEM](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+>Au cas où vous seriez concerné par l’un de ces deux problèmes, contactez le [service d’assistance clientèle d’AEM](https://helpx.adobe.com/fr/marketing-cloud/contact-support.html).
 
 * Une utilisation intensive du processeur est observée en raison du nombre élevé de requêtes dans la fonctionnalité de recherche d’administrateurs. NPR-24229
 * PathField n’est pas sélectionné dans pathBrowser lors de la réouverture du composant. NPR-24177
@@ -1877,7 +1877,7 @@ Pour mettre à jour manuellement les modifications apportées à adobe- livecycl
 
 
 * Désinstallez le fichier EAR précédent du serveur d’applications WebSphere et installez le fichier EAR mis à jour en suivant les étapes décrites à la section 10.2 de[https://helpx.adobe.com/fr/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/fr/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
-* Enregistrez le fichier et redémarrez le serveur. [https://helpx.adobe.com/fr/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
+* Enregistrez le fichier et redémarrez le serveur. [https://helpx.adobe.com/fr/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/fr/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
 
 ## Paramètres de configuration requis pour NPR-23208 {#configuration-settings-required-for-npr-1}
 
