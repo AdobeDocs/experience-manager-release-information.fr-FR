@@ -3,7 +3,7 @@ title: Versions d’AEM Forms
 description: Contient la liste de toutes les versions d’AEM Forms et des packages correspondants
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7ba87a5fc958bb7627d0f1cc49910c7dfdd63a07
+source-git-commit: 4ece861d1384195ee712101808ad5a1bfa73fab3
 workflow-type: tm+mt
 source-wordcount: '12321'
 ht-degree: 97%
@@ -56,7 +56,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Win/AEMForms-6.5.0-0040_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Linux/AEMForms-6.5.0-0040_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.630/">AEM Forms Client SDK</a> </li>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.640/">AEM Forms Client SDK</a> </li>
       <br><b>Concepteur Forms</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_English_Cumulative_QF.msp">Programme d'installation en langue anglaise</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_French_Cumulative_QF.msp">Programme d'installation de langue française</a> </li>
