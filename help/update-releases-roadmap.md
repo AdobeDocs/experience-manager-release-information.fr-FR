@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
+source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '325'
+ht-degree: 82%
 
 ---
 
@@ -19,17 +19,15 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=fr) suit une cadence de publication mensuelle. Ainsi, de nouvelles fonctionnalités sont disponibles sous la forme de mises à jour continues d’[!DNL Experience Manager] chaque mois. Les versions à venir d’[!DNL Experience Manager] as a [!DNL Cloud Service] sont les suivantes.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=fr) suit généralement une cadence de mise à jour mensuelle pour les nouvelles fonctionnalités. Les prochaines versions des fonctionnalités pour [!DNL Experience Manager] as a [!DNL Cloud Service]s sont planifiés comme suit.
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Publication mensuelle | 16 décembre 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Publication mensuelle | 3 février 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Publication mensuelle | 31 mars 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Publication mensuelle | 28 avril 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Publication mensuelle | 26 mai 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Disponibilité des fonctionnalités | 31 mars 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Disponibilité des fonctionnalités | 28 avril 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Disponibilité des fonctionnalités | 26 mai 2022 |
 
-Outre les publications mensuelles, diverses mises à jour critiques sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] avec une fréquence de publication quotidienne.
+Outre les mises à jour de fonctionnalités, des correctifs de bogues critiques et de sécurité sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de versions de maintenance, avec une mise à jour de maintenance correspondante qui se produit généralement toutes les semaines.
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
