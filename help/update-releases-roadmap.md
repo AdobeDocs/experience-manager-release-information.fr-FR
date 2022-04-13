@@ -3,9 +3,9 @@ title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 82%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=fr) suit généralement une cadence de mise à jour mensuelle pour les nouvelles fonctionnalités. Les prochaines versions des fonctionnalités pour [!DNL Experience Manager] as a [!DNL Cloud Service]s sont planifiés comme suit.
+De nouvelles fonctionnalités [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=fr) sont généralement ajoutées mises à jour à un rythme mensuel. Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Service] sont prévues de la manière suivante.
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
@@ -27,7 +27,7 @@ ht-degree: 82%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Disponibilité des fonctionnalités | 28 avril 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Disponibilité des fonctionnalités | 26 mai 2022 |
 
-Outre les mises à jour de fonctionnalités, des correctifs de bogues critiques et de sécurité sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de versions de maintenance, avec une mise à jour de maintenance correspondante qui se produit généralement toutes les semaines.
+Outre les mises à jour de fonctionnalités, des correctifs de bogues critiques et de sécurité sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de versions de maintenance, avec une mise à jour de maintenance correspondante généralement toutes les semaines.
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
@@ -56,7 +56,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 >[!MORELIKETHIS]
 >
 >* [Tableau de fin de vie](https://helpx.adobe.com/fr/support/programs/eol-matrix.html)
->* Versions et mises à jour d’[[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=fr)
+>* Versions et mises à jour d’[[!DNL Experience Manager] ](https://helpx.adobe.com/fr/experience-manager/aem-releases-updates.html)
 >* Formation et assistance relatives à [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
 >* Définitions des véhicules de version de mise à jour d’[[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
