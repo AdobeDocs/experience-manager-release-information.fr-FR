@@ -1,10 +1,11 @@
 ---
 title: Pack de correctifs cumulés AEM 6.2
 description: Notes de mise à jour du pack de correctifs cumulés AEM 6.2.
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
+exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
+source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
+workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -107,7 +108,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 ### Pack de correctifs cumulés 19 {#cumulative-fix-pack-1}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP19 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP19 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -182,7 +183,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP19
 
 ### Pack de correctifs cumulés 18 {#cumulative-fix-pack-2}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP18 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP18 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -214,7 +215,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Problème de fonctionnalité de recherche avec le composant de liste Foundation. NPR-26817 : correctif pour CQ-4250324
 
-### Plate-forme {#platform}
+### Plateforme {#platform}
 
 * En raison du caractère spécial de tiret cadratin, l’éditeur ne parvient pas à vider le cache. NPR-27199 : correctif pour CQ-4242790
 
@@ -250,7 +251,7 @@ Liste des packages de contenu inclus dans AEM 6.2 SP1-CFP18
 
 ### Pack de correctifs cumulés 17 {#cumulative-fix-pack-3}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP17 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP17 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -289,7 +290,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * (Chrome, Firefox) VideoPlayer ignore les clics de souris sur les périphériques tactiles. Correctif pour CQ-4247370
 
-### Plate-forme {#platform-1}
+### Plateforme {#platform-1}
 
 * Autoriser la configuration du nombre maximal de reprises lors de l’acquisition/de la publication d’un package. NPR-25328 : correctif pour Granite-22376
 * Journalisation incorrecte en cas d’erreurs de réplication. NPR-25308 : correctif pour CQ-4249402
@@ -342,7 +343,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP17
 
 ### Pack de correctifs cumulés 16 {#cumulative-fix-pack-4}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP16 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP16 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -362,7 +363,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Lorsqu’un composant est ciblé sur une instance de publication, le scintillement apparaît pour illustrer l’expérience par défaut avant l’expérience ciblée. NPR-23992 : correctif pour CQ-4242038
 * Les expériences supprimées de l’environnement de création ne sont jamais supprimées du site de publication lors de l’activation de la page. NPR-24869 : correctif pour CQ-4247832
 
-### Plate-forme {#platform-2}
+### Plateforme {#platform-2}
 
 * Patch pour jQuery 1.12.4 de clientlib afin d’inclure un correctif de sécurité. NPR-24129 : correctif pour Granite-20058
 * Ajout de la prise en charge de STARTTLS dans Day CQ Mail Service. NPR-23941 : correctif pour CQ-4240397
@@ -454,7 +455,7 @@ Liste des packages de contenu inclus dans AEM 6.2SP1-CFP16
 
 ### Pack de correctifs cumulés 15 {#cumulative-fix-pack-5}
 
-Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP15 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/fr/experience-manager/6-2/release-notes/sp1.html).
+Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP15 est une mise à jour importante comportant des correctifs client importants publiés depuis la disponibilité générale d’[AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
@@ -480,7 +481,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Pendant le déploiement d’une LiveCopy avec plusieurs configurations de déploiement, si un ResourceNameConflict survient sous la racine, le flux de déploiement se termine sans inclure toutes les branches. NPR-22842 : correctif pour CQ-4236188
 
-### Plate-forme {#platform-3}
+### Plateforme {#platform-3}
 
 * Implémentez une limite d’interrogation dans une requête d’application inversée. NPR-23351 : correctif pour Granite-21135****
 * La modification du modèle de message n’est pas répercutée sur les journaux personnalisés. NPR-23486 : correctif pour CQ-4241974
@@ -498,7 +499,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les étiquettes des différents modes apparaissent avec les icônes. NPR-23275
 * Erreur « Valeur du sélecteur de récursivité non valide » lors de la migration d’un composant d’AEM 6.0 vers AEM 6.2. NPR-23503 : correctif pour CQ-4241258
 
-### Communities {#communities-1}
+### Communautés {#communities-1}
 
 * Les notifications par web et par email ne sont pas déclenchées en raison d’un échec d’envoi du message aux groupes. NPR-23447 : correctif pour CQ-4242880
 
@@ -709,7 +710,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Avec une latence élevée pendant l’actualisation d’un composant ciblé, il est possible d’ajouter une autre offre avant l’actualisation complète du composant. NPR-21744 : Correctif pour CQ-4233158 / CQ-4234293
 * Les utilisateurs ne peuvent pas voir les valeurs de paramètre statique de test dans l’appel mbox qui s’affiche lors du test avec AT.js comme bibliothèque cliente dans la configuration cloud. NPR-21930 : correctif pour CQ-4234520
 
-### Plate-forme {#platform-4}
+### Plateforme {#platform-4}
 
 * Problèmes de performances liés à la synchronisation des utilisateurs lorsque le nombre d’utilisateurs ou de groupes est important. NPR-20431 : correctif pour CQ-4223282
 * Utilisateurs non synchronisés avec la synchronisation des utilisateurs à l’aide de la distribution Sling. NPR-21911 : correctif pour Granite-20404
@@ -793,7 +794,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * Le processus de réinitialisation de Live Copy s’est arrêté après la suppression de la première page locale dans la LC. NPR-21276 : correctif pour CQ-4229743
 
-### Plate-forme {#platform-5}
+### Plateforme {#platform-5}
 
 * Les taglibs personnalisées qui font référence aux balises implémentées en tant que script sont introuvables après la mise à niveau vers AEM 6.3. NPR-20149 : correctif pour Granite-18433
 
@@ -836,7 +837,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * La mise à niveau vers la dernière mise à jour 131 de Java 8 produit une exception : « Le fournisseur JsafeJCE est désactivé, une vérification d’intégrité FIPS 140 requise a échoué ». NPR-21355
 
-   **Remarque :** Cette NPR nécessite des paramètres supplémentaires. Pour plus d’informations, reportez-vous à la [dernière mise à jour de Java 8](release-notes-aem-6-2-cumulative-fix-pack.md#latest-java-update-throws-an-exception-npr).
+   **Remarque :** Cette NPR nécessite des paramètres supplémentaires. Pour plus d’informations, reportez-vous à la [dernière mise à jour de Java 8](#latest-java-update-throws-an-exception-npr).
 
 * Mise à jour de Jsafe Jars vers Cryptoj 6.1.3.1 dans Core, Encryption, Signature &amp; Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -848,7 +849,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Mise à jour de Jsafe Jars vers Cryptoj 6.1.3.1 dans PDFG. NPR-21359
 
-#### Process Management {#process-management-1}
+#### Gestion des processus {#process-management-1}
 
 * (Workspace HTML) Activation du redimensionnement des colonnes afin que la catégorie de noms n’apparaisse pas tronquée. NPR-19770 : correctif pour CQ-4233668
 
@@ -892,7 +893,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * L’alias de propriété de page conduit à Demander la publication/Demander l’annulation de la publication. NPR-20731 : correctif pour CQ-4226227
 * Problèmes de composants de texte avec le codage du lien dans l’élément RTE. NPR-20755 : correctif pour CQ-4224321
 
-### Plate-forme {#platform-6}
+### Plateforme {#platform-6}
 
 * ResourceResolverImpl.map() n’appelle pas ResourceDecorator. NPR-20788 : correctif pour GRANITE-19718
 * org.apache.sling.i18n.DefaultLocaleResolver ne peut pas traiter les requêtes via org.apache.sling.engine.SlingRequestProcessor. NPR-20706 : correctif pour CQ-94880
@@ -957,7 +958,7 @@ Les principaux aspects pour AEM Forms sont les suivants :
 
 * Activez l’authentification de certificat pour les utilisateurs de Workbench. NPR-17548 : correctif pour CQ-4214486
 
-#### Process Management {#process-management-2}
+#### Gestion des processus {#process-management-2}
 
 * Le processus de préparation des données est appelé plusieurs fois lorsque le formulaire mobile est rendu avec les paramètres dataref. NPR-19801 : correctif pour CQ-4230427 : CQ-4230400
 
@@ -1000,7 +1001,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * (IU tactile) La suppression des lancements via la console d’interface utilisateur classique rend toutes les pages non modifiables. NPR-20520 : correctif pour CQ-4225074
 * La liste déroulante cible ne fonctionne pas avec plusieurs composants RTE dans une boîte de dialogue. NPR-20345 : correctif pour CQ-4220981
 
-### Plate-forme {#platform-7}
+### Plateforme {#platform-7}
 
 * Lors d’un accès via une session anonyme, ClientLibraryProxyServlet ne transmet pas de requêtes proxy aux bibliothèques clientes sur l’instance de publication et renvoie une erreur HTTP 404 introuvable. NPR-20195 : correctif pour Granite-14409
 
@@ -1084,7 +1085,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Page du site non affichée lors de l’affichage à l’aide d’un alias dans SiteAdmin. NPR-20053 : correctif pour CQ-4221478
 * Erreur lors de la publication d’une page Live Copy qui pointe vers une page d’importateur dans Adobe Campaigns. NPR-20066 : correctif pour CQ-4220846
 
-### Plate-forme {#platform-8}
+### Plateforme {#platform-8}
 
 * Mise à niveau d’Apache POI vers la version 3.16 afin de prendre en charge l’inclusion d’une image d’arrière-plan des diapositives PPT dans les rendus. NPR-18286
 * Problèmes de rendu avec Internet Explorer 11 et Edge lors du chargement de plusieurs ressources dans le même dossier. NPR-20062
@@ -1167,7 +1168,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les pages de copies de langue créées à partir Live Copies ne sont pas modifiables. NPR-18967
 * ReferencesUpdateAction ne parvient pas à mettre à jour les liens dans une LiveCopy imbriquée avec changement de hiérarchie. NPR-18715 : correctif pour CQ-4214105
 
-### Plate-forme {#platform-9}
+### Plateforme {#platform-9}
 
 * Le service Modèle de courrier électronique Adobe ajoute des balises aux modèles utilisateur personnalisés. NPR-19190 : correctif pour CQ-4217113
 
@@ -1272,7 +1273,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Problèmes de simultanéité dans AbstractCopyMoveCommand. NPR-18591
 * Lors de la copie de texte vers un composant parsys à partir d’une autre instance AEM, le parsys est créé sans type de ressource défini. NPR-18511 ; correctif pour CQ-4212306
 
-### Plate-forme {#platform-10}
+### Plateforme {#platform-10}
 
 * Le programme d’installation de JCR ne met pas à jour la version du lot après l’installation du package. NPR-18728 ; correctif pour NPR-15135
 * La réplication sans élément binaire (BLR) échoue avec les éléments binaires n/b de l’environnement de création et de publication. NPR-18704
@@ -1379,7 +1380,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Problèmes de performances lors du chargement d’une page avec des audiences importantes (2000+). NPR-17884 ; correctif pour CQ-4209567
 * Impossible de sélectionner une image après avoir supprimé une autre image de la page. NPR-17711 ; correctif pour CQ-4201323
 
-### Plate-forme {#platform-11}
+### Plateforme {#platform-11}
 
 * Les commandes de l’interface utilisateur tactile ne sont pas masquées pour les utilisateurs qui ne disposent pas des autorisations requises. NPR-17945 ; correctif pour CQ-4211231
 * Balises japonaises manquantes dans le champ tagpicker. NPR-17768 ; correctif pour CQ-4210456
@@ -1390,7 +1391,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 * La traversée de requête survient lorsque le plan directeur de catalogue n’a aucune condition définie pour une section. NPR-18229 ; correctif pour CQ-4211924
 
-### Communities {#communities-2}
+### Communautés {#communities-2}
 
 * PollingImporterImpl. retarde la fermeture d’AEM. NPR-18298 ; correctif pour CQ-96133
 
@@ -1543,7 +1544,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * Après avoir installé AEM Forms 6.2 GM et appliqué le CFP AEM 6.2, l’exécution de LiveCycle Configuration Manager fait apparaître un point-virgule indésirable dans les informations de version et la date d’installation du correctif n’est pas mise à jour. NPR-14322
 
-**Process Management**
+**Gestion des processus**
 
 * La variable TaskContext n’est pas renseignée pour les workflow AEM Forms. CQ-4211857
 
@@ -1593,7 +1594,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Correctifs de la gestion des processus et le service Output pour AEM Forms sur JEE
 * Correctif lié au Concepteur Forms pour l’éditeur de script
 
-### Plate-forme {#platform-12}
+### Plateforme {#platform-12}
 
 * Le formulaire de recherche de Search&amp;Promote ignore le paramètre `environment` lorsque le service cloud est configuré, ce qui le rend inutilisable sur l’instance de création. NPR-16594 : correctif pour CQ-4206076
 * L’ajout ou la personnalisation des colonnes dans les résultats de l’**Omni-recherche de ressources** par superposition dans /apps ne fonctionne pas. NPR-16737 : correctif pour CQ-4206785
@@ -1706,7 +1707,7 @@ La console de workflow des projets affiche une exception NullPointerException su
 * Un clic sur le bouton **[!UICONTROL Retour]** pour un formulaire dans l’espace de travail HTML ne ferme pas le formulaire, mais le renvoie à sa file d’attente de groupe.\
    NPR-16352
 
-**Process Management**
+**Gestion des processus**
 
 * Autoriser les utilisateurs de définir le nom d’affichage des tâches précédentes sur l’une des tâches suivantes d’une instance de processus. NPR-15382
 
@@ -1740,7 +1741,7 @@ Les principaux aspects du CFP3 sont les suivants :
 * Améliorations de l’utilisation des formulaires adaptatifs contenant des widgets de pièce jointe ou des fragments chargés différés.
 * Améliorations de l’utilisation de Correspondence Management, notamment la fonctionnalité de recherche, la journalisation des ressources supprimées et l’importation de dictionnaires de données.
 
-### Plate-forme {#platform-13}
+### Plateforme {#platform-13}
 
 * Une condition de course dans **ModelAdapterFactory**, qui est possible lorsque deux threads essaient d’injecter le même champ, entraîne l’échec de le construction du modèle. NPR-16443 : correctif pour SLING-6584
 * Option de validation dans le gestionnaire de modules pour détecter tout conflit entre un fichier recouvert (fichier JSP ou JavaScript) sous /apps et celui qui est contenu dans un correctif sous /libs. Le recouvrement affecté peut alors être réévalué afin d’inclure les modifications du fichier sous /libs. NPR-16216 : correctif pour CQ-81729
@@ -1749,7 +1750,7 @@ Les principaux aspects du CFP3 sont les suivants :
 
 ### Sites {#sites-16}
 
-* Après la mise à niveau d’AEM 6.0 vers AEM 6.2, l’interface utilisateur classique est lente lors de la recherche de balises en raison de nombreuses requêtes. Pour résoudre ce problème, vous pouvez suivre les étapes mentionnées sous [Désactivation de l’état de réplication dans la console de balisage (interface utilisateur Classic)](release-notes-aem-6-2-cumulative-fix-pack.md#disable-replication-status-in-tagging-console-classic-ui-npr). NPR-15842 : correctif pour CQ-4201748.
+* Après la mise à niveau d’AEM 6.0 vers AEM 6.2, l’interface utilisateur classique est lente lors de la recherche de balises en raison de nombreuses requêtes. Pour résoudre ce problème, vous pouvez suivre les étapes mentionnées sous [Désactivation de l’état de réplication dans la console de balisage (interface utilisateur Classic)](#disable-replication-status-in-tagging-console-classic-ui-npr). NPR-15842 : correctif pour CQ-4201748.
 
 * Lors de la création d’une page dans l’interface utilisateur tactile, la vérification d’entrée pour le champ « nom » ne vérifie pas le caractère spécial « Apostrophe » (identique à celui de l’interface utilisateur classique). La page ne peut donc pas être déplacée. NPR-16404 : correctif pour CQ-4205321.
 * L’application puis la fusion de styles différents sur deux lignes dans l’éditeur de texte enrichi supprime le style appliqué sur la deuxième ligne. NPR-16389 : correctif pour CQ-4203835.
@@ -1864,7 +1865,7 @@ Les principaux aspects du pack de correctifs cumulés 2 sont les suivants :
 * Amélioration de la création et de la gestion grâce à des correctifs dans les formulaires adaptatifs, la gestion de la correspondance et les fonctionnalités du portail de formulaires
 * Correctifs dans les composants de l’espace de travail Forms JEE de base, XTG et HTML
 
-### Plate-forme {#platform-14}
+### Plateforme {#platform-14}
 
 * `SlingPostProcessor` est déclenché si la page qui référence directement le cadre Sling est modifiée. NPR-15754 : correctif pour CQ-104153
 
@@ -2015,7 +2016,7 @@ Les principaux aspects d’AEM 6.2 SP2-CFP1 sont les suivants :
 * Améliore la gestion des balises dans les collectes dynamiques
 * Contrôles d’accès plus serrés pendant les opérations CRUD sur les dossiers
 
-### Plate-forme {#previous}
+### Plateforme {#previous}
 
 * Demande de suppression des appels d’API `ReplicationQueue#forceRetry` au démarrage des agents de réplication car ces appels ralentissent considérablement l’instance, en particulier lorsqu’elle dispose de nombreux agents de réplication. NPR-14032 : correctif pour GRANITE-13095
 * Demande de configuration `DurboImportConfigurationProviderService` OSGi pour prendre en charge les champs qui peuvent stocker un ensemble de valeurs. NPR-14570 : correctif pour CQ-108684
@@ -2270,15 +2271,15 @@ Les correctifs dans AEM Forms JEE sont fournis dans un programme d’installati
 
 Avec le pack de correctifs cumulés AEM 6.2 SP1-CFP7 et versions ultérieures, les délais de connexion sont devenus configurables sur toutes les connexions ci-dessus, selon les détails ci-dessous :
 
-| **Connexions** | **Délai de connexion*** | **Délai d’expiration du socket**** |
+| **Connexions** | **Délai de connexion&#42;** | **Délai d’expiration du socket&#42;&#42;** |
 |---|---|---|
 | DTM | 30 000 ms | 30 000 ms |
 | Analyses | 30 000 ms | 30 000 ms |
 | Cible | 60 000 ms | 30 000 ms |
 | Search&amp;Promote | 30 000 ms | 30 000 ms |
 
-* **Délai de connexion***- délai d’expiration en millisecondes jusqu’à ce qu’une connexion soit établie. Une valeur de délai nulle est interprétée comme un délai d’expiration infini.
-* **Délai d’expiration du socket****- délai (en millisecondes) d’attente des données ou période d’inactivité maximale entre deux paquets de données consécutifs.
+* **Délai de connexion&#42;**: délai en millisecondes jusqu’à ce qu’une connexion soit établie. Une valeur de délai nulle est interprétée comme un délai d’expiration infini.
+* **Délai d’expiration du socket&#42;&#42;**- Délai en millisecondes d’attente des données ou période d’inactivité maximale entre deux paquets de données consécutifs.
 
 >[!NOTE]
 >
@@ -2330,7 +2331,7 @@ La NPR-21355 est incluse dans le CFP12.1. Si vous installez le CFP12.1 ou une ve
 
 1. Créez une sauvegarde des fichiers jsafeFIPS.jar, jsafeJCEFIPS.jar et certjFIPS.jar situés dans [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/ et supprimez les fichiers du répertoire susmentionné.
 
-   Contactez l’[assistance Adobe](https://helpx.adobe.com/fr/marketing-cloud/contact-support.html) pour obtenir de nouveaux fichiers JAR. Placez les fichiers JAR obtenus auprès de l’[assistance à l’Adobe](https://helpx.adobe.com/fr/marketing-cloud/contact-support.html) sous [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/
+   Contactez l’[assistance Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) pour obtenir de nouveaux fichiers JAR. Placez les fichiers JAR obtenus auprès de l’[assistance à l’Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) sous [Répertoire_d_installation_d_AEM_Forms]/jboss/modules/system/couches/base/com/adobe/livecycle/main/
 
 1. (Windows uniquement) Modifiez les fichiers de configuration `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` ou `domain.conf.bat` :
 

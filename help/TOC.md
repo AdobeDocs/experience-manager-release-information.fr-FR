@@ -7,12 +7,12 @@ user-guide-title: Feuille de route et mises à jour de version d’Adobe Experie
 breadcrumb-title: Informations sur la version AEM
 user-guide-description: Reportez-vous aux dernières mises à jour d’AEM.
 feature-set: Experience Manager
-feature: Informations sur la version
+feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: fc68824d378c564a696b44ecc161c61920d2ba1b
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 100%
 + [Feuille de route des versions d’AEM](update-releases-roadmap.md)
 + [Définitions des véhicules de version de mise à jour d’AEM](update-release-vehicle-definitions.md)
 + Mises à jour de versions précédentes {#previous-updates}
-   + [Pack de correctifs cumulés AEM 6.3](release-notes-aem-6-3-cumulative-fix-pack.md)
-   + [Pack de correctifs cumulés AEM 6.2](release-notes-aem-6-2-cumulative-fix-pack.md)
    + [Anciennes versions d’AEM, CQ et CRX](aem-previous-versions.md)
 + Mises à jour des versions d’AEM Forms {#forms-updates}
    + [Versions d’AEM Forms](aem-forms-releases.md)
