@@ -3,8 +3,8 @@ title: « Feuille de route et mises à jour de version d’[!DNL Adobe Experien
 description: « Feuille de route et mises à jour de version d’[!DNL Adobe Experience Manager] »
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: e6e7ea43a2424021df70a9b9d1a25794f54ba7d2
-workflow-type: tm+mt
-source-wordcount: '56'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
