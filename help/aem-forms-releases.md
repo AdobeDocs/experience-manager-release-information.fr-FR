@@ -656,7 +656,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr>
    <tr>
    <td>21 décembre 2021</td>
-   <td>Package de module complémentaire Forms pour AEM 6.3 Pack de correctifs cumulés 6.3.3.8</td>
+   <td>Package de module complémentaire Forms pour AEM 6.3 Pack de correctifs cumulés 6.3.3.8</td>
    <td>AEM 6.3.3.8</td>
    <td>
     <ul>
@@ -676,7 +676,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr>
   <tr>
    <td>5 mars 2020</td>
-   <td>Package de module complémentaire Forms pour AEM 6.3 Pack de correctifs cumulés 6.3.3.8</td>
+   <td>Package de module complémentaire Forms pour AEM 6.3 Pack de correctifs cumulés 6.3.3.8</td>
    <td>AEM 6.3.3.8</td>
    <td>
     <ul>
@@ -798,7 +798,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr>
   <tr>
    <td>12 septembre 2018</td>
-   <td>Package de module complémentaire d’AEM 6.3 Service Pack 3 Forms</td>
+   <td>Package de module complémentaire d’AEM 6.3 Service Pack 3 Forms</td>
    <td>AEM 6.3.3.0</td>
    <td>
     <ul>
@@ -847,7 +847,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr>
   <tr>
    <td>5 avril 2018</td>
-   <td>Package de module complémentaire d’AEM 6.3 Service Pack 2 Forms</td>
+   <td>Package de module complémentaire d’AEM 6.3 Service Pack 2 Forms</td>
    <td>AEM 6.3.2.0</td>
    <td>
     <ul>
@@ -901,7 +901,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
   </tr>
   <tr>
    <td>13 octobre 2017</td>
-   <td>Package de module complémentaire d’AEM 6.3 Service Pack 1 Forms</td>
+   <td>Package de module complémentaire d’AEM 6.3 Service Pack 1 Forms</td>
    <td>AEM 6.3 Service Pack 1</td>
    <td>
     <ul>
@@ -971,7 +971,7 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
 
 `[2]` Le package de module complémentaire AEM [!DNL Forms] pour Mac OS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package Mac OS X.
 
-`[3]` **IMPORTANT** : Avant d’installer le package AEM Forms on JEE embed, installez le Pack AEM de correctifs cumulés 6.3.1.1 et assurez-vous que la version de lot **Apache Sling Authentication Service** est 1.4.0 ou plus, faute de quoi le serveur risque de ne plus répondre et de ne plus pouvoir être récupéré. Vous pouvez vérifier la version du lot à l’adresse `http://[server]:[port]/system/console/bundles`.
+`[3]` **IMPORTANT** : Avant d’installer le package AEM Forms on JEE embed, installez le pack AEM de correctifs cumulés 6.3.1.1 et assurez-vous que la version de lot **Apache Sling Authentication Service** est 1.4.0 ou plus, faute de quoi le serveur risque de ne plus répondre et de ne plus pouvoir être récupéré. Vous pouvez vérifier la version du lot à l’adresse `http://[server]:[port]/system/console/bundles`.
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
