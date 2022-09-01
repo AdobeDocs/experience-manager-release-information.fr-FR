@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4f49de4eceec65b55cb6e313d707c3d9fc0585de
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: e7a4a7baf9804714495629ebf7bf03664d7faedc
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Les mises à jour de la feuille de route disponibles dans cet article sont fournies à titre indicatif et peuvent être modifiées à tout moment.
+>Les dates ci-dessous et les mises à jour de la feuille de route disponibles dans cet article sont disponibles à titre indicatif et peuvent changer à tout moment.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
