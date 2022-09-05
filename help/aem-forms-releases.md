@@ -3,10 +3,10 @@ title: Versions d’AEM Forms
 description: Contient la liste de toutes les versions d’AEM Forms et des packages correspondants
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: a23108dec43d4da389805619bcdde6544d067bf4
+source-git-commit: 6848b01d5463092d4ca4b0f51e8bbf5cf10e3a79
 workflow-type: tm+mt
-source-wordcount: '13150'
-ht-degree: 99%
+source-wordcount: '13195'
+ht-degree: 98%
 
 ---
 
@@ -49,15 +49,18 @@ La liste suivante contient tous les packages de modules complémentaires AEM [!D
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebLogic/Linux/AEMForms-6.5.0-0053_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Win/AEMForms-6.5.0-0053_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Linux/AEMForms-6.5.0-0053_websphere_linux.tar.gz">WebSphere Linux</a></li>
+      <br><b>SDK</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.772/">SDK client AEM Forms</a> </li>
       <br>
-      <br><b>Concepteur Forms</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_English_Cumulative_QF.msp">Programme d’installation de l’anglais</a> </li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_French_Cumulative_QF.msp">Programme d’installation du français</a> </li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp">Programme d’installation de l’allemand</a> </li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp">Programme d’installation du japonais</a> </li>
-      </ul> </td>
-    <td><p>Programme d’installation d’AEM Forms JEE : AEMForms-6.5.0-0052<br /> <p>Packages de modules complémentaires d’AEM Forms : 6.0.772</p></td>
-   </tr>
+
+    &lt;br>&lt;b>Forms Designer&lt;/b>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_English_Cumulative_QF.msp&quot;>Programme d&#39;installation en langue anglaise&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_French_Cumulative_QF.msp&quot;>Programme d&#39;installation de langue française&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp&quot;>Programme d’installation de langue allemande&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp&quot;>Programme d&#39;installation de la langue japonaise&lt;/a> &lt;/li>
+    &lt;/ul> &lt;/td>
+    &lt;td>&lt;p>Programme d’installation d’AEM Forms JEE : AEMForms-6.5.0-0052&lt;br /> &lt;p>Packages de modules complémentaires AEM Forms : 6.0.772&lt;/p>&lt;/p>&lt;/td>
+</tr>
    <tr>
     <td>2 juin 2022</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Package de modules complémentaires AEM Forms Service Pack 13 Forms pour AEM 6.5.13.0</a></td>
