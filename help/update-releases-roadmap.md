@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: bc57d5d74c91ff4af4f14886a1ba2aefb5daed9f
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Les dates ci-dessous et les mises à jour de la feuille de route disponibles dans cet article sont disponibles à titre indicatif et peuvent changer à tout moment.
+>Les dates ci-dessous et les mises à jour de la feuille de route disponibles dans cet article sont fournies à titre indicatif uniquement et peuvent être modifiées à tout moment.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
