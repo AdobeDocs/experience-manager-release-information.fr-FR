@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9c88f7e7b89c487c56d51979d7044bf889bed8da
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ De nouvelles fonctionnalités [[!DNL Experience Manager] as a [!DNL Cloud Servic
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | Disponibilité des fonctionnalités | 1 septembre 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Disponibilité des fonctionnalités | 27 octobre 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.12.0 | 2022.12.0 | Disponibilité des fonctionnalités | 15 décembre 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.12.0 | 2022.12.0 | Disponibilité des fonctionnalités | 15 décembre 2022 |
 
 Outre les mises à jour de fonctionnalités, des correctifs de bogues critiques et de sécurité sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de versions de maintenance, avec une mise à jour de maintenance correspondante généralement toutes les semaines.
 
