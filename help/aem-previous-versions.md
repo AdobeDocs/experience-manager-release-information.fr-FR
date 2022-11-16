@@ -1,19 +1,21 @@
 ---
-title: Anciennes versions d’AEM, CQ et CRX
-description: Modules de documentation des versions antérieures d’Adobe Experience Manager, de CQ et de CRX.
+title: Télécharger des versions plus anciennes de la documentation d’AEM, de CQ et de CRX
+description: Téléchargez les modules de documentation pour les anciennes versions d’Adobe Experience Manager, de CQ et de CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 971c4b389b94be04edb48762bb8546fdb6faebe4
+source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 100%
+source-wordcount: '836'
+ht-degree: 92%
 
 ---
 
-# Anciennes versions d’[!DNL Adobe Experience Manager], CQ et CRX {#older-versions-aem-cq-crx}
+# Anciennes versions de [!DNL Adobe Experience Manager]Documentation de , CQ et CRX {#older-versions-aem-cq-crx}
+
+Recherchez des guides d’aide précédents pour les anciennes versions d’AEM, de CQ et de CRX.
 
 ## Documentation des anciennes versions d’[!DNL Experience Manager] {#older-version-aem-documentation}
 
-Les versions d’[!DNL Adobe Experience Manager], de CQ et de CRX répertoriées sur cette page sont en fin de vie et ne sont plus officiellement vendues par Adobe. Les dernières versions de la documentation officielle relative à ces anciennes versions sont disponibles en libre-service. Nous vous conseillons d’effectuer une mise à niveau à la version la plus récente - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).
+Les versions de [!DNL Adobe Experience Manager], CQ et CRX répertoriés sur cette page sont en fin de vie et ne sont plus officiellement vendus par Adobe. Les dernières versions de la documentation officielle relative à ces anciennes versions sont disponibles en libre-service. Nous vous conseillons d’effectuer une mise à niveau à la version la plus récente - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).
 
 >[!NOTE]
 >
