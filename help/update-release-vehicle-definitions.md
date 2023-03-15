@@ -3,14 +3,14 @@ title: Définitions des véhicules de version de mise à jour
 description: Cet article décrit les différents types de publications d’ [!DNL Experience Manager] , y compris les versions, les Feature Packs et les Service Packs.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
-# Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager] {#update-release-vehicle-definitions}
+# Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager]  {#update-release-vehicle-definitions}
 
 Ce document contient des informations à propos des différents types de versions d’[!DNL Adobe Experience Manager], dont les versions intégrales, les Feature Packs et les Service Packs mis par [!DNL Adobe] à la disposition des clients.
 
@@ -22,7 +22,7 @@ Ce document contient des informations à propos des différents types de version
 
 | Eléments | Description |
 |-------|------|
-| Définition | <ul> <li> Version programmée </li> <li> Prend en charge les chemins d’accès aux mises à niveau pour des versions spécifiques, définis dans les notes de mise à jour </li> </ul> |
+| Définition | <ul> <li> Version programmée </li> <li> Prend en charge les chemins de mise à niveau pour des versions spécifiques définies dans les notes de mise à jour. </li> </ul> |
 | Dénomination | <ul> <li> Les numéros de version pour les versions majeures augmentent selon la formule X+1.Y.Z. </li> <li> Les numéros de version pour les versions mineures augmentent selon la formule X.Y+1.Z </li> </ul> Où X est le numéro de version principal, Y est le numéro de version secondaire et Z le numéro de correctif. |
 | Inclusions | <ul> <li> Nouvelles fonctionnalités </li> <li>  Améliorations </li> <li>  Correctifs </li> </ul> |
 | Documentation | <ul> <li> Les notes de mise à jour sont disponibles sur le portail de documentation. </li> <li> La documentation sur les fonctionnalités, les améliorations et les correctifs est disponible sur le portail de documentation </li> </ul> |
@@ -39,10 +39,10 @@ Ce document contient des informations à propos des différents types de version
 | Inclusions | <ul> <li> Nouvelles fonctionnalités</li> <li>  Améliorations </li> <li> Correctifs </li> <li> Feature Packs d’intérêt commun (le cas échéant) </li> </ul> |
 | Documentation | <ul> <li> Notes de mise à jour disponibles sur le portail de documentation </li> <li> Documentation sur les fonctionnalités, les améliorations et les correctifs de bogues sur le portail de documentation </li> </ul> |
 | Fréquence | Trimestrielle |
-| Disponibilité et installation | <ul> <li> Livré sous la forme d’un module. </li> <li> Disponible sur la distribution logicielle</li> <li>  Nécessite une installation fonctionnelle existante </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li> Disponible sur la distribution logicielle</li> <li>  Nécessite une installation fonctionnelle existante </li> </ul> |
 | Niveau de test | <ul> <li> Tous les correctifs ont été validés par le contrôle qualité </li> <li>  Fonctionnement général des packages avec les exécutions d’automatisation </li> </ul> |
 
-## Pack de correctifs cumulés {#cumulative-fix-pack-aem}
+## Pack de correctifs cumulés  {#cumulative-fix-pack-aem}
 
 | Élément | Description |
 |-----|-----|
@@ -51,7 +51,7 @@ Ce document contient des informations à propos des différents types de version
 | Inclusions | Un pack de correctifs cumulés (CFP) contient des correctifs de l’ensemble des composants aux dates spécifiées. Par exemple, si un client applique CFP3, alors CFP3 = CFP1 + CFP2. |
 | Documentation | Notes de mise à jour disponibles sur le portail de documentation |
 | Fréquence | Trimestrielle |
-| Disponibilité et installation | <ul> <li> Livré sous la forme d’un module. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendant du dernier Service Pack publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients n’ont pas à se soucier de trouver/résoudre des problèmes de dépendances. Le pack de correctifs cumulés doit être installé sur le dernier Service Pack publié. </li> <li>  Le pack de correctifs cumulés peut être installé en tant que module unique, ce qui améliore l’expérience client.  </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendant du dernier Service Pack publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients n’ont pas à se soucier de trouver/résoudre des dépendances. Le pack de correctifs cumulés doit être installé sur le dernier Service Pack publié. </li> <li>  Le pack de correctifs cumulés peut être installé en tant que package unique, ce qui améliore l’expérience client.  </li> </ul> |
 | Niveau de test | Contrôle qualité validé au niveau de l’intégration et test de régression |
 
 ## Recouvrement {#overlay}
@@ -77,4 +77,4 @@ Ce document contient des informations à propos des différents types de version
 | Disponibilité et installation | <ul> <li>Livré par le biais de Service Packs </li> <li> Disponible sur la distribution logicielle. Les clients acceptent les Termes et conditions[!DNL Adobe's] par le biais de la distribution logicielle. </li> </ul> |
 | Niveau de test | Les Feature Packs de disponibilité générale (GA) sont validés par le contrôle qualité. |
 
-* 1 : les correctifs OAK ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulé Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulés Oak peut être mis à votre disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les diagnostics intégrés fournissent le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne proposent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulés, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulés.
+* 1 : Les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulé Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulés Oak peut être mis à votre disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les diagnostics intégrés fournissent le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas autant d’assurance qualité qu’un pack de correctifs cumulatif, un service pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulés.
