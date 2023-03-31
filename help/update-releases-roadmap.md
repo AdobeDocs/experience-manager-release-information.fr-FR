@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 537a8fdea84c0bf14a53b37aeb1c7324b53752a4
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Outre les mises à jour de fonctionnalités, des correctifs de bugs et de sécur
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
-Mises à jour de produit en termes de nouvelles fonctionnalités, améliorations et corrections de bogues pour la prise en charge [!DNL Experience Manager] On-premise et Managed Services sont livrés par le biais de Service Packs trimestriels et de Cumulative Fix Packs (CFP). Cela permet l’adoption plus rapide de mises à jour de produits par le biais de publications fréquentes. Le calendrier des prochaines mises à jour de produits est le suivant.
+Les mises à jour des produits en termes de nouvelles fonctionnalités, d’améliorations et de correctifs pour [!DNL Experience Manager] On-premise et Managed Services pris en charge sont fournies par le biais de Service Packs et de packs de correctifs cumulatifs (CFP) trimestriels. Cela permet l’adoption plus rapide de mises à jour de produits par le biais de publications fréquentes. Le calendrier des prochaines mises à jour de produits est le suivant.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
