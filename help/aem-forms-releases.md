@@ -3,7 +3,7 @@ title: Versions d’AEM Forms
 description: Contient la liste de toutes les versions d’AEM Forms et des packages correspondants
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 14055b4a8d04f3a3e66d83579b310f7a6eac52f1
+source-git-commit: 845c8e7db35bce391ed380d36642e2e84c045c56
 workflow-type: tm+mt
 source-wordcount: '14264'
 ht-degree: 99%
