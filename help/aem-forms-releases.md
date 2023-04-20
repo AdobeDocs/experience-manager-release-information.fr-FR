@@ -4,9 +4,9 @@ description: Contient la liste de toutes les versions d’AEM Forms et des packa
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 845c8e7db35bce391ed380d36642e2e84c045c56
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14264'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms] est une application déployée sur AEM. El
 >
 >AEM Forms publie les packages de modules complémentaires une semaine après la date de publication du Service Pack AEM et du Pack de correctifs cumulés.
 
-La liste suivante contient toutes les AEM [!DNL Forms] modules complémentaires publiés jusqu’à aujourd’hui, versions d’AEM correspondantes (conditions préalables), liens de téléchargement des modules et autres informations utiles.
+La liste suivante contient tous les packages de modules complémentaires d’AEM [!DNL Forms] publiés jusqu’à aujourd’hui, les versions d’AEM correspondantes (Conditions préalables), les liens de téléchargement des packages et d’autres informations utiles.
 
 ## Versions d’AEM [!DNL Forms] 6.5 {#aem-65-forms-releases}
 
@@ -61,7 +61,7 @@ La liste suivante contient toutes les AEM [!DNL Forms] modules complémentaires 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">Programme d’installation de la langue espagnole</a> </li>
       </ul> 
       </td>
-    <td><p>Programme d’installation AEM Forms JEE : AEMForms-6.5.0-0062<br/><p>Packages de modules complémentaires AEM Forms : 6.0.914</p></td>
+    <td><p>Programme d’installation AEM Forms JEE : AEMForms-6.5.0-0062<br/><p>Packages de modules complémentaires d’AEM Forms : 6.0.914</p></td>
    </tr>
    <tr>
     <td>1er décembre 2022</td>
