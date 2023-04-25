@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 070e40df3293af42558f94d50cfdf8aca7180195
+source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,11 +23,13 @@ ht-degree: 100%
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Activation de fonctionnalités | 10 novembre 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Activation de fonctionnalités | 9 février 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Activation de fonctionnalités | 12 avril 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Activation de fonctionnalités | 4 mai 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Activation de fonctionnalités | 25 mai 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Activation de fonctionnalités | 18 mai 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | Activation de fonctionnalités | 29 juin 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | Activation de fonctionnalités | 27 juillet 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | Activation de fonctionnalités | 31 août 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | Activation de fonctionnalités | 28 septembre 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | Activation de fonctionnalités | 26 octobre 2023 |
 
 Outre les mises à jour de fonctionnalités, des correctifs de bugs et de sécurité critiques sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de versions de maintenance, avec une mise à jour de maintenance correspondante généralement à une fréquence plus élevée.
 
@@ -41,10 +43,10 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 
 | Mise à jour | Version | Type | Planification |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 août 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24 novembre 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 février 2023 |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mai 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 31 août 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 30 novembre 2023 |
 
 >[!NOTE]
 >
