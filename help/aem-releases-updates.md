@@ -3,9 +3,9 @@ title: « Mises à jour des versions d’[!DNL Adobe Experience Manager] »
 description: « Mises à jour des versions d’[!DNL Adobe Experience Manager] »
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '254'
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ Cet article répertorie la dernière version de chaque catégorie de publication
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] suit une cadence de publication mensuelle. Ainsi, de nouvelles fonctionnalités sont disponibles sous la forme de mises à jour continues d’[!DNL Experience Manager] chaque mois.
+[!DNL Experience Manager] as a[!DNL Cloud Service] cible généralement une cadence de mise à jour mensuelle pour de nouvelles fonctionnalités.
 
 Consultez les [Notes de mise à jour actuelles pour [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) pour plus d’informations sur la version actuelle ou la dernière version. À partir de là, vous pouvez également accéder aux informations des versions antérieures (classées chronologiquement).
 
@@ -33,13 +33,3 @@ Pour Managed Services et les offres On-Premise, cet article répertorie la derni
 Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs.
 
 Pour plus d’informations sur la version actuelle/la plus récente, voir le [[!DNL Experience Manager] dernier pack de fonctionnalités 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr). À partir de là, vous pouvez également accéder aux informations des versions antérieures (classées chronologiquement).
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-Les mises à jour du produit [!DNL Experience Manager] 6.4 sont fournies dans le cadre des CFP trimestriels. Elles comportent des correctifs.
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Pack de correctifs cumulés 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr)
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=fr)
-
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=fr)
