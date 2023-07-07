@@ -6,7 +6,7 @@ exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -71,10 +71,10 @@ Ce document contient des informations à propos des différents types de version
 |--------|-----|
 | Définition | <ul> <li>Les Feature Packs sont des fonctionnalités ajoutées et sont fournis par l’intermédiaire des Service Packs. Si le dernier Service Pack d’une version d’[!DNL Experience Manager] est publié, Adobe ne fournira plus aucun Feature Pack pour celle-ci à l’avenir. </li> <li> Les Feature Packs contiennent des améliorations de produit, prévues pour une version ultérieure du produit, mais diffusées rapidement en fonction de la décision des responsables des produits d’[!DNL Adobe's].</li> <li>  Les fonctionnalités sont toujours fusionnées avec la prochaine publication majeure, puis rétroportées à la version d’[!DNL Experience Manager] requise par le client </li> <li>  Les Feature Packs d’intérêt commun et de disponibilité générale (GA) sont fusionnés dans le prochain Service Pack.  </li> </ul> |
 | Dénomination | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
-| Inclusions | <ul> <li> Nouvelles fonctionnalités </li> <li> Améliorations </li> <li> Correctifs de bogues (mises à jour incrémentielles des produits) </li> </ul> |
+| Inclusions | <ul> <li> Nouvelles fonctionnalités </li> <li> Améliorations </li> <li> Correctifs de bugs (mises à jour incrémentielles des produits) </li> </ul> |
 | Documentation | La documentation est disponible sur adobe.com. |
 | Fréquence | Varie en fonction du domaine du produit. |
 | Disponibilité et installation | <ul> <li>Livré par le biais de Service Packs </li> <li> Disponible sur la distribution logicielle. Les clients acceptent les Termes et conditions [!DNL Adobe's] par le biais de la distribution logicielle. </li> </ul> |
 | Niveau de test | Les Feature Packs de disponibilité générale (GA) sont validés par le contrôle qualité. |
 
-* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulé Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulés Oak peut être mis à votre disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les builds de diagnostic fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulatifs.
+* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulé Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulés Oak peut être mis à votre disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les diagnostic fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulatifs.

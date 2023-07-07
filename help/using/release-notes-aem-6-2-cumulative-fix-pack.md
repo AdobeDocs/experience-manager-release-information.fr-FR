@@ -5,7 +5,7 @@ exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 ### Pack de correctifs cumulés {#cumulative-fix-pack}
 
-Adobe a introduit un modèle de diffusion unique pour la publication des correctifs. Au lieu de publier des correctifs ad hoc pour chaque problème, Adobe publie désormais un pack de correctifs cumulés (CFP) tous les mois (sous réserve de contrôles de qualité satisfaisants). Un CFP est un package de contenu agrégé pour plusieurs correctifs. Les CFP comprennent principalement des correctifs de bugs, mais peuvent également inclure des Feature Packs. Ils présentent les avantages suivants par rapport aux versions individuelles des correctifs :
+Adobe a introduit un modèle de diffusion unique pour la publication des correctifs. Au lieu de publier des correctifs ad hoc pour chaque problème, Adobe publie désormais un pack de correctifs cumulés (CFP) tous les mois (sous réserve de contrôles de qualité satisfaisants). Un CFP est un package de contenu agrégé pour plusieurs correctifs. Les CFP comprennent principalement des correctifs de bugs, mais peuvent également inclure des Feature Packs. Ils présentent les avantages suivants par rapport aux versions individuelles des correctifs :
 
 * Cumulatif par nature (par exemple, un CFP contient des correctifs apportés par le biais de CFP précédents)
 * Amélioration de l’assurance qualité
@@ -49,7 +49,6 @@ Le pack de correctifs cumulés d’AEM 6.2 SP1-CFP20, dernier pack de correctif
 >
 >* Adobe recommande de déployer CFP par le biais du dossier d’installation pour les clients qui comptent un grand nombre d’utilisateurs sur une instance AEM.
 >
-
 
 ## Problèmes inclus {#issues-included}
 
@@ -205,7 +204,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Les champs d’entrée d’ancrage apparaissent hors de la section visible des navigateurs dans la boîte de dialogue jusqu’à ce qu’ils soient agrandis. NPR-26852 : correctif pour CQ-4255019
 * L’opération de copier-coller du texte insère le texte indésirable &lt;br> dans le fragment de contenu. NPR-26660 : correctif pour CRTE-151
 * L’administrateur de site Classic ne génère pas la liste dans le volet de droite pour certaines pages. NPR-27247 : correctif pour CQ-4251621
-* (IU classique) Toute tentative de déplacement/changement de nom de page génère une erreur &quot;Une erreur s’est produite lors du déplacement de la page&quot;. NPR-27179 : correctif pour CQ-4235907
+* (UI classique) Les tentatives de déplacement/renommage des pages génèrent une erreur, « Une erreur s’est produite lors du déplacement de la page ». NPR-27179 : correctif pour CQ-4235907
 
 ### Intégration {#integration-2}
 
@@ -435,7 +434,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 #### Formulaires adaptatifs {#adaptive-forms-3}
 
-* Erreur &quot;Guidelib is not defined&quot; lors de l’ajout AEM formulaire au composant parsys. NPR-24269 : correctif pour CQ-4244546
+* Erreur « Guidelib n’est pas défini » lors de l’ajout d’un formulaire AEM au composant parsys. NPR-24269 : correctif pour CQ-4244546
 
 ### Programme d’installation de Forms JEE {#forms-jee-installer-4}
 
@@ -467,7 +466,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 ### Ressources {#assets-4}
 
-* Les données EmbedXMP sont toujours définies sur &quot;principal&quot; pour le processus de génération Ptiff. NPR-22776 : correctif pour CQ-4234498
+* Les données EmbedXMP sont toujours définies comme « actives » pour le processus de génération Ptiff. NPR-22776 : correctif pour CQ-4234498
 * Impossible de définir plusieurs valeurs par défaut dans les champs à plusieurs valeurs. NPR-22900 : correctif pour CQ-4239000
 * (Dynamic Media) Lorsque vous cochez la case Rendus dynamiques, le fichier zip téléchargé génère l’image TIFF d’origine avec un fichier à zéro octet. NPR-22410 : correctif pour CQ-4198471
 * (IU tactile) Emplacement de téléchargement par défaut des ressources en mode Colonnes. NPR-23475 : correctif pour CQ-4237057
@@ -505,12 +504,12 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 
 ### Traduction {#translation-1}
 
-* Les copies de langue de la ressource sont créées lorsque la ressource &quot;Ne pas traduire&quot; est définie sur la configuration de traduction. NPR-22540 : correctif pour CQ-4237962
+* Les copies de langue des ressources sont créées lorsque la ressource « Ne pas traduire » est définie sur la configuration de traduction. NPR-22540 : correctif pour CQ-4237962
 
 ### Interface utilisateur {#user-interface-1}
 
 * L’utilisation d’Omni-recherche avec une requête de trait d’union renvoie une erreur de serveur. NPR-22999 : correctif pour Granite-19674
-* DatePicker ne prend pas en charge la définition manuelle d’un indice de type externe défini par un champ masqué. La modification de l’indicateur de type génère une erreur de conversion. NPR-23333 : correctif pour Granite-21194
+* Le sélecteur de date ne prend pas en charge la définition manuelle d’un conseil de type externe par un champ masqué. La modification de l’indicateur de type génère une erreur de conversion. NPR-23333 : correctif pour Granite-21194
 
 ### WCM - Composants Foundation {#wcm-foundation-components-2}
 
@@ -715,7 +714,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Problèmes de performances liés à la synchronisation des utilisateurs lorsque le nombre d’utilisateurs ou de groupes est important. NPR-20431 : correctif pour CQ-4223282
 * Utilisateurs non synchronisés avec la synchronisation des utilisateurs à l’aide de la distribution Sling. NPR-21911 : correctif pour Granite-20404
 * Prévention de la mise en surbrillance de mots vides dans les extraits de recherche (sur une page de Geometrixx). NPR-21835 : correctif pour Granite-21067\
-   Remarque : Ce correctif nécessite Oak CFP 1.4.20 ou version supérieure.
+  Remarque : Ce correctif nécessite Oak CFP 1.4.20 ou version supérieure.
 
 ### Traduction {#translation-3}
 
@@ -837,7 +836,7 @@ Les correctifs d’AEM Forms sont fournis par le biais de packages de modules co
 
 * La mise à niveau vers la dernière mise à jour 131 de Java 8 produit une exception : « Le fournisseur JsafeJCE est désactivé, une vérification d’intégrité FIPS 140 requise a échoué ». NPR-21355
 
-   **Remarque :** Cette NPR nécessite des paramètres supplémentaires. Pour plus d’informations, reportez-vous à la [dernière mise à jour de Java 8](#latest-java-update-throws-an-exception-npr).
+  **Remarque :** Cette NPR nécessite des paramètres supplémentaires. Pour plus d’informations, reportez-vous à la [dernière mise à jour de Java 8](#latest-java-update-throws-an-exception-npr).
 
 * Mise à jour de Jsafe Jars vers Cryptoj 6.1.3.1 dans Core, Encryption, Signature &amp; Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -1065,7 +1064,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Correctifs dans la valeur Resourcetype dans le nœud de canevas.
 * Activation de la fonctionnalité de recherche de caractères spéciaux et sensible à la casse pour le contenu du fragment de document.
 * Amélioration des Formulaires adaptatifs pour joindre un PDF comme pièce jointe dans Safari.\
-   Fournit un nouveau Dynamic Media qui se connecte à la nouvelle infrastructure de publication Dynamic Media pour une réplication plus rapide et plus évolutive.
+  Fournit un nouveau Dynamic Media qui se connecte à la nouvelle infrastructure de publication Dynamic Media pour une réplication plus rapide et plus évolutive.
 
 ### Ressources {#assets-10}
 
@@ -1208,7 +1207,6 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 >* Le contenu du fragment de document est sensible à la casse et les titres ne le sont pas.
 >* Les résultats de la recherche ne sont pas mis en évidence lorsqu’une partie du mot recherché est dans un style différent ou contient un caractère spécial tel que &quot; ou ‘ ou \.
 >* La recherche ne fonctionne pas pour le contenu dynamique (comme les valeurs d’élément du dictionnaire de données ou les valeurs de variable) dans le fragment de document.
-
 
 #### Forms Manager {#forms-manager-2}
 
@@ -1480,7 +1478,7 @@ Les principaux aspects de ce pack de correctifs cumulés sont les suivants :
 * Lors du déplacement d’une page à l’aide de l’interface utilisateur classique et tactile, la boîte de dialogue Déplacer n’affiche pas les références au-delà de 150, ce qui empêche les utilisateurs de mettre à jour ces références et de republier la page. Ce problème a été résolu en introduisant une propriété pour l’interface utilisateur Classic : &quot;maxRefNo&quot; qui peut être configuré sur le nœud siteadmin : « /libs/wcm/core/content/siteadmin ». Cette propriété spécifie le nombre maximum de références (valeur par défaut 150) qui s’affichent avant une opération de déplacement importante et si une page comporte plus de références, elles ne sont pas affichées dans la boîte de dialogue movePage. Cette configuration fonctionne également pour damadmin et miscadmin en appliquant la configuration aux nœuds : `'/libs/wcm/core/content/damadmin'` et `'/libs/wcm/core/content/miscadmin'` respectivement. NPR-17222 ; correctif pour CQ-85878
 
 * Lorsque vous travaillez avec des composants WCM, les liens hypertexte contenant des espaces sont supprimés dans l’éditeur de texte enrichi de l’interface utilisateur tactile. NPR-17698, NPR-17570 ; correctif pour CQ-4206768
-* Lors du déclenchement du flux de travail de requête d’annulation de la publication à partir des propriétés de la page, des erreurs JavaScript apparaissent pour les utilisateurs qui ne disposent pas d’autorisations de réplication. NPR-17294 ; correctif pour CQ-102064
+* Lors du déclenchement du workflow de requête d’annulation de la publication à partir des propriétés de la page, des erreurs JavaScript apparaissent pour les utilisateurs qui ne disposent pas d’autorisations de réplication. NPR-17294 ; correctif pour CQ-102064
 * Le rendu ou l’exportation d’un composant d’image HTL remplace l’URL par un numéro, renommant ainsi le fichier, ce qui entraîne la rupture des liens. NPR-17245 ; correctif pour CQ-59616
 * La suppression d’un lancement dans un lancement imbriqué entraîne l’abandon des sous-lancements. NPR-17228 ; correctif pour CQ-4202639
 * L’exécution de la purge de version dans AEM 6.2 avec Oak 1.4.13 provoque la répétition constante d’un avertissement dans les journaux. NPR-17391 ; correctif pour CQ-4206870
@@ -1705,7 +1703,7 @@ La console de workflow des projets affiche une exception NullPointerException su
 
 * Le point de départ depuis Démarrer la tâche ne commence pas par les données soumises au moment de l’envoi du point de départ. NPR-16917
 * Un clic sur le bouton **[!UICONTROL Retour]** pour un formulaire dans l’espace de travail HTML ne ferme pas le formulaire, mais le renvoie à sa file d’attente de groupe.\
-   NPR-16352
+  NPR-16352
 
 **Process Management**
 
@@ -1795,7 +1793,7 @@ Les principaux aspects du CFP3 sont les suivants :
 * Lorsque vous essayez d’enregistrer un fragment dans un fragment dans l’éditeur de formulaires, la racine du modèle de fragment ne renseigne pas la valeur du fragment enfant. NPR-15943
 * Lors de la création d’une case à cocher avec un seul élément et d’une tentative d’affichage du titre de la case à cocher en conservant le titre de l’élément masqué, l’action de création de dictionnaire renvoie `ArrayIndexOutOfBoundException` si le texte de l’élément est vide. Le dictionnaire n’est pas créé et aucune réponse d’erreur n’est générée à l’écran. NPR-15816
 * Pour les formulaires adaptatifs avec des widgets de pièce jointe, certaines parties du formulaire sont désactivées une fois le fichier joint prévisualisé.\
-   NPR : 16611
+  NPR : 16611
 
 * Pour les widgets de pièce jointe où plusieurs pièces jointes sont autorisées, si une nouvelle instance de formulaire avec pièce jointe est envoyée sur un widget comportant une pièce jointe précédente, un code d’erreur est affiché lors de l’ouverture de la pièce jointe ajoutée au lieu du contenu réel. NPR-16258
 * Protection du service de préremplissage de formulaires contre un accès non autorisé par le biais de protocoles tels que `file://`, `http://` et `ftp://`. Voir « [Configuration du service de préremplissage à l’aide de Configuration Manager](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754). » NPR-15414
@@ -1840,7 +1838,7 @@ Les principaux aspects du CFP3 sont les suivants :
 #### Concepteur Forms {#forms-designer-1}
 
 * Le passage de la langue du formulaire sur le français (Canada) dans la vérification orthographique du dictionnaire ne fonctionne pas dans AEM Forms Designer.\
-   NPR-15896
+  NPR-15896
 
 ### Feature Packs inclus dans CFP3 {#feature-packs-included-in-cfp-2}
 
@@ -1879,7 +1877,7 @@ Les principaux aspects du pack de correctifs cumulés 2 sont les suivants :
 * Lorsque l’utilisateur sélectionne un nœud dans CRXDE (par exemple /content/dam/) puis l’onglet « Contrôle d’accès » en s’assurant de l’existence d’une liste de contrôle d’accès, un glisser-déposer de certains éléments permet de déplacer les autres éléments que celui sélectionné. NPR-15696 correctif pour GRANITE-16300
 * La sélection d’un utilisateur depuis la liste déroulante lors d’une tentative d’emprunt d’identité entraîne la disparition de l’ensemble du pop-up de l’utilisateur. NPR-15774 : correctif pour CQ-4201738/GRANITE-11895
 * Dans Omni-recherche, la recherche par balises avec des suggestions renseignées automatiquement ne fonctionne pas. NPR-15088 : correctif pour GRANITE-14426.\
-   Remarque : Ce correctif nécessite Oak CFP 1.4.11 ou version supérieure.
+  Remarque : Ce correctif nécessite Oak CFP 1.4.11 ou version supérieure.
 
 ### Auteur AEM Mobile {#mobile-aem-author}
 
@@ -2069,7 +2067,7 @@ Les principaux aspects d’AEM 6.2 SP2-CFP1 sont les suivants :
 * Les ressources dont les noms comportent des caractères spéciaux ne peuvent pas être téléchargées à partir du lien de téléchargement partagé par courrier électronique. NPR-12872 : correctif pour CQ-95795
 * Les rapports de ressources prêts à l’emploi générés en présence d’un nombre important de ressources provoquent des traversées lourdes lorsque la recherche n’atteint aucun pic d’index et d’utilisation de l’UC. NPR-12811 : correctif pour CQ-84409
 * Les utilisateurs de l’instance de création AMS AEM Assets y accèdent depuis différents réseaux qui ne permettent pas de charger des ressources en bloc sans disposer de droits de suppression sur les dossiers. NPR-12768 : correctif pour CQ-82715
-* Dans les recherches basées sur des balises pour les ressources à l’aide du rail de recherche de ressources, la fonction Type Ahead ne se limite pas au chemin racine et affiche des balises issues de tous les espaces de nommage. NPR-12666
+* Dans les recherches basées sur des balises pour les ressources à l’aide du rail de recherche de ressources, la fonction Type Ahead ne se limite pas au chemin racine et affiche des balises issues de tous les espaces de noms. NPR-12666
 * Le composant StaticRenditions soulève une exception de pointeur nul. NPR-12665
 * Demande de désactivation de la tâche MissingMetadataNotificationJob, car l’interface utilisateur Badge Notification rompt la page avec une exception d’exécution « Impossible d’analyser l’entrée ». NPR-12500 : correctif pour CQ-93573
 * L’option « Désactiver la modification » d’un champ de balise ne fonctionne pas dans les pages de propriétés des ressources dans l’interface utilisateur tactile. NPR-12429 : correctif pour CQ-88835
@@ -2106,7 +2104,7 @@ Les principaux aspects d’AEM 6.2 SP2-CFP1 sont les suivants :
 
 * Demande de résolution d’un problème de validation d’entrée dans le filtre WCMDebug. NPR-12444 : demande de correctif pour CQ-94890
 * Demande proactive de correction du comportement XSS lors de l’utilisation de l’assistant de création de lancements.\
-   NPR-13062 : demande de correctif pour CQ-99577
+  NPR-13062 : demande de correctif pour CQ-99577
 
 #### Package de modules complémentaires Forms {#forms-add-on-package-19}
 
@@ -2208,7 +2206,7 @@ Cette section décrit les exigences et les étapes à suivre pour installer le C
 * Le pack de correctifs cumulés peut être téléchargé sur [Distribution de logiciels](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), accessible directement depuis l’instance AEM.
 * Pour un déploiement en grappe utilisant (RDBMK ou MongoDB), le package CFP peut être installé sur n’importe quelle instance de création qui utilise le gestionnaire de modules.
 
-* Avant d’installer le pack de correctifs cumulatifs, veillez à prendre un instantané ou à sauvegarder votre instance AEM.
+* Avant d’installer le pack de correctifs cumulés, veillez à prendre un instantané ou à sauvegarder votre instance AEM.
 * La désinstallation du CFP n’est pas prise en charge.
 
 ### Installer le CFP via distribution de logiciels {#install-the-cfp-via-package-share}
@@ -2265,7 +2263,7 @@ Les correctifs dans AEM Forms JEE sont fournis dans un programme d’installati
 
 1. Pour installer la mise à jour, exécutez le fichier Designer6.2.0_&lt;Langue>_Cumulative_QF.msp.
 1. Sur l’écran de bienvenue, cliquez sur **Mettre à jour**. L’installation démarre.
-1. Une fois l’installation terminée, cliquez sur **terminer**.
+1. Cliquez sur **Terminer** à la fin de l’installation.
 
 ## Paramètres de délai d’expiration configurables par l’utilisateur pour DTM, Analytics, Target, Search et Promote Connections {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
@@ -2293,12 +2291,12 @@ Si vous utilisez le CFP3 ou une version ultérieure, suivez ces instructions pou
 
 * Ajoutez `replicationStateRequired` : « false » après la ligne 416.
 
-   ```js
-   415    baseParams: {
-   416                    count: "false",
-   417                    "replicationStateRequired": "false"
-   418                },
-   ```
+  ```js
+  415    baseParams: {
+  416                    count: "false",
+  417                    "replicationStateRequired": "false"
+  418                },
+  ```
 
 ## La dernière mise à jour 131 de Java 8 renvoie une exception (NPR-21355) {#latest-java-update-throws-an-exception-npr}
 
@@ -2449,5 +2447,4 @@ Le texte suivant répertorie les lots OSGI et les packages de contenu inclus dan
 >* [Notes de mise à jour d’AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [Page de produits AEM ](http://www.adobe.com/fr/solutions/web-experience-management.html)
 >* [Documentation d’AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Mises à jour de produit prioritaires par Adobe](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
-
+>* [Mises à jour de produit prioritaires par Adobe](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=fr)

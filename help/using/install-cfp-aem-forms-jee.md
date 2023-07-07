@@ -6,7 +6,7 @@ exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -132,7 +132,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 1. Lorsque l’installation est terminée, cliquez sur **[!UICONTROL Suivant]** pour appliquer les mises à jour du Quick Fix à vos fichiers installés.
 1. La case à cocher Exécuter Configuration Manager est sélectionnée par défaut. Cliquez sur **[!UICONTROL Terminé]** pour exécuter le gestionnaire de configuration.
 
-   Pour exécuter Configuration Manager ultérieurement, désélectionnez l’option **[!UICONTROL Démarrez Configuration Manager]** avant de cliquer sur **[!UICONTROL Terminé]**. Vous pourrez démarrer Configuration Manager ultérieurement à l’aide du script approprié dans le répertoire *`[AEM_forms_root]`/configurationManager/bin*.
+   Pour exécuter Configuration Manager ultérieurement, désélectionnez l’option **[!UICONTROL Démarrer Configuration Manager]** avant de cliquer sur **[!UICONTROL Terminé]**. Vous pourrez démarrer Configuration Manager ultérieurement à l’aide du script approprié dans le répertoire *`[AEM_forms_root]`/configurationManager/bin*.
 
 1. En fonction de votre serveur d’applications, sélectionnez l’un des documents suivants et suivez les instructions de la section *Configuration et déploiement d’AEM [!DNL Forms]*.
 
