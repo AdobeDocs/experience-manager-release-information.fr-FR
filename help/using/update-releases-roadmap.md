@@ -28,7 +28,7 @@ ht-degree: 97%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | Activation de fonctionnalités | 31 août 2023 | Prochain objectif |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Activation de fonctionnalités | 28 septembre 2023 | Prochain objectif |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Activation de fonctionnalités | 26 octobre 2023 | Prochain objectif |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | Activation de fonctionnalités | 30 novembre 2023 | Prochain objectif |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | Activation de fonctionnalités | 30 novembre 2023 | Target |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.12.0 | Activation de fonctionnalités | 14 décembre 2023 | Prochain objectif |
 
 Outre les mises à jour de fonctionnalités, des correctifs de bugs et de sécurité critiques sont disponibles dans [!DNL Experience Manager] as a [!DNL Cloud Service] sous la forme de [versions de maintenance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=fr), avec une mise à jour de maintenance correspondante généralement à une fréquence plus élevée.
@@ -52,10 +52,10 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 
 | Mise à jour | Version | Type | Planification | Statut |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 février 2023 | Activée |
-| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mai 2023 | Activée |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24 août 2023 | Prochain objectif |
-| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 novembre 2023 | Prochain objectif |
+| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 février 2023 | Activé |
+| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mai 2023 | Activé |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24 août 2023 | Target |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 novembre 2023 | Target |
 
 >[!NOTE]
 >
