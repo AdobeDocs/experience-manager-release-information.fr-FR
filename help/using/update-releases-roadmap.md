@@ -2,9 +2,9 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d49db9de4e6fd520d7c6e502c1c4573e4c49a45e
+source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '493'
 ht-degree: 75%
 
 ---
@@ -31,6 +31,7 @@ Les prochaines versions de [!DNL Experience Manager] as a [!DNL Cloud Service] s
 | Version des fonctionnalités [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) | Activation de fonctionnalités | 31 août 2023 | Activé |
 | Version de maintenance [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Mise à jour automatique | 1 septembre 2023 | Mise à jour des lots   |
 | Version de maintenance [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=fr) | Mise à jour automatique | 12 septembre 2023 | Mise à jour des lots   |
+| Version de maintenance | Mise à jour automatique | 18-20 septembre 2023 | Prochain objectif |
 | Version 2023.9.0 des fonctionnalités | Activation de fonctionnalités | 28 septembre 2023 | Prochain objectif |
 | Version de maintenance | Mise à jour automatique | 2-5 octobre 2023 | Prochain objectif |
 | Version de maintenance | Mise à jour automatique | 16-19 octobre 2023 | Prochain objectif |
