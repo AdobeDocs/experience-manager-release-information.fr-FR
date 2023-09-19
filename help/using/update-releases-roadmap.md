@@ -2,9 +2,9 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
+source-git-commit: cbc5229bba25a24958dc09b31a89d178556eeae1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 93%
 
 ---
@@ -30,8 +30,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Mise à jour automatique | 21 août 2023 | Mise à jour |
 | Version des fonctionnalités [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) | Activation de fonctionnalités | 31 août 2023 | Activé |
 | Version de maintenance [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Mise à jour automatique | 1 septembre 2023 | Mise à jour |
-| Version de maintenance [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=fr) | Mise à jour automatique | 12 septembre 2023 | Mise à jour |
-| Version de maintenance | Mise à jour automatique | 18-20 septembre 2023 | Target |
+| Version de maintenance [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=fr) | Mise à jour automatique | 18-20 septembre 2023 | Mise à jour |
 | Disponibilité des fonctionnalités 2023.9.0 | Activation de fonctionnalités | 28 septembre 2023 | Target |
 | Version de maintenance | Mise à jour automatique | 2-5 octobre 2023 | Target |
 | Version de maintenance | Mise à jour automatique | 16-19 octobre 2023 | Target |
