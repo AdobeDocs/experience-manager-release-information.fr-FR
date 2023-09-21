@@ -3,7 +3,7 @@ title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cbc5229bba25a24958dc09b31a89d178556eeae1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '491'
 ht-degree: 100%
 
@@ -48,7 +48,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 > Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
 >* Du jeudi 16 novembre au mardi 28 novembre.
->* Du lundi 15 décembre au mardi 2 janvier.
+>* Du lundi 15 décembre au mardi 2 janvier
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
@@ -56,18 +56,18 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr).
+Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr).
 
 | Mise à jour | Version | Type | Planification | Statut |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [Service Pack 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html?lang=fr) | 6.5.16.0 | Service Pack | 23 février 2023 | Activé |
-| [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html?lang=fr) | 6.5.17.0 | Service Pack | 25 mai 2023 | Activé |
-| [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr) | 6.5.18.0 | Service Pack | 24 août 2023 | Activé |
-| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 novembre 2023 | Prochain objectif |
+| [!DNL Experience Manager] 6.5 [Service Pack 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html?lang=fr) | 6.5.16.0 | Service Pack | 23 février 2023 | Activé |
+| [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html?lang=fr) | 6.5.17.0 | Service Pack | 25 mai 2023 | Activé |
+| [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr) | 6.5.18.0 | Service Pack | 24 août 2023 | Activé |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 novembre 2023 | Prochain objectif |
 
 >[!NOTE]
 >
->[!DNL Experience Manager] Forms publie les packages de modules complémentaires une semaine après la date de publication prévue du pack de services d’[!DNL Experience Manager].
+>[!DNL Experience Manager] Forms publie les packages de modules complémentaires une semaine après la date de publication prévue du pack de services d’ [!DNL Experience Manager].
 
 >[!MORELIKETHIS]
 >
