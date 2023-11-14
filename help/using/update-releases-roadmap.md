@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 99%
+ht-degree: 96%
 
 ---
 
@@ -36,13 +36,13 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités 2023.11.0 | Activation de fonctionnalités | 30 novembre 2023 | Target |
 | Version de maintenance | Mise à jour automatique | 11-14 décembre 2023 | Target |
 | Disponibilité des fonctionnalités 2023.12.0 | Activation de fonctionnalités | 14 décembre 2023 | Target |
-| Disponibilité des fonctionnalités 2024.1.0 | Activation de fonctionnalités | 25 janvier 2023 | Target |
-| Disponibilité des fonctionnalités 2024.2.0 | Activation de fonctionnalités | 29 février 2023 | Target |
-| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | 28 mars 2023 | Target |
-| Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2023 | Target |
-| Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2023 | Target |
-| Disponibilité des fonctionnalités 2024.6.0 | Activation de fonctionnalités | 27 juin 2023 | Target |
-| Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2023 | Target |
+| Disponibilité des fonctionnalités 2024.1.0 | Activation de fonctionnalités | 25 janvier 2024 | Target |
+| Disponibilité des fonctionnalités 2024.2.0 | Activation de fonctionnalités | 29 février 2024 | Target |
+| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | 28 mars 2024 | Target |
+| Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2024 | Target |
+| Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2024 | Target |
+| Disponibilité des fonctionnalités 2024.6.0 | Activation de fonctionnalités | 27 juin 2024 | Target |
+| Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2024 | Target |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 >
 > Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
->* Du jeudi 16 novembre au mardi 28 novembre.
->* Du lundi 15 décembre au mardi 2 janvier
+>* Jeudi 16 novembre 2023 au mardi 28 novembre 2023
+>* Vendredi 15 décembre 2023 au mardi 2 janvier 2024
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
