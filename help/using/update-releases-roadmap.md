@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +38,11 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités 2023.12.0 | Activation de fonctionnalités | 14 décembre 2023 | Target |
 | Disponibilité des fonctionnalités 2024.1.0 | Activation de fonctionnalités | 25 janvier 2024 | Target |
 | Disponibilité des fonctionnalités 2024.2.0 | Activation de fonctionnalités | 29 février 2024 | Target |
-| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | 28 mars 2024 | Target |
+| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | 28 mars 2024 | Target |
 | Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2024 | Target |
 | Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2024 | Target |
 | Disponibilité des fonctionnalités 2024.6.0 | Activation de fonctionnalités | 27 juin 2024 | Target |
-| Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2024 | Target |
+| Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2024 | Target |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 >
 > Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
->* Jeudi 16 novembre 2023 au mardi 28 novembre 2023
->* Vendredi 15 décembre 2023 au mardi 2 janvier 2024
+>* Du jeudi 16 novembre 2023 au mardi 28 novembre 2023
+>* Du vendredi 15 décembre 2023 au mardi 2 janvier 2024
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
