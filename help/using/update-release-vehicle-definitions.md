@@ -4,8 +4,8 @@ description: Cet article décrit les différents types de publications d’ [!DN
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '730'
+workflow-type: ht
+source-wordcount: '731'
 ht-degree: 100%
 
 ---

@@ -4,8 +4,8 @@ description: Cette page répertorie les modifications et mises à jour important
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '1467'
+workflow-type: ht
+source-wordcount: '1236'
 ht-degree: 100%
 
 ---
@@ -41,7 +41,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>20 novembre 2019</td> 
    <td>Archétype de projet AEM<br /> </td> 
-   <td>L’<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=fr">archétype de projet AEM</a> est un outil utile et flexible qui facilite le développement frontal de votre projet AEM.<br /> </td> 
+   <td>L’<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=fr">archétype de projet AEM</a> est un outil utile et flexible qui facilite le développement front-end de votre projet AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 octobre 2019<br /> </td> 
@@ -146,7 +146,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>8 juillet 2019</td> 
    <td>Migration vers l’interface utilisateur tactile</td> 
-   <td>La page d’accueil répertorie les informations et les ressources relatives à la <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=fr#introduction">migration vers l’interface utilisateur tactile</a>.</td> 
+   <td>La page de destination répertorie les informations et les ressources relatives à la <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=fr#introduction">migration vers l’interface utilisateur tactile</a>.</td> 
   </tr>
   <tr>
    <td>3 juillet 2019</td> 
