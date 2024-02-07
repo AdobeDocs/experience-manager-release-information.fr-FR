@@ -3,7 +3,7 @@ title: Mises à jour de la documentation précédente
 description: Cette page répertorie les modifications et mises à jour importantes de la documentation d’ [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
 workflow-type: tm+mt
 source-wordcount: '1236'
 ht-degree: 98%
@@ -31,7 +31,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>12 décembre 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td>Le <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">pack de services 3 d’AEM 6.5</a> est disponible.</td> 
+   <td>Le <a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">pack de services 3 d’AEM 6.5</a> est disponible.</td> 
   </tr>
   <tr>
    <td>5 décembre 2019</td> 
@@ -101,7 +101,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>19 septembre 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> est disponible.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> est disponible.</td>
   </tr>
   <tr>
    <td>9 septembre 2019</td> 
@@ -156,7 +156,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>3 juillet 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>est disponible.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>est disponible.</td> 
   </tr>
   <tr>
    <td>25 juin 2019</td> 
