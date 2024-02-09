@@ -4,9 +4,9 @@ description: Cette page répertorie les modifications et mises à jour important
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1236'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

@@ -4,9 +4,9 @@ description: Nouveautés, mises à jour ou modifications apportées à la docume
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: d719a7bdfd6bc9a8a2daab4b3452db6047027764
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1940'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
