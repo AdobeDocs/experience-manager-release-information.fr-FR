@@ -3,7 +3,7 @@ title: Versions d’AEM Forms
 description: Contient la liste de toutes les versions d’AEM Forms et des packages correspondants
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: a2cfc6f0db79e0adb1f278627aeb771074e33897
+source-git-commit: 215fdcb616fae9720fdc31115176af26517b96ce
 workflow-type: tm+mt
 source-wordcount: '2888'
 ht-degree: 99%
@@ -40,15 +40,15 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
   </tr>
   <tr>
-    <td>29 février 2024</td>
+    <td>8 mars 2024</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6520">Package de module complémentaire AEM Forms pack de services 20 pour AEM 6.5.20.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr">AEM 6.5.20.0</a></td>
     <td>
      <ul>
      <br><b>Programmes d’installation de correctifs AEM Forms sur OSGi</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/fr/aem.html?package=/content/software-distribution/fr/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-LINUX-PKG-6.0.1180.zip">Package de modules complémentaires AEM Forms pour Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/fr/aem.html?package=/content/software-distribution/fr/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-WIN-PKG-6.0.1180.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/fr/aem.html?package=/content/software-distribution/fr/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-OSX-PKG-6.0.1180.zip">Package de module complémentaire AEM Forms pour Mac OS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-LINUX-PKG-6.0.1192.zip">Package de modules complémentaires AEM Forms pour Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-WIN-PKG-6.0.1192.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-OSX-PKG-6.0.1192.zip">Package de module complémentaire AEM Forms pour Mac OS X [2]</a></li>
       <br><b>Installateurs de correctifs AEM Forms on JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/fr/aem.html?package=/content/software-distribution/fr/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/win/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-WINDOWS-JBOSS.zip">JBoss® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/fr/aem.html?package=/content/software-distribution/fr/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-JBOSS.tar.gz">JBoss® Linux</a></li>
@@ -72,7 +72,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/sp/aem.html?package=/content/software-distribution/sp/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Programme d’installation de l’espagnol</a> </li>
       </ul> 
       </td>
-    <td><p>Programme d’installation de correctif AEM Forms on JEE : 6-5-0-0083 <br/><p>Packages de modules complémentaires d’AEM Forms : 6.0.1180 </p></td>
+    <td><p>Programme d’installation de correctif AEM Forms on JEE : 6-5-0-0083 <br/><p>Packages de modules complémentaires d’AEM Forms : 6.0.1192 </p></td>
    </tr>
   <tr>
     <td>15 décembre 2023</td>
