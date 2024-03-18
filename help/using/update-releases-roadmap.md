@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 51c42244c12b4717b091e0abc1f0fe6dba553c20
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -47,14 +47,14 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance | Mise à jour automatique | 19-21 mars 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 1er-3 avril 2024 | Target |
 | Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | vendredi 4 avril 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 15-17 avril 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 15-17 avril 2024 | Target |
 | Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 29 avril - 1er mai 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 13-15 mai 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 27-29 mai 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 29 avril - 1er mai 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 13-15 mai 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 27-29 mai 2024 | Target |
 | Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 10-12 juin 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 24-26 juin 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 10-12 juin 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 24-26 juin 2024 | Target |
 | Disponibilité des fonctionnalités 2024.6.0 | Activation de fonctionnalités | 27 juin 2024 | Target |
 | Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2024 | Target |
 
