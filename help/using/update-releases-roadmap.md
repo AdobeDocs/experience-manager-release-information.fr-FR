@@ -3,7 +3,7 @@ title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 51c42244c12b4717b091e0abc1f0fe6dba553c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html?lang=fr) | Activation de fonctionnalités | 26 octobre 2023 | Activé |
 | Version de maintenance [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14029) | Mise à jour automatique | 30 octobre-2 novembre 2023 | Mise à jour |
 | Version de maintenance [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14227) | Mise à jour automatique | 13-16 novembre 2023 | Mise à jour |
-| Disponibilité des fonctionnalités [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=fr) | Activation de fonctionnalités | 30 novembre 2023 | Activé |
+| Disponibilité des fonctionnalités [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=fr) | Activation de fonctionnalités | 30 novembre 2023 | Activé |
 | Version de maintenance [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | Mise à jour automatique | 11-14 décembre 2023 | Mise à jour |
 | Disponibilité des fonctionnalités [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=fr) | Activation de fonctionnalités | 14 décembre 2023 | Activé |
 | Disponibilité des fonctionnalités [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) | Activation de fonctionnalités | 25 janvier 2024 | Activé |
@@ -44,7 +44,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance | Mise à jour automatique | 19-21 mars 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 19-21 mars 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 1er-3 avril 2024 | Target |
 | Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | vendredi 4 avril 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 15-17 avril 2024 | Target |
@@ -66,7 +66,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html).
 
-| Mise à jour | Version | Type | Planification | Statut |
+| Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | Service Pack | 25 mai 2023 | Activé |
 | [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | Service Pack | 24 août 2023 | Activé |
@@ -74,7 +74,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 | [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 22 février 2024 | Target |
 | [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 23 mai 2024 | Target |
 | [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 août 2024 | Target |
-| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 novembre 2024 | Prochain objectif |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 novembre 2024 | Target |
 
 >[!NOTE]
 >
