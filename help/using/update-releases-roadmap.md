@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
+source-git-commit: d0ad1c9e02ff25bffe5cf4eb1eb385ee0202e941
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 80%
+ht-degree: 99%
 
 ---
 
@@ -46,8 +46,18 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-
-| Version de maintenance|Mise à jour automatique|8-10 avril 2024|Target| | Version 2024.3.0 des fonctionnalités |Activation des fonctionnalités|4 avril 2024 |Target| | Version de maintenance|Mise à jour automatique|22-24 avril 2024|Target| | Version 2024.4.0 des fonctionnalités |Activation des fonctionnalités|25 avril 2024 |Target| | Version de maintenance|Mise à jour automatique|6-8 mai 2024|Target| | Version de maintenance|Mise à jour automatique|20-22 mai 2024|Target| | Version 2024.5.0 des fonctionnalités |Activation des fonctionnalités|30 mai 2024 |Target| | Version de maintenance|Mise à jour automatique|3-5 juin 2024|Target| | Version de maintenance|Mise à jour automatique|17-19 juin 2024|Target| | Version 2024.6.0 des fonctionnalités |Activation des fonctionnalités|27 juin 2024 |Target| | Version de maintenance|Mise à jour automatique|1-3 juillet 2024|Target| | Version 2024.7.0 des fonctionnalités |Activation des fonctionnalités|25 juillet 2024 |Target|
+| Version de maintenance | Mise à jour automatique | 8-10 avril 2024 | Target |
+| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | vendredi 4 avril 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 22-24 avril 2024 | Target |
+| Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 6-8 mai 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 20-22 mai 2024 | Target |
+| Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 3-5 juin 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 17-19 juin 2024 | Target |
+| Disponibilité des fonctionnalités 2024.6.0 | Activation de fonctionnalités | 27 juin 2024 | Target |
+| Version de maintenance | Mise à jour automatique | 1er-3 juillet 2024 | Target |
+| Disponibilité des fonctionnalités 2024.7.0 | Activation de fonctionnalités | 25 juillet 2024 | Target |
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
