@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9dba6bffa6d6649409809afae17b1c5f3be70284
-workflow-type: ht
-source-wordcount: '547'
-ht-degree: 100%
+source-git-commit: 76ac75c7b83a52593b63a123b7b1cd4acb3daa52
+workflow-type: tm+mt
+source-wordcount: '541'
+ht-degree: 99%
 
 ---
 
@@ -41,14 +41,13 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=fr#release-15262) | Mise à jour automatique | 11-13 mars 2024 | Mise à jour |
 | Version de maintenance [15575](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Mise à jour automatique | 19-21 mars 2024 | Mise à jour |
 | Disponibilité des fonctionnalités [2024.3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) | Activation de fonctionnalités | vendredi 11 avril 2024 | Activé |
+| Version de maintenance [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Mise à jour automatique | 8-15 avril 2024 | Mise à jour |
 
 ### Versions à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance [15860](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 8-15 avril 2024 | Démarré |
-| Disponibilité des fonctionnalités 2024.3.0 | Activation de fonctionnalités | vendredi 11 avril 2024 | Target |
-| Version de maintenance | Mise à jour automatique | 22-24 avril 2024 | Target |
+| Version de maintenance [15939](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 22-24 avril 2024 | Target |
 | Disponibilité des fonctionnalités 2024.4.0 | Activation de fonctionnalités | 25 avril 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 6-8 mai 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 20-22 mai 2024 | Target |
