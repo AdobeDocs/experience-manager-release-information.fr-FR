@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 65%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 65%
 
 ## Engagement de l&#39;Adobe
 
-Afin de favoriser un environnement ouvert et accueillant, les contributeurs et les responsables s&#39;engagent à faire de la participation au projet et à la communauté une expérience sans harcèlement pour tous, quels que soient l&#39;âge, la taille du corps, le handicap, l&#39;appartenance ethnique, l&#39;identité et l&#39;expression de genre, le niveau d&#39;expérience, la nationalité, l&#39;apparence personnelle, la race, la religion, l&#39;identité et l&#39;orientation sexuelles.
+Afin de favoriser un environnement ouvert et accueillant, les contributeurs et les responsables s&#39;engagent à faire de la participation au projet et à la communauté une expérience sans harcèlement pour tous. Cet engagement est sans considération de l&#39;âge, de la taille du corps, du handicap, de l&#39;ethnie, de l&#39;identité et de l&#39;expression du genre, du niveau d&#39;expérience, de la nationalité, de l&#39;apparence personnelle, de la race, de la religion, de l&#39;identité et de l&#39;orientation sexuelles.
 
 ## Normes de l’Adobe
 
@@ -33,7 +33,7 @@ Voici quelques exemples de comportement de participants inacceptable :
 
 Les responsables du projet sont chargés de clarifier les normes en matière de comportement acceptable et doivent prendre des mesures correctives appropriées et justes en cas de comportement inacceptable.
 
-Les responsables du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, les engagements, le code, les modifications de wiki, les problèmes et autres contributions qui ne sont pas alignés sur ce code de conduite. Ou, interdire temporairement ou définitivement tout contributeur pour d&#39;autres comportements qu&#39;il considère inappropriés, menaçants, injurieux ou nuisibles.
+Les responsables du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, les engagements, le code, les modifications de wiki et les problèmes qui ne sont pas alignés sur ce code de conduite. Ou, interdire temporairement ou définitivement tout contributeur pour d&#39;autres comportements qu&#39;il considère inappropriés, menaçants, injurieux ou nuisibles.
 
 ## Portée
 
