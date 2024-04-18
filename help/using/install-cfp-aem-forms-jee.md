@@ -1,12 +1,12 @@
 ---
-title: Installation des packs de correctifs cumulés sur AEM Forms JEE
-description: Résumé des étapes d’installation et de configuration du Cumulative Fix Pack (CFP) sur AEM Forms JEE.
+title: Installation des packs de correctifs cumulatifs sur AEM Forms JEE
+description: Résumé des étapes d’installation et de configuration du pack de correctifs cumulatifs (CFP) sur AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '909'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Pour installer le pack de correctifs cumulatifs sur AEM 6.3 [!DNL Forms JEE], ef
 
 ### Installez le package des lots AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
+Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
 
-### Plus d’instructions pour CQ-4208044 {#additional-instructions-for-cq}
+### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
 Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données Oracle, configurez les paramètres suivants après le déploiement de CFP1, c’est-à-dire après l’exécution de Configuration Manager. Ce paramètre est nécessaire pour synchroniser les utilisateurs, les groupes et les membres de groupes lors de l’exécution de la synchronisation du domaine d’entreprise.
 
@@ -51,7 +51,7 @@ Pour installer le pack de correctifs cumulatifs sur AEM 6.2 [!DNL Forms JEE], ef
 
 ### Installez le package des bundles AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
-Le package AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez-les s’ils ne l’ont pas déjà été.
+Le package AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
 
 ### Configuration du délai d’expiration pour les opérations au niveau du composant (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -100,8 +100,8 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    Localisez le répertoire approprié sur le support d’installation ou dans le dossier du disque dur dans lequel vous avez copié le programme d’installation :
 
-   * (`Windows 32-bit`) : `Disk1\InstData\Windows\VM`
-   * (`Windows 64-bit`) : `Disk1\InstData\Windows_64bit\VM`
+   * (`Windows 32-bit`) : `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`) : `Disk1\InstData\Windows_64bit\VM`
 
    Double-cliquez ensuite sur le fichier nommé :
 
@@ -126,7 +126,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
    L’assistant d’installation est lancé pour vous guider tout au long de l’installation.
 
 1. Dans le panneau Introduction, cliquez sur **[!UICONTROL Suivant]**.
-1. Dans l’écran Choisir le dossier d’installation, vérifiez que l’emplacement par défaut affiché est correct pour votre installation existante. Ou cliquez sur **[!UICONTROL Parcourir]** pour sélectionner l’autre dossier dans lequel AEM [!DNL Forms] est installé, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Sur l’écran Choisir le dossier d’installation, vérifiez que l’emplacement par défaut affiché est correct pour votre installation existante. Ou, cliquez sur **[!UICONTROL Parcourir]** pour sélectionner l’autre dossier dans lequel AEM [!DNL Forms] est installé, puis cliquez sur **[!UICONTROL Suivant]**.
 1. Lisez le résumé du correctif Quick Fix, puis cliquez sur **[!UICONTROL Suivant]**.
 1. Lisez le résumé relatif à la pré-installation, puis cliquez sur **[!UICONTROL Installer]**.
 1. Lorsque l’installation est terminée, cliquez sur **[!UICONTROL Suivant]** pour appliquer les mises à jour du Quick Fix à vos fichiers installés.
