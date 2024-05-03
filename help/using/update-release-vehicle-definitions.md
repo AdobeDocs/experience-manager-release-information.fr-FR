@@ -1,12 +1,12 @@
 ---
 title: Définitions des véhicules de version de mise à jour
-description: Cet article présente les différents types de [!DNL Experience Manager] versions, y compris les versions intégrales, les Feature Packs et les Service Packs.
+description: Cet article décrit les différents types de versions d’ [!DNL Experience Manager] , y compris les versions complètes, les packs de fonctionnalités et les packs de services.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,4 +77,4 @@ Ce document contient des informations à propos des différents types de version
 | Disponibilité et installation | <ul> <li>Livré par le biais de Service Packs </li> <li> Disponible sur la distribution logicielle. Les clients acceptent les Termes et conditions [!DNL Adobe's] par le biais de la distribution logicielle. </li> </ul> |
 | Niveau de test | Les Feature Packs de disponibilité générale (GA) sont validés par le contrôle qualité. |
 
-* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulé Oak. Si nécessaire, un diagnostic reposant sur la dernière norme COFP peut être mis à disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les diagnostic fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulatifs.
+* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulatif Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulatifs Oak peut être mis à votre disposition. Condition préalable : le client possède le dernier pack de correctifs cumulés Oak. Les diagnostic fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulatifs.
