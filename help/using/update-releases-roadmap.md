@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ef3f59181fd7087d29143779c2fe646f4b90021e
+source-git-commit: 5bbd2b76be333b2db3fa2ad59967700305150b45
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 100%
+source-wordcount: '488'
+ht-degree: 99%
 
 ---
 
@@ -39,13 +39,13 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [15860](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Mise à jour automatique | 8-15 avril 2024 | Mise à jour |
 | Version de maintenance [15977](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | Mise à jour automatique | 20-24 avril 2024 | Mise à jour |
 | Disponibilité des fonctionnalités [2024.4.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation de fonctionnalités | 25 avril 2024 | Activation |
-| Version de maintenance [16145](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 6-8 mai 2024 | Target |
+| Version de maintenance [16145](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | Mise à jour automatique | 6-8 mai 2024 | Target |
 
 ### Versions à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance | Mise à jour automatique | 27-29 mai 2024 | Target |
+| Version de maintenance [16357](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 27-29 mai 2024 | Target |
 | Disponibilité des fonctionnalités 2024.5.0 | Activation de fonctionnalités | 30 mai 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 10-12 juin 2024 | Target |
 | Version de maintenance | Mise à jour automatique | 24-26 juin 2024 | Target |
