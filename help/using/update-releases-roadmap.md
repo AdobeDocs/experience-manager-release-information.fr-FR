@@ -2,10 +2,10 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b8d32035318004de0646e47ec4289529616db564
-workflow-type: ht
-source-wordcount: '468'
-ht-degree: 100%
+source-git-commit: 41f506652e36c936863699e0c51be41ff660a3ba
+workflow-type: tm+mt
+source-wordcount: '469'
+ht-degree: 99%
 
 ---
 
@@ -65,8 +65,8 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 | [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-17) | 6.5.17.0 | Service Pack | 25 mai 2023 | Activation |
 | [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | Service Pack | 24 août 2023 | Activation |
 | [!DNL Experience Manager] 6.5 [Service Pack 19](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | Service Pack | 30 novembre 2023 | Activation |
-| [!DNL Experience Manager] 6.5 [Pack de services 20](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | Service Pack | 22 février 2024 | Activation |
-| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | vendredi 6 juin 2024 | Target |
+| [!DNL Experience Manager] 6.5 [Pack de services 20](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 22 février 2024 | Activation |
+| [!DNL Experience Manager] 6.5 [Pack de services 21](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | Service Pack | vendredi 6 juin 2024 | Target |
 | [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 août 2024 | Target |
 | [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 novembre 2024 | Target |
 
