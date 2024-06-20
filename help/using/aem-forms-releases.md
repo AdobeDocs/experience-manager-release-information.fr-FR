@@ -3,10 +3,10 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 59688701f3ec75fa204bf26a0ad2239b4d58a179
-workflow-type: ht
-source-wordcount: '3030'
-ht-degree: 100%
+source-git-commit: 3671b89ee5b2b9052be0233b6534e9eee5516ba1
+workflow-type: tm+mt
+source-wordcount: '3052'
+ht-degree: 91%
 
 ---
 
@@ -41,7 +41,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tr>
   <tr>
     <td>13 juin 2024</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">Package de modules complémentaires AEM Forms, pack de services 20 Forms pour AEM 6.5.21.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">Package de module complémentaire Forms Forms Service Pack 21 d’AEM 6.5 pour AEM 6.5.21.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
      <ul>
@@ -70,7 +70,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   <tr>
     <td>8 mars 2024</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">Package de modules complémentaires AEM Forms, Pack de services 20 Forms pour AEM 6.5.20.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">Package de module complémentaire Forms Forms Service Pack 20 d’AEM 6.5 pour AEM 6.5.20.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0</a></td>
     <td>
      <ul>
@@ -123,7 +123,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   <tr>
     <td>8 décembre 2023</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">Package de modules complémentaires AEM Forms, Pack de services 19 Forms pour AEM 6.5.19.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">Package de module complémentaire Forms Forms Service Pack 19 d’AEM 6.5 pour AEM 6.5.19.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
      <ul>
@@ -160,7 +160,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>31 août 2023</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6518">Package de modules complémentaires AEM Forms, Pack de services 18 Forms pour AEM 6.5.18.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6518">Package de module complémentaire Forms Forms Service Pack 18 d’AEM 6.5 pour AEM 6.5.18.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.18.0</a></td>
     <td>
      <ul>
@@ -200,7 +200,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>1er juin 2023</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6517">Package de modules complémentaires AEM Forms, Pack de services 17 Forms pour AEM 6.5.17.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes#forms-6517">Package de module complémentaire Forms Forms Service Pack 17 d’AEM 6.5 pour AEM 6.5.17.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -232,7 +232,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2 mars 2023</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516">Package de modules complémentaires AEM Forms, Pack de services 16 Forms pour AEM 6.5.16.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516">Package de module complémentaire Forms Forms Service Pack 16 d’AEM 6.5 pour AEM 6.5.16.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-16">AEM 6.5.16.0</a></td>
     <td>
      <ul>
@@ -264,7 +264,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>1er décembre 2022</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515">Package de modules complémentaires AEM Forms, Pack de services 15 Forms pour AEM 6.5.15.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515">Package de module complémentaire Forms Forms Service Pack 15 d’AEM 6.5 pour AEM 6.5.15.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-15">AEM 6.5.15.0</a></td>
     <td>
      <ul>
@@ -296,7 +296,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>5 septembre 2022</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514">Package de modules complémentaires AEM Forms, Pack de services 14 Forms pour AEM 6.5.14.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514">Package de module complémentaire Forms Forms Service Pack 14 d’AEM 6.5 pour AEM 6.5.14.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-14">AEM 6.5.14.0</a></td>
     <td>
      <ul>
@@ -324,7 +324,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>2 juin 2022</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">Package de modules complémentaires AEM Forms, Pack de services 13 Forms pour AEM 6.5.13.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">Package de module complémentaire Forms Forms Service Pack 13 d’AEM 6.5 pour AEM 6.5.13.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13">AEM 6.5.13.0</a></td>
     <td>
      <ul>
@@ -352,7 +352,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>3 mars 2022</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120">Package de modules complémentaires AEM Forms, Pack de services 12 Forms pour AEM 6.5.12.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-12#forms-65120">Package de module complémentaire Forms Forms Service Pack 12 d’AEM 6.5 pour AEM 6.5.12.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-12">AEM 6.5.12.0</a></td>
     <td>
      <ul>
@@ -388,7 +388,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>20 décembre 2021</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Package de modules complémentaires AEM Forms, Pack de services 11 Forms pour AEM 6.5.11.1</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Package de module complémentaire Forms Forms Service Pack 11 d’AEM 6.5 pour AEM 6.5.11.1</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -409,7 +409,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>3 décembre 2021</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Package de modules complémentaires AEM Forms, Pack de services 11 Forms pour AEM 6.5.11.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Package de module complémentaire Forms Forms Service Pack 11 d’AEM 6.5 pour AEM 6.5.11.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -435,7 +435,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    <tr>
    <tr>
     <td>2 septembre 2021</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100">Package de modules complémentaires AEM Forms, Pack de services 10 Forms pour AEM 6.5.10.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100">Package de module complémentaire Forms Forms Service Pack 10 d’AEM 6.5 pour AEM 6.5.10.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-10">AEM 6.5.10.0</a></td>
     <td>
      <ul>
@@ -462,7 +462,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>3 juin 2021</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">Package de modules complémentaires AEM Forms, Pack de services 9 Forms pour AEM 6.5.9.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">Package de module complémentaire Forms Forms Service Pack 9 pour AEM 6.5.9.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9">AEM 6.5.9.0</a></td>
     <td>
      <ul>
@@ -488,7 +488,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>18 mars 2021</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580">Package de modules complémentaires AEM Forms, Pack de services 8 Forms pour AEM 6.5.8.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580">Package de module complémentaire Forms Forms Service Pack 8 pour AEM 6.5.8.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-8">AEM 6.5.8.0</a></td>
     <td>
      <ul>
@@ -515,7 +515,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    <tr>
    <tr>
     <td>3 décembre 2020</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">Package de modules complémentaires AEM Forms, Pack de services 7 Forms pour AEM 6.5.7.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">Package de module complémentaire Forms Forms Service Pack 7 pour AEM 6.5.7.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-7">AEM 6.5.7.0</a></td>
     <td>
      <ul>
@@ -541,7 +541,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>3 septembre 2020</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">Package de modules complémentaires AEM Forms, Pack de services 6 Forms pour AEM 6.5.6.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">Package de module complémentaire Forms Forms Service Pack 6 d’AEM 6.5.6.0 pour AEM</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6">AEM 6.5.6.0</a></td>
     <td>
      <ul>
@@ -555,7 +555,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>4 juin 2020</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">Package de modules complémentaires AEM Forms, Pack de services 5 Forms pour AEM 6.5.5.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">Package de module complémentaire Forms Forms Service Pack 5 pour AEM 6.5.5.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5">AEM 6.5.5.0</a></td>
     <td>
      <ul>
@@ -569,7 +569,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>5 mars 2020</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">Package de modules complémentaires AEM Forms, Pack de services 4 Forms pour AEM 6.5.4.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">Package de module complémentaire Forms Forms Service Pack 4 pour AEM 6.5.4.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4">AEM 6.5.4.0</a></td>
     <td>
      <ul>
@@ -585,7 +585,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>12 décembre 2019</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">Package de modules complémentaires AEM Forms, Pack de services 3 Forms pour AEM 6.5.3.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">Package de module complémentaire Forms Forms Service Pack 3 pour AEM 6.5.3.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5.3.0</a></td>
     <td>
      <ul>
@@ -601,7 +601,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>19 septembre 2019</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520">Package de modules complémentaires AEM Forms, Pack de services 2 Forms pour AEM 6.5.2.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-2#forms-6520">Package de module complémentaire Forms Forms Service Pack 2 pour AEM 6.5.2.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">AEM 6.5.2.0</a></td>
     <td>
      <ul>
@@ -617,7 +617,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
     <td>3 juillet 2019</td>
-    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms">Package de modules complémentaires AEM Forms, Pack de services 1 Forms pour AEM 6.5.1.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-1#forms">Package de module complémentaire Forms Forms Service Pack 1 pour AEM 6.5.1.0</a></td>
     <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">AEM 6.5.1.0</a></td>
     <td>
      <ul>
