@@ -1,12 +1,12 @@
 ---
 title: Installation des packs de correctifs cumulatifs sur AEM Forms JEE
-description: Résumé des étapes d’installation et de configuration du pack de correctifs cumulatifs (CFP) sur AEM Forms JEE.
+description: Résumé des étapes pour installer et configurer le pack de correctifs cumulatif (CFP) sur AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 
 
 ### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
-Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données Oracle, configurez les paramètres suivants après le déploiement de CFP1, c’est-à-dire après l’exécution de Configuration Manager. Ce paramètre est nécessaire pour synchroniser les utilisateurs, les groupes et les membres de groupes lors de l’exécution de la synchronisation du domaine d’entreprise.
+Si vous utilisez AEM 6.3 [!DNL Forms JEE] avec base de données Oracle, configurez les paramètres suivants après le déploiement de CFP1, c’est-à-dire après l’exécution de Configuration Manager. Ce paramètre est nécessaire pour synchroniser les utilisateurs, les groupes et les membres de groupes lors de l’exécution de la synchronisation du domaine d’entreprise.
 
 1. Connectez-vous à l’interface utilisateur d’**Administration**.
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Gestion des utilisateurs]** > **[!UICONTROL Configuration]** > **[!UICONTROL Importer et exporter des fichiers de configuration]**
 1. Exportez le fichier config.xml.
-1. Modifiez l’entrée « `groupMemberDBQueryBatchSize` » de vos configurations de domaine dans *config.xml*. Exemple d’entrée :
+1. Modifiez l’entrée pour &quot;`groupMemberDBQueryBatchSize`&quot; sous vos configurations de domaine dans *config.xml*. Exemple d’entrée :
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
 1. Pour définir le délai d’expiration de toutes les opérations de service sur 600 s :
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Pour définir le délai d’expiration des valeurs d’opération `DesigntimeService` sur 500 s, utilisez :
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Pour définir le délai d’expiration des valeurs d’opération `DesigntimeService's previewLCA` sur 700 s, utilisez :
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. Pour définir les `DSC operations` telles que le chargement et l’installation, à 600 s, utilisez :
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Installation et configuration d’AEM [!DNL Forms JEE]  {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    **Windows**
 
-   Localisez le répertoire approprié sur le support d’installation ou dans le dossier du disque dur dans lequel vous avez copié le programme d’installation :
+   Accédez au répertoire sur le support d’installation ou au dossier dans lequel vous avez copié le programme d’installation.
 
    * (`Windows 32-bit`) : `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`) : `Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    Accédez au répertoire concerné :
 
-   * (Linux®) : Disk1/InstData/Linux/ NoVM
-   * (Solaris™) : Disk1/InstData/Solaris/ NoVM
+   * (Linux®) : Disk1/InstData/Linux/NoVM
+   * (Solaris™) : Disk1/InstData/Solaris/NoVM
    * (AIX®) : Disk1/InstData/AIX/VM
 
    Dans une invite de commande, tapez :

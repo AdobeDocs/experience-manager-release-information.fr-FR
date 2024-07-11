@@ -1,8 +1,8 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 67%
+source-wordcount: '482'
+ht-degree: 59%
 
 ---
 # Contribution à la documentation d’Adobe Experience Manager
@@ -40,9 +40,9 @@ Ils vous permettent de décrire facilement votre proposition d’amélioration d
 
 ### Créer une demande d’extraction {#create-a-pull-request}
 
-Si vous rencontrez un problème et savez exactement comment le résoudre, envisagez de créer une demande d’extraction. Les demandes d’extraction vous permettent d’apporter vos propres modifications à la documentation, qui sont ensuite examinées pour inclusion par un membre de l’équipe AEM Docs. Cliquez simplement sur **Modifier cette page** lien situé en haut du panneau de navigation de droite d’une page afin que vous puissiez apporter les modifications suggérées et créer la requête d’extraction.
+Si vous rencontrez un problème et savez exactement comment le résoudre, envisagez de créer une demande d’extraction. Les demandes d’extraction vous permettent d’apporter vos propres modifications à la documentation. Un membre de l’équipe AEM Docs passe en revue ces modifications en vue de les inclure. Cliquez simplement sur **Modifier cette page** lien situé en haut du panneau de navigation de droite d’une page afin que vous puissiez apporter les modifications suggérées et créer la requête d’extraction.
 
-Toutes les demandes d’extraction doivent être accompagnées d’un [contrat de licence de contributeur ou contributrice (CLA) signé](https://opensource.adobe.com/cla.html). Adobe est ainsi autorisé à redistribuer vos contributions dans le cadre du projet. Vous n’envoyez un CLA d’Adobe qu’une seule fois. Par conséquent, si vous en avez déjà soumis un, vous pouvez y aller !
+Une signature [contrat de licence du contributeur ou CLA](https://opensource.adobe.com/cla.html) doit accompagner toutes les requêtes de tirage. Cette nécessité donne à l&#39;Adobe l&#39;autorisation de redistribuer vos contributions dans le cadre du projet. Vous ne pouvez envoyer un CLA d’Adobe qu’une seule fois. Par conséquent, si vous en avez déjà envoyé un, vous pouvez y aller !
 
 ### Présentation rapide en vidéo
 
@@ -58,4 +58,4 @@ Toute contribution est accueillie favorablement et examinée si elle est effectu
 
 ## Informations supplémentaires
 
-Pour plus d’informations sur l’utilisation de la plateforme de création GitHub, consultez le [Guide du contributeur d’Adobe Docs](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Pour plus d’informations sur l’utilisation de la plateforme de création GitHub, consultez le [Guide du contributeur d’Adobe Docs](https://experienceleague.adobe.com/fr/docs/contributor/contributor-guide/introduction).

@@ -3,10 +3,10 @@ title: « Mises à jour des versions d’[!DNL Adobe Experience Manager] »
 description: « Mises à jour des versions d’[!DNL Adobe Experience Manager] »
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -26,7 +26,7 @@ Consultez les [notes de mise à jour actuelles pour [!DNL Experience Manager] as
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
-Pour Managed Services et les offres On-Premise, cet article répertorie la dernière version du pack de correctifs cumulatif, la dernière version du Service Pack et la version principale et vous guide vers la documentation de ces versions. [!DNL Adobe] recommande de vérifier et d’appliquer le dernier Service Pack puis le dernier pack de correctifs cumulatif pour votre version d’[!DNL Experience Manager] afin de garantir la stabilité, la sécurité et la mise à jour de votre déploiement.
+Pour les offres Managed Services et On-premise, l’article répertorie la dernière version cumulative Fix Pack, la dernière version de Service Pack et la version principale et vous dirige vers la documentation de ces versions. [!DNL Adobe] recommande de vérifier et d’appliquer le dernier Service Pack puis le dernier pack de correctifs cumulatif pour votre version d’[!DNL Experience Manager] afin de garantir la stabilité, la sécurité et la mise à jour de votre déploiement.
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 

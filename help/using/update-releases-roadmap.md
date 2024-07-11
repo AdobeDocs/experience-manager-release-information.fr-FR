@@ -2,17 +2,17 @@
 title: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 description: « Feuille de route des versions d’[!DNL Adobe Experience Manager] »
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 93%
 
 ---
 
 
 # Feuille de route des versions d’[!DNL Experience Manager] {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] offre en permanence de nouvelles fonctionnalités, des améliorations aux fonctionnalités existantes et des correctifs pour les utilisateurs des offres [!DNL Cloud Service], Managed Services et On-Premise. Cet article répertorie les versions à venir d’[!DNL Experience Manager].
+[!DNL Adobe Experience Manager] fournit constamment de nouvelles fonctionnalités et des améliorations aux fonctionnalités existantes. Il fournit des correctifs pour les utilisateurs à l’échelle de l’entreprise. [!DNL Cloud Service], Managed Services et versions On-Premise. Cet article répertorie les versions à venir d’[!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] Les mises à jour des produits de la version 6.5 sont fournies par le biais des Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|

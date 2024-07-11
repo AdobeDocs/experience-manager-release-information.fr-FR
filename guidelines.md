@@ -1,15 +1,15 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '712'
-ht-degree: 62%
+source-wordcount: '693'
+ht-degree: 56%
 
 ---
 # Instructions relatives à la contribution à la documentation d’Adobe Experience Manager
 
 ## Philosophie de la documentation
 
-Les utilisateurs de Adobe Experience Manager travaillent dans des environnements très concurrentiels, afin de créer des expériences numériques qui les distinguent de leurs concurrents. Par conséquent, lorsque Adobe fournit de nouveaux outils avancés dans AEM, ces outils sont complétés par une documentation précise et claire pour permettre aux clients d’appliquer immédiatement leur investissement AEM et maximiser le ROI.
+Les utilisateurs et utilisatrices d’Adobe Experience Manager travaillent dans des environnements très concurrentiels et font de leur mieux afin de créer des expériences numériques qui les distingueront de la concurrence. Par conséquent, lorsque Adobe introduit de nouveaux outils avancés dans AEM, ils fournissent une documentation précise et claire. Cette approche permet aux clients d’utiliser immédiatement leur investissement AEM et maximiser le retour sur investissement.
 
 L’objectif de la documentation AEM est de la placer entre les mains des utilisateurs et utilisatrices d’AEM dès que possible. Par conséquent, une documentation précise et utilisable est créée et continuellement mise à jour et améliorée.
 
@@ -19,33 +19,33 @@ Afin d’améliorer continuellement la documentation d’AEM, toute la communaut
 
 ## Normes de la documentation
 
-Les contributions sont bienvenues à la documentation, toute contribution à la documentation d’AEM, sous la forme d’une demande d’extraction ou d’un problème, doit être conforme aux normes de contribution et de documentation d’Adobe.
+Adobe accueille favorablement les contributions à la documentation. Toute contribution à la documentation d’AEM, qu’il s’agisse d’une requête d’extraction ou d’un problème, doit être conforme aux normes de contribution et de documentation d’Adobe.
 
 Les contributions qui ne satisfont pas à ces normes peuvent être rejetées.
 
-### Adobe de documents : cas d’utilisation standard.
+### Adobe écrit sur les cas d’utilisation standard.
 
 La documentation d’AEM couvre les cas d’utilisation standard. Les cas d’utilisation au-delà de la portée de l’installation et de l’utilisation standard du produit ne font pas partie de la documentation AEM.
 
-### Adobe ne documente généralement pas les bogues ni leurs solutions.
+### En général, Adobe ne documente pas les bugs ni leurs solutions de contournement.
 
-La documentation d’AEM couvre les cas d’utilisation standard. Pour cette raison, les bogues, les effets causés par les bogues et les solutions aux bogues ne sont pas documentés.
+La documentation d’AEM couvre les cas d’utilisation standard. Pour cette raison, les bugs, les effets qu’ils causent et leurs solutions de contournement ne sont pas documentés.
 
-Les exceptions à cette règle concernent les notes de mise à jour qui répertorient les problèmes connus ainsi que les solutions possibles après approbation par l’équipe de gestion des produits AEM.
+Les exceptions à cette règle s’appliquent aux notes de mise à jour qui répertorient les problèmes connus ainsi que les solutions possibles approuvées par AEM Product Management.
 
 ### Les contributions à la documentation ne sont pas destinées à répondre aux questions techniques.
 
-Toute opinion susceptible d’améliorer la documentation AEM est la bienvenue sous forme de contributions. Toutefois, les commentaires, les problèmes et les demandes d’extraction sont destinés à *contributions* uniquement. Elles ne sont pas destinées à répondre à vos questions sur l’utilisation d’AEM, la mise en oeuvre de votre projet AEM ou la résolution de problèmes techniques.
+Toute opinion susceptible d’améliorer la documentation AEM est la bienvenue sous forme de contributions. Toutefois, les commentaires, les problèmes et les requêtes d’extraction sont destinés uniquement aux *contributions*. Elles ne sont pas destinées à répondre à vos questions sur l’utilisation d’AEM, la mise en oeuvre de votre projet AEM ou la résolution de problèmes techniques.
 
-Toute question relative à l’utilisation d’AEM ou à la résolution d’erreurs techniques doit être soumise au moyen du processus d’assistance classique via le [Portail d’assistance entreprise d’Experience Cloud](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support) ou posée à la [communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
+Signalez toute question relative à l’utilisation d’AEM ou d’erreurs techniques à l’aide de la variable [Portail d’assistance aux entreprises Experience Cloud](https://experienceleague.adobe.com/fr?support-solution=General#support). Ou, utilisez le [Communauté des Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
 
-***Les contributions à la documentation AEM ne remplacent pas l’assistance clientèle d’Adobe*** et toute contribution de ce type visant à obtenir des réponses à des questions d’assistance est refusée.
+***Les contributions à la documentation d’AEM ne remplacent pas l’assistance clientèle Adobe***, et toute contribution de ce type qui recherche des réponses aux questions liées au support technique sera refusée.
 
 ### Les contributions doivent clairement référencer les pages de documentation concernées.
 
-Si vous créez une demande pour suggérer des améliorations à la documentation, vous devez inclure des liens vers les pages concernées. Si vous créez un problème à l’aide du lien **Modifier cette page** sur une page de documentation, le problème est créé automatiquement avec un lien vers la page.
+Si vous créez un problème pour suggérer des améliorations à la documentation, incluez des liens vers les pages concernées. Si vous créez un problème à l’aide de la variable **Modifier cette page** sur une page de documentation, le problème est automatiquement créé avec un lien vers la page.
 
-Cela ne s’applique pas aux requêtes d’extraction, car les requêtes d’extraction, par nature, référencent la ou les pages concernées.
+Ce processus ne s’applique pas aux requêtes d’extraction, car les requêtes d’extraction, par nature, référencent la ou les pages concernées.
 
 ## Directives relatives à la documentation
 
@@ -63,7 +63,7 @@ Suivez ces instructions pour simplifier la révision de votre contribution et, p
 
 Souvenez-vous que les lecteurs et lectrices de la documentation AEM sont internationaux et peuvent ne pas être des locuteurs et locutrices anglais natifs ou bilingues. Évitez les expressions familières et restez aussi clair et simple que possible.
 
-#### Suivi du guide de style Microsoft®
+#### Suivre le guide de style Microsoft®
 
 [Le guide de style Microsoft®](https://learn.microsoft.com/en-us/style-guide/welcome/) est gratuit et concerne la documentation logicielle. Il s’applique à la documentation AEM, dans la mesure du possible.
 
@@ -83,10 +83,10 @@ Les marqueurs ou autres annotations dans les captures d’écran (comme les cadr
 
 ### Références spécifiques à la version
 
-Dans la mesure du possible, évitez toute référence directe à une version spécifique dans tout le contenu de la documentation. La documentation est ainsi plus flexible et extensible pour les versions ultérieures.
+Dans l’idéal, évitez les références directes à une version spécifique dans le contenu de la documentation chaque fois que cela est possible. Cette approche rend la documentation plus flexible et extensible pour les versions ultérieures.
 
-### Utilisation de Day, AEM, CQ, CRX
+### Utiliser Day, AEM, CQ, CRX
 
-Toujours faire référence au produit par son nom complet **Adobe Experience Manager** pour la première fois dans un article, par la suite, il peut être appelé **AEM**.
+Lorsque vous mentionnez le produit pour la première fois dans un article, utilisez toujours son nom complet, **Adobe Experience Manager**. Après cela, vous pouvez vous y référer comme **AEM**.
 
-Day, logiciel Day, CQ et CRX ne doivent pas être utilisés, sauf lorsqu’ils sont inévitables, par exemple dans les noms de classe ou en faisant référence à l’historique d’AEM.
+Day, le logiciel Day, CQ et CRX ne doivent pas être utilisés, sauf lorsqu’il est impossible de faire autrement, par exemple dans les noms de classe ou en faisant référence à l’historique d’AEM.

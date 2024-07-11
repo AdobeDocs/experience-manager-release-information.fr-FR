@@ -2,10 +2,10 @@
 title: Télécharger la documentation de versions antérieures d’AEM, CQ et CRX
 description: Téléchargez les packages de documentation des versions antérieures d’Adobe Experience Manager, CQ et CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '570'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ Les versions d’[!DNL Adobe Experience Manager], CQ et CRX répertoriées sur c
 Avant de télécharger le package, déterminez qui va utiliser le contenu. Cette décision détermine la façon dont il est déployé :
 
 * Les développeurs et développeuses peuvent procéder à l’installation localement pour une référence rapide.
-* Pour des besoins de documentation organisationnelle plus larges, il est recommandé de déployer le package sur une instance de création AEM hors production et accessible en interne.
+* Pour répondre aux besoins plus larges en documentation de l’organisation, Adobe recommande que le module soit déployé sur une instance d’auteur d’AEM accessible en interne et hors production.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 1. Une fois le package téléchargé, installez-le.
 
-1. Dans l’interface utilisateur du gestionnaire de packages, repérez le package et sélectionnez **[!UICONTROL Installer]**.
+1. Dans l’interface utilisateur du gestionnaire de modules, recherchez le module et sélectionnez **[!UICONTROL Installer]**.
 
 1. Dans la boîte de dialogue de confirmation, sélectionnez à nouveau **[!UICONTROL Installer]**. L’installation prend quelques minutes.
 

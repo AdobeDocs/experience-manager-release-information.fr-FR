@@ -1,11 +1,11 @@
 ---
 title: Feuille de route et mises à jour de version d’Adobe Experience Manager
-description: Feuille de route et mises à jour de version d’Adobe Experience Manager.
+description: En savoir plus sur les mises à jour et la feuille de route de Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 84%
 
 ---
 
