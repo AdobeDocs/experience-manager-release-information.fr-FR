@@ -90,7 +90,7 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 1. Une fois le package téléchargé, installez-le.
 
-1. Dans l’interface utilisateur du gestionnaire de modules, recherchez le module et sélectionnez **[!UICONTROL Installer]**.
+1. Dans l’interface utilisateur de Package Manager, recherchez le module et sélectionnez **[!UICONTROL Installer]**.
 
 1. Dans la boîte de dialogue de confirmation, sélectionnez à nouveau **[!UICONTROL Installer]**. L’installation prend quelques minutes.
 

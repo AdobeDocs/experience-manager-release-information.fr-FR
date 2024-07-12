@@ -3,7 +3,7 @@ title: Pack de correctifs cumulés AEM 6.3
 description: Notes de mise à jour du pack de correctifs cumulatif AEM 6.3.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17123'
 ht-degree: 100%
 

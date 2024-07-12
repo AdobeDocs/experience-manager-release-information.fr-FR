@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # Feuille de route des versions d’[!DNL Experience Manager] {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] fournit constamment de nouvelles fonctionnalités et des améliorations aux fonctionnalités existantes. Il fournit des correctifs pour les utilisateurs à l’échelle de l’entreprise. [!DNL Cloud Service], Managed Services et versions On-Premise. Cet article répertorie les versions à venir d’[!DNL Experience Manager].
+[!DNL Adobe Experience Manager] fournit de nouvelles fonctionnalités et améliorations aux fonctionnalités existantes. Il fournit des correctifs pour les utilisateurs des versions [!DNL Cloud Service], Managed Services et On-Premise. Cet article répertorie les versions à venir d’[!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] Les mises à jour des produits de la version 6.5 sont fournies par le biais des Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
+Les mises à jour de produits [!DNL Experience Manager] 6.5 sont fournies par le biais des Service Packs trimestriels. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
