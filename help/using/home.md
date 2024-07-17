@@ -1,15 +1,15 @@
 ---
-title: Feuille de route et mises à jour de version d’Adobe Experience Manager
-description: En savoir plus sur les mises à jour et la feuille de route de Adobe Experience Manager.
+title: Feuille de route et mises à jour de version d’Adobe Experience Manager
+description: Découvrez la feuille de route et les mises à jour d’Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Feuille de route et mises à jour de version d’Adobe Experience Manager
+# Feuille de route et mises à jour de version d’Adobe Experience Manager
 
 Ce guide contient des informations sur la feuille de route des versions d’[!DNL Adobe Experience Manager], les mises à jour de versions précédentes et les mises à jour de la documentation.
 

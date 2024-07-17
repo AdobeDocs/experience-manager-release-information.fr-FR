@@ -1,12 +1,12 @@
 ---
 title: Installation des packs de correctifs cumulatifs sur AEM Forms JEE
-description: Résumé des étapes pour installer et configurer le pack de correctifs cumulatif (CFP) sur AEM Forms JEE.
+description: Résumé des étapes d’installation et de configuration du pack de correctifs cumulatif (CFP) sur AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '905'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 
 
 ### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
-Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données Oracle, configurez les paramètres suivants après le déploiement de CFP1, c’est-à-dire après l’exécution de Configuration Manager. Ce paramètre est nécessaire pour synchroniser les utilisateurs, les groupes et les membres de groupes lors de l’exécution de la synchronisation du domaine d’entreprise.
+Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données Oracle, configurez les paramètres suivants après le déploiement de CFP1, c’est-à-dire après l’exécution de Configuration Manager. Ce paramètre est nécessaire pour synchroniser les utilisateurs et utilisatrices, les groupes et les personnes membres de groupes lors de l’exécution de la synchronisation du domaine d’entreprise.
 
 1. Connectez-vous à l’interface utilisateur d’**Administration**.
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Gestion des utilisateurs]** > **[!UICONTROL Configuration]** > **[!UICONTROL Importer et exporter des fichiers de configuration]**
 1. Exportez le fichier config.xml.
-1. Modifiez l’entrée de &quot;`groupMemberDBQueryBatchSize`&quot; sous les configurations de domaine dans *config.xml*. Exemple d’entrée :
+1. Modifiez l’entrée « `groupMemberDBQueryBatchSize` » de vos configurations de domaine dans *config.xml*. Exemple d’entrée :
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -40,7 +40,7 @@ Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données Or
 
 ## Installer le CFP sur AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-Pour installer le pack de correctifs cumulatifs sur AEM 6.2 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
+Pour installer le pack de correctifs cumulatif sur AEM 6.2 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
 
 1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr&amp;support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
@@ -98,7 +98,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    **Windows**
 
-   Accédez au répertoire sur le support d’installation ou au dossier dans lequel vous avez copié le programme d’installation.
+   Accédez au répertoire sur le support d’installation ou dans le dossier dans lequel vous avez copié le programme d’installation.
 
    * (`Windows 32-bit`) : `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`) : `Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    Accédez au répertoire concerné :
 
-   * (Linux®) : Disk1/InstData/Linux/NoVM
-   * (Solaris™) : Disk1/InstData/Solaris/NoVM
+   * (Linux®) : Disk1/InstData/Linux/NoVM
+   * (Solaris™) : Disk1/InstData/Solaris/NoVM
    * (AIX®) : Disk1/InstData/AIX/VM
 
    Dans une invite de commande, tapez :
