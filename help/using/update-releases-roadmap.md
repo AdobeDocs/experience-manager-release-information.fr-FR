@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Les mises à jour de produit [!DNL Experience Manager] 6.5 sont fournies par les Service Packs. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
+Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de packs de services. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ Les mises à jour de produit [!DNL Experience Manager] 6.5 sont fournies par les
 
 >[!NOTE]
 >
-> Les dates de publication des Service Packs d’AEM 6.5 seront désormais planifiées individuellement, plutôt que selon les cycles trimestriels fixes comme auparavant. Restez informé des prochaines versions du Service Pack sur cette page.
+> Les dates de publication des packs de services d’AEM 6.5 seront désormais planifiées individuellement, plutôt que selon des cycles trimestriels fixes, comme cela était le cas auparavant. Vous trouverez des informations sur les prochaines versions du pack de services sur cette page.
 
 >[!NOTE]
 >
