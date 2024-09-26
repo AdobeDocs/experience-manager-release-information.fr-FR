@@ -40,14 +40,14 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [17465](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Mise à jour automatique | 19-21 août 2024 | Mis à jour |
 | Disponibilité des fonctionnalités [2024.8.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation de fonctionnalités | 29 août 2024 | Activé |
 | Version de maintenance [17569](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Mise à jour automatique | 2-4 septembre 2024 | Mis à jour |
-| Version de maintenance [17689](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Mise à jour automatique | 16-18 septembre 2024 | Mis à jour |
+| Version de maintenance [17689](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Mise à jour automatique | 16-18 septembre 2024 | Mis à jour |
 
 ### Versions à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
 | Disponibilité des fonctionnalités 2024.9.0 | Activation de fonctionnalités | 26 septembre 2024 | Cible |
-| Version de maintenance [17964](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 30 septembre - 2 octobre 2024 | Cible |
+| Version de maintenance [17964](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 30 septembre - 2 octobre 2024 | Cible |
 | Version de maintenance | Mise à jour automatique | 14-16 octobre 2024 | Cible |
 | Version de maintenance | Mise à jour automatique | 28-30 octobre 2024 | Cible |
 | Disponibilité des fonctionnalités 2024.10.0 | Activation de fonctionnalités | 31 octobre 2024 | Cible |
