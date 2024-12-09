@@ -3,9 +3,9 @@ title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '451'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités 2025.2.0 | Activation de fonctionnalités | vendredi 27 février 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 10-12 mars 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 24-26 mars 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.3.0 | Activation de fonctionnalités | vendredi 27 mars 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.3.0 | Activation de fonctionnalités | 27 mars 2025 | Cible |
 
 >[!CAUTION]
 >
@@ -59,7 +59,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
-Les mises à jour de produit en termes de nouvelles fonctionnalités, d’améliorations et de correctifs pour les [!DNL Experience Manager] on-premise et Managed Services pris en charge sont fournies par le biais des Service Packs et des Cumulative Fix Packs (CFP). Cela permet l’adoption plus rapide de mises à jour de produits par le biais de publications fréquentes. Le calendrier des prochaines mises à jour de produits est le suivant.
+Les mises à jour des produits en termes de nouvelles fonctionnalités, d’améliorations et de correctifs pour [!DNL Experience Manager] On-Premise et Managed Services pris en charge sont fournies par le biais de packs de services et de packs de correctifs cumulatifs (CFP) trimestriels. Cela permet l’adoption plus rapide de mises à jour de produits par le biais de publications fréquentes. Le calendrier des prochaines mises à jour de produits est le suivant.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -67,11 +67,11 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [Pack de services 20](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 22 février 2024 | Activé |
-| [!DNL Experience Manager] 6.5 [Pack de services 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6 juin 2024 | Activé |
-| [!DNL Experience Manager] 6.5 [Pack de services 22](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Service Pack | 21 novembre 2024 | Activé |
-| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | vendredi 22 mai 2025 | Cible |
-| [!DNL Experience Manager] 6.5 Service Pack 24 | 6.5.24.0 | Service Pack | vendredi 20 novembre 2025 | Cible |
+| [!DNL Experience Manager] 6.5 [Pack de services 20](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Pack de services | 22 février 2024 | Activé |
+| [!DNL Experience Manager] 6.5 [Pack de services 21](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Pack de services | 6 juin 2024 | Activé |
+| [!DNL Experience Manager] 6.5 [Pack de services 22](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Pack de services | 21 novembre 2024 | Activé |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Pack de services | 22 mai 2025 | Cible |
+| [!DNL Experience Manager] 6.5 Pack de services 24 | 6.5.24.0 | Pack de services | 20 novembre 2025 | Cible |
 
 >[!NOTE]
 >

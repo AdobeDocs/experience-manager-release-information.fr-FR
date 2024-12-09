@@ -3,7 +3,7 @@ title: Télécharger la documentation de versions antérieures d’AEM, CQ et CR
 description: Téléchargez les packages de documentation des versions antérieures d’Adobe Experience Manager, CQ et CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b599547324e6c750050801ee64b9602d5068e4ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
 ht-degree: 100%
 
