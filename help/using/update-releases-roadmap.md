@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c7dfe54cbb913afbf09ea38b9dcdeb9345362b8e
+source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 99%
+source-wordcount: '442'
+ht-degree: 97%
 
 ---
 
@@ -44,17 +44,12 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance | Mise à jour automatique | 24-26 février 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.2.0 | Activation de fonctionnalités | vendredi 27 février 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 10-12 mars 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 24-26 mars 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.3.0 | Activation de fonctionnalités | 27 mars 2025 | Cible |
-
->[!CAUTION]
->
->**Période d’exclusion de la maintenance planifiée**
->
-> Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
->
->* Du lundi 25 novembre 2024 au mardi 3 décembre 2024.
->* Lundi 16 décembre 2024 au vendredi 3 janvier 2025.
+| Version de maintenance | Mise à jour automatique | 31 mars - 2 avril 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 14-16 avril 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.4.0 | Activation de fonctionnalités | vendredi 24 avril 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 28-30 avril 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 12-14 Mai 2025 | Cible |
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
