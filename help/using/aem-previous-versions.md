@@ -4,9 +4,9 @@ description: Téléchargez les packages de documentation des versions antérieur
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '571'
+ht-degree: 100%
 
 ---
 
