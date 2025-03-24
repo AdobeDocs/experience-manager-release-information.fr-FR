@@ -3,9 +3,9 @@ title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -45,11 +45,11 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités 2025.4.0 | Activation de fonctionnalités | 24 avril 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 5-7 mai 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 19-21 mai 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.5.0 | Activation de fonctionnalités | vendredi 29 mai 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 2-4 Juin 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 16-18 Juin 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.6.0 | Activation de fonctionnalités | vendredi 26 juin 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 30 Juin - 2 Juillet 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.5.0 | Activation de fonctionnalités | 29 mai 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 2-4 juin 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 16-18 juin 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.6.0 | Activation de fonctionnalités | 26 juin 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 30 juin - 2 juillet 2025 | Cible |
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
