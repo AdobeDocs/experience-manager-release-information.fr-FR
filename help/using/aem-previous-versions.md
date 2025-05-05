@@ -99,4 +99,4 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 ## Obtenir de l’aide de la communauté [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
