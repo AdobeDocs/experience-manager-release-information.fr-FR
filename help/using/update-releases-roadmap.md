@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 81dde5ba3ee4bb56947b4de2ac5e7635a2688c4f
-workflow-type: ht
-source-wordcount: '478'
-ht-degree: 100%
+source-git-commit: 19dbfab6bae449acf1755e78638aab1e30e1458c
+workflow-type: tm+mt
+source-wordcount: '481'
+ht-degree: 99%
 
 ---
 
@@ -34,16 +34,16 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités [2025.3.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-3-0) | Activation de fonctionnalités | 27 mars 2025 | Activé |
 | Version de maintenance [20133](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Mise à jour automatique | 7-9 avril 2025 | Mis à jour |
 | Version de maintenance [20476](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Mise à jour automatique | 22-24 avril 2025 | Mis à jour |
-| Disponibilité des fonctionnalités [2025.4.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation de fonctionnalités | 24 avril 2025 | Activé |
-| Version de maintenance [20626](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Mise à jour automatique | 5-7 mai 2025 | Activé |
-| Version de maintenance [21005](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 2-4 juin 2025 | Activé |
+| Disponibilité des fonctionnalités [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-4-0) | Activation de fonctionnalités | 24 avril 2025 | Activé |
+| Version de maintenance [20626](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Mise à jour automatique | 5-7 mai 2025 | Mis à jour |
+| Version de maintenance [21005](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | Mise à jour automatique | 2-4 juin 2025 | Mis à jour |
+| Disponibilité des fonctionnalités [2025.5.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation de fonctionnalités | 5 juin 2025 | Activé |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Disponibilité des fonctionnalités 2025.5.0 | Activation de fonctionnalités | 5 juin 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 16-18 juin 2025 | Cible |
+| Version de maintenance [21193](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 16-18 juin 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.6.0 | Activation de fonctionnalités | 26 juin 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 30 juin - 2 juillet 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 14-16 juillet 2025 | Cible |
