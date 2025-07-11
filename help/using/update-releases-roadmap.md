@@ -2,8 +2,8 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 64b97f20437ff084ebd2a9da984781fc420d33dc
-workflow-type: ht
+source-git-commit: a152ca4fb490c626edeb18ec2a69b5e48c703216
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 |---|---|---|---|
 | Version de maintenance [21484](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 14-16 juillet 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 28-30 juillet 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.7.0 | Activation des fonctionnalités | 31 juillet 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.7.0 | Activation des fonctionnalités | vendredi 7 août 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 11-13 août 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 25-27 août 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.8.0 | Activation des fonctionnalités | 28 août 2025 | Cible |
