@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a72bc8ba4664a662e2cf3f6e791b8faba7dca103
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 99%
+source-wordcount: '494'
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [21193](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Mise à jour automatique | 16-18 juin 2025 | Mis à jour |
 | Disponibilité des fonctionnalités [2025.6.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation des fonctionnalités | 26 juin 2025 | Activé |
 | Version de maintenance [21331](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Mise à jour automatique | 30 juin - 2 juillet 2025 | Mis à jour |
-| Version de maintenance [21484](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | Mise à jour automatique | vendredi 10 juillet 2025 | Mis à jour |
+| Version de maintenance [21484](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | Mise à jour automatique | vendredi 10 juillet 2025 | Mis à jour |
 | Version de maintenance [21570](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | mercredi 15 juillet 2025 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
@@ -43,7 +43,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
 | Version de maintenance | Mise à jour automatique | 28-30 juillet 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.7.0 | Activation des fonctionnalités | vendredi 7 août 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.7.0 | Activation des fonctionnalités | 7 août 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 11-13 août 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 25-27 août 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.8.0 | Activation des fonctionnalités | 28 août 2025 | Cible |
@@ -58,7 +58,7 @@ Les mises à jour des produits en termes de nouvelles fonctionnalités, d’amé
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-Les mises à jour du produit LTS [!DNL Experience Manager] 6.5 sont fournies par le biais de packs de services. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le pack de services le plus récent, voir [[!DNL Experience Manager] Notes de mise à jour LTS 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes).
+Les mises à jour du produit LTS [!DNL Experience Manager] 6.5 sont fournies par le biais de packs de services. Ces packs de services incluent de nouvelles fonctionnalités, des améliorations et des correctifs de bugs. Pour plus d’informations sur le pack de services le plus récent, voir [[!DNL Experience Manager] Notes de mise à jour LTS 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes).
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ Les mises à jour du produit LTS [!DNL Experience Manager] 6.5 sont fournies pa
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de packs de services. Elles comportent de nouvelles fonctionnalités, des améliorations et des correctifs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
+Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le biais de packs de services. Ces packs de services incluent de nouvelles fonctionnalités, des améliorations et des correctifs de bugs. Pour plus d’informations sur le Service Pack le plus récent, voir Notes de mise à jour du Service Pack [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
