@@ -2,9 +2,9 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+source-git-commit: 8928bc3047ea4ce1793113b381caf9ac17ecd802
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 95%
 
 ---
@@ -35,8 +35,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [21193](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Mise à jour automatique | 16-18 juin 2025 | Mis à jour |
 | Disponibilité des fonctionnalités [2025.6.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation des fonctionnalités | 26 juin 2025 | Activé |
 | Version de maintenance [21331](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Mise à jour automatique | 30 juin - 2 juillet 2025 | Mis à jour |
-| Version de maintenance [21484](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | Mise à jour automatique | vendredi 10 juillet 2025 | Mis à jour |
-| Version de maintenance [21570](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | mercredi 15 juillet 2025 | Mis à jour |
+| Version de maintenance [21570](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 14-16 juillet 2025 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
