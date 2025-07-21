@@ -51,7 +51,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>18 octobre 2019<br /> </td> 
    <td>Gestion de l’expérience découplée<br /> </td> 
-   <td>Les fonctionnalités du <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">moteur de rendu de contenu distant</a>, utilisé pour le rendu côté serveur des applications sur une seule page, ont été documentées.<br /> </td> 
+   <td>Les fonctionnalités du <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">moteur de rendu de contenu distant</a>, utilisé pour le rendu côté serveur des applications sur une seule page, ont été documentées.<br /> </td> 
   </tr>
   <tr>
    <td>11 octobre 2019</td> 
@@ -71,7 +71,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>1er octobre 2019</td> 
    <td>Installation d’AEM Forms sur JEE </td> 
-   <td><p>Ajout de la prise en charge d’AEM Forms pour le pilote de base de données Oracle 18c. </p> <p>Matrice de la plateforme : <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Ajout de la prise en charge d’AEM Forms pour le pilote de base de données Oracle 18c. </p> <p>Matrice de la plateforme : <a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1er octobre 2019 </td> 
