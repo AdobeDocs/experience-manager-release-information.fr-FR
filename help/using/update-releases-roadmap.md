@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 3ebaf5e0257cf289904e5018013086ad0e213e28
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [21570](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Mise à jour automatique | 14-16 juillet 2025 | Mise à jour |
 | Version de maintenance [21706](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Mise à jour automatique | 28-30 juillet 2025 | Mise à jour |
 | Disponibilité des fonctionnalités [2025.7.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation des fonctionnalités | 7 août 2025 | Activé |
-| Version de maintenance [21772](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Mise à jour automatique | 11-13 août 2025 | Mise à jour |
+| Version de maintenance [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Mise à jour automatique | 11-13 août 2025 | Mise à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
@@ -53,10 +53,10 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 >
 >**Période d’exclusion de la maintenance planifiée**
 >
-> Aucune maintenance automatique d’AEMaaCS ne sera effectuée pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
+> Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
->* Du lundi 24 novembre 2025 au mardi 2 décembre 2025.
->* Du lundi 8 décembre 2025 au vendredi 2 janvier 2026.
+>* Du lundi 24 novembre 2025 au mardi 2 décembre 2025.
+>* Du lundi 8 décembre 2025 au vendredi 2 janvier 2026.
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
