@@ -3,7 +3,7 @@ title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 161c472d9a394da18711d04e85eb7af1278e6f2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
 ht-degree: 100%
 
