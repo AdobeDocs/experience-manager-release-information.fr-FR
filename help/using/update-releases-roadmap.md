@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 5ea75151fa68dd30327ab9b9bc519ab379fd5115
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -43,15 +43,15 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités 2025.9.0 | Activation des fonctionnalités | 25 septembre 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 6-8 octobre 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 20-22 octobre 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.10.0 | Activation des fonctionnalités | vendredi 30 octobre 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.10.0 | Activation des fonctionnalités | 30 octobre 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 3-5 novembre 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 17-19 novembre 2025 | Cible |
 | Disponibilité des fonctionnalités 2025.11.0 | Activation des fonctionnalités | 20 novembre 2025 | Cible |
-| Version de maintenance | Mise à jour automatique | 8-10 décembre 2025 | Cible |
-| Disponibilité des fonctionnalités 2025.12.0 | Activation des fonctionnalités | vendredi 11 décembre 2025 | Cible |
+| Version de maintenance | Mise à jour automatique | 8-10 décembre 2025 | Cible |
+| Disponibilité des fonctionnalités 2025.12.0 | Activation des fonctionnalités | 11 décembre 2025 | Cible |
 | Version de maintenance | Mise à jour automatique | 12-14 janvier 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 26-28 janvier 2026 | Cible |
-| Disponibilité des fonctionnalités 2026.1.0 | Activation des fonctionnalités | vendredi 29 janvier 2026 | Cible |
+| Disponibilité des fonctionnalités 2026.1.0 | Activation des fonctionnalités | 29 janvier 2026 | Cible |
 
 >[!CAUTION]
 >
@@ -72,7 +72,7 @@ Les mises à jour du produit LTS [!DNL Experience Manager] 6.5 sont fournies pa
 
 | Version | Version | Type | Planification | Statut |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Pack de services | 28 août 2025 | Activé |
+| [Pack de services 1](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes) d’[!DNL Experience Manager] 6.5 LTS | 6.5.LTS.SP1 | Pack de services | 28 août 2025 | Activé |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
