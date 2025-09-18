@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
 workflow-type: tm+mt
 source-wordcount: '3400'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -33,13 +33,13 @@ Cet article fournit des informations pour :
 
 * [Versions d’AEM 6.5 Forms](#aem-65-forms-releases)
 
-## Versions [!DNL Forms] d’AEM 6.5 LTS {#aem-65-lts-forms-releases}
+## Versions [!DNL Forms] d’AEM 6.5 LTS {#aem-65-lts-forms-releases}
 
 <table>
   <tbody>
     <tr>
       <td><strong>Date</strong></td>
-      <td><strong>Versions d’AEM 6.5 LTS Forms</strong></td>
+      <td><strong>Versions d’AEM 6.5 LTS Forms</strong></td>
       <td><strong>Condition requise</strong></td>
       <td><strong>Packages disponibles</strong></td>
       <td><strong>Versions de build</strong></td>
@@ -97,13 +97,13 @@ Cet article fournit des informations pour :
   </tbody>
 </table>
 
-## Versions [!DNL Forms] d’AEM 6.5 {#aem-65-forms-releases}
+## Versions d’AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
 
 <table>
   <tbody>
     <tr>
       <td><strong>Date</strong></td>
-      <td><strong>Versions d’AEM Forms 6.5</strong></td>
+      <td><strong>Versions d’AEM Forms 6.5</strong></td>
       <td><strong>Condition requise</strong></td>
       <td><strong>Packages disponibles</strong></td>
       <td><strong>Versions de build</strong></td>
@@ -933,7 +933,7 @@ Cet article fournit des informations pour :
   </tbody>
  </table>
 
-`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
+`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
 
 `[2]` Le package de modules complémentaires AEM [!DNL Forms] pour macOS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package macOS X.
 

@@ -4,8 +4,8 @@ description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: fe220b2c7f95cfb6a0e2e3c9768a5fbabfc2c2ce
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '548'
+ht-degree: 99%
 
 ---
 
@@ -60,7 +60,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 > Aucune maintenance automatique d’AEMaaCS ne se déroulera pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
 >* Du lundi 24 novembre 2025 au mardi 2 décembre 2025.
->* Du lundi 15 décembre 2025 au vendredi 2 janvier 2026.
+>* Du lundi 15 décembre 2025 au vendredi 2 janvier 2026.
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
