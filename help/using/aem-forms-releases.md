@@ -933,7 +933,7 @@ Cet article fournit des informations pour :
   </tbody>
  </table>
 
-`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
+`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
 
 `[2]` Le package de modules complémentaires AEM [!DNL Forms] pour macOS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package macOS X.
 
