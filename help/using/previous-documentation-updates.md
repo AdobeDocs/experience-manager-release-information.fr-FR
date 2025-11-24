@@ -3,10 +3,10 @@ title: Mises à jour précédentes de la documentation
 description: Découvrez les modifications et mises à jour importantes précédentes de la documentation d’ [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>5 décembre 2019</td> 
    <td>Composants principaux<br /> </td> 
-   <td>La version 2.8.0 des composants principaux, qui comprend de nombreux correctifs, est désormais disponible, ainsi que la <a href="https://github.com/adobe/aem-core-wcm-components">documentation de création et les informations relatives aux développeurs et le téléchargement de projet disponibles sur GitHub</a>.</td> 
+   <td>La version 2.8.0 des composants principaux, qui comprend de nombreux correctifs, est désormais disponible, ainsi que la <a href="https://github.com/adobe/aem-core-wcm-components">documentation de création et les informations relatives au développement et le téléchargement de projets disponibles sur GitHub</a>.</td> 
   </tr>
   <tr>
    <td>20 novembre 2019</td> 
@@ -71,7 +71,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>1er octobre 2019</td> 
    <td>Installation d’AEM Forms sur JEE </td> 
-   <td><p>Ajout de la prise en charge d’AEM Forms pour le pilote de base de données Oracle 18c. </p> <p>Matrice de la plateforme : <a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/fr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Ajout de la prise en charge d’AEM Forms pour le pilote de base de données Oracle 18c. </p> <p>Matrice de la plateforme : <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1er octobre 2019 </td> 
@@ -116,7 +116,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>6 septembre 2019</td> 
    <td>Composants principaux</td> 
-   <td>La version 2.6.0 des composants principaux, qui intègre pour la première fois le composant Fragments d’expérience, est désormais disponible, ainsi que les <a href="https://github.com/adobe/aem-core-wcm-components">informations relatives aux développeurs et le téléchargement de projet disponibles sur GitHub</a>.</td> 
+   <td>La version 2.6.0 des composants principaux, qui intègre pour la première fois le composant Fragments d’expérience, est désormais disponible, ainsi que les <a href="https://github.com/adobe/aem-core-wcm-components">informations relatives au développement et le téléchargement de projets disponibles sur GitHub</a>.</td> 
   </tr>
   <tr>
    <td>21 août 2019</td> 
@@ -161,7 +161,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>25 juin 2019</td> 
    <td>Composants principaux<br /> </td> 
-   <td>La version 2.5.0 des composants principaux, dont les nouveaux composants Accordéon, Bouton, Conteneur et Téléchargement, sont désormais disponibles, ainsi que les <a href="https://github.com/adobe/aem-core-wcm-components">informations relatives aux développeurs et le téléchargement de projet disponibles sur GitHub</a>.</td> 
+   <td>La version 2.5.0 des composants principaux, dont les nouveaux composants Accordéon, Bouton, Conteneur et Téléchargement, sont désormais disponibles, ainsi que les <a href="https://github.com/adobe/aem-core-wcm-components">informations relatives au développement et le téléchargement de projets disponibles sur GitHub</a>.</td> 
   </tr>
   <tr>
    <td>17 juin 2019<br /> </td> 
@@ -176,7 +176,7 @@ Cette page répertorie les modifications et mises à jour importantes de la docu
   <tr>
    <td>31 mai 2019</td> 
    <td>Intégration AEM et Adobe Commerce </td> 
-   <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce Integration Framework</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Commerce Integration Framework</a>.</td> 
   </tr>
   <tr>
    <td>24 mai 2019</td> 
