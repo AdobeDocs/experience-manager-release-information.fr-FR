@@ -2,9 +2,9 @@
 title: Feuille de route et mises à jour de version d’Adobe Experience Manager
 description: Découvrez la feuille de route et les mises à jour d’Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '66'
+source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Ce guide contient des informations sur la feuille de route des versions d’[!DN
 * [Versions d’[!DNL Experience Manager] Forms](aem-forms-releases.md)
 * [Installation des packs de correctifs cumulés sur  [!DNL Experience Manager]  Forms JEE](install-cfp-aem-forms-jee.md)
 
-## Mises à jour de la documentation
-
-* [Documentation dʼ[!DNL Experience Manager] : mises à jour récentes de la documentation](documentation-updates.md)
-* [Mises à jour précédentes de la documentation](previous-documentation-updates.md)
