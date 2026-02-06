@@ -3,7 +3,7 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 6a222f920c79c624b9c70cbf95e89c0a6d43f8a4
+source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
 workflow-type: tm+mt
 source-wordcount: '3577'
 ht-degree: 98%
@@ -128,7 +128,7 @@ Pack de services 1 d’AEM 6.5 LTS Forms
       <td><strong>Versions de build</strong></td>
     </tr>
     <tr>
-      <td>mercredi 28 janvier 2025</td>
+      <td>jeudi 28 janvier 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes">Pack de services 24 d’AEM Forms 6.5, package de module complémentaire Forms pour AEM 6.5.24.0</a>
       </td>
@@ -989,7 +989,7 @@ Pack de services 1 d’AEM 6.5 LTS Forms
   </tbody>
  </table>
 
-`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
+`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
 
 `[2]` Le package de modules complémentaires AEM [!DNL Forms] pour macOS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package macOS X.
 
