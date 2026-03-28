@@ -46,7 +46,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version [2026.1.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) Des Fonctionnalités | Activation des fonctionnalités | 29 janvier 2026 | Activé |
 | [24288](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) de version de maintenance | Mise à jour automatique | 9-11 février 2026 | Mis à jour |
 | [24464](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 23-25 Février 2026 | Mis à jour |
-| Version [2026.2.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) Des Fonctionnalités | Activation des fonctionnalités | 3 mars 2026 | Activé |
+| Version [2026.2.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) Des Fonctionnalités | Activation des fonctionnalités | 3 mars 2026 | Activé |
 | [24678](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) de version de maintenance | Mise à jour automatique | 9-11 Mars 2026 | Mis à jour |
 | Version [2026.3.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) Des Fonctionnalités | Activation des fonctionnalités | vendredi 26 mars 2026 | Activé |
 
