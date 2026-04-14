@@ -1,27 +1,29 @@
 ---
 cloud: Experience Cloud
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 type: Documentation
-git-repo: https://github.com/AdobeDocs/experience-manager-release-information.fr-FR
+git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
 index: true
 recommendations: noDisplay
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: bbca238b99f4c72d65418f224103c37d417793d6
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
 
-# Métadonnées pour utilisation interne
+# Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées de niveau référentiel qui transitent par les fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
 
-| metadata | effets |
+| metadata | ce qu&#39;il fait |
 |--- |--- |
-| solution-title | Utilisé dans l’en-tête de l’article en tant que lien. |
-| solution-hub-url | Ouvre la page hub helpx. |
-| solution-icon | Affiche une icône de solution à côté du titre de la solution. Pas encore implémenté. |
-| getting-started-url | Lien vers la page de démarrage helpx. |
-| tutorials-url | Lien vers les tutoriels vidéo : tutoriels helpx ou KT. |
-| mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le volet de droite. La valeur par défaut est 2. |
-| git-repo | Spécifie l’emplacement du référentiel principal pour une utilisation interne. |
+| solution-title | Utilisé dans l’en-tête de l’article comme lien |
+| solution-hub-url | Ouvre la page hub d’aide |
+| solution-icon | Affiche une icône de solution en regard du titre de la solution. Pas encore implémenté |
+| getting-started-url | Lien vers la page de prise en main |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’aide ou tutoriels d’AC. |
+| niveaux de mini-table des matières | Détermine le nombre de niveaux de titre qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
+| git-repo | Spécifie l&#39;emplacement du référentiel principal pour une utilisation interne |
