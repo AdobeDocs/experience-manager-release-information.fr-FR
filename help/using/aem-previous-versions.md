@@ -4,9 +4,9 @@ description: Téléchargez les packages de documentation des versions antérieur
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '964'
+ht-degree: 100%
 
 ---
 
@@ -37,8 +37,8 @@ Avant de télécharger le package, déterminez qui va utiliser le contenu. Cette
 
 Un identifiant Adobe valide est requis :
 
-* Si vous n’avez pas d’identifiant Adobe, vous pouvez en créer un sur le site https://www.adobe.com/
-Si vous avez besoin d’aide pour créer ou gérer votre identifiant Adobe, [consultez ce guide](https://helpx.adobe.com/fr/manage-account.html)
+* Si vous n’avez pas d’Adobe ID, vous pouvez en créer un sur le site https://www.adobe.com/.
+Si vous avez besoin d’aide pour créer ou gérer votre Adobe ID, [consultez ce guide](https://helpx.adobe.com/fr/manage-account.html).
 
 | Version d’[!DNL Experience Manager] | Lien du portail Distribution logicielle |
 |:-----------:|:--------------------------------------------------:|
@@ -95,8 +95,8 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 1. Dans la boîte de dialogue de confirmation, sélectionnez à nouveau **[!UICONTROL Installer]**. L’installation prend quelques minutes.
 
-1. Dans un navigateur web, lancez la page de documentation. En reprenant l’exemple d’AEM 5.6.1, l’URL serait : http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Dans un navigateur web, lancez la page de documentation. En reprenant l’exemple d’AEM 5.6.1, l’URL serait : http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtenir de l’aide de la communauté [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
+Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).

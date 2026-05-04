@@ -5,7 +5,7 @@ contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '740'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -46,7 +46,7 @@ Ce document contient des informations à propos des différents types de version
 
 | Élément | Description |
 |-----|-----|
-| Définition | <ul> <li> Modèle de diffusion unique des correctifs de publication </li> <li> Package d’agrégation de contenu contenant le package de contenu de composants individuels </li> <li>  Les CFP remplacent les correctifs et ne comportent aucune amélioration.  </li> </ul> |
+| Définition | <ul> <li> Modèle de diffusion unique des correctifs de publication </li> <li> Module de contenu d’agrégation contenant le module de contenu de composants individuels </li> <li>  Les CFP remplacent les correctifs et ne comportent aucune amélioration.  </li> </ul> |
 | Dénomination | X.Y.Z.CFPx <br> Où X est le numéro de version principal, Y est le numéro de version secondaire et Z le numéro de correctif. x est le numéro cumulé du Service Pack. |
 | Inclusions | Un pack de correctifs cumulatif (CFP) contient des correctifs de l’ensemble des composants aux dates spécifiées. Par exemple, si un client applique CFP3, alors CFP3 = CFP1 + CFP2. |
 | Documentation | Les notes de mise à jour sont disponibles sur le portail de documentation. |

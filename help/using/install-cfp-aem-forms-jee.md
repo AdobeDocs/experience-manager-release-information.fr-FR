@@ -5,23 +5,23 @@ contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: ht
-source-wordcount: '904'
+source-wordcount: '932'
 ht-degree: 100%
 
 ---
 
-# Installation de packs de correctifs cumulés sur AEM [!DNL  Forms] JEE {#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Installation de packs de correctifs cumulés sur AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Installer le CFP sur AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
 Pour installer le pack de correctifs cumulatifs sur AEM 6.3 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
 
-1. Pour obtenir le programme d’installation AEM 6.3 [!DNL Forms JEE] pour le CFP, contactez [l’assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
+1. Pour obtenir le programme d’installation AEM 6.3 [!DNL Forms JEE] pour le CFP, contactez [l’assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installez la dernière version du CFP AEM 6.3.3.x
 1. Installez le package de module complémentaire [!DNL Forms] pour AEM CFP [6.3.3.x](aem-forms-releases.md).
 
-### Installez le package des lots AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
+### Installez le package des lots AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
 Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
 
@@ -42,7 +42,7 @@ Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données O
 
 Pour installer le pack de correctifs cumulatif sur AEM 6.2 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
 
-1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
+1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installez AEM Hotfix 12785 version 7.0.
 1. Installez AEM 6.2 Service Pack 1.
@@ -67,7 +67,7 @@ Vous pouvez également modifier les délais d’expiration au niveau du composan
 
 1. `adobe.all-component.timeout` : remplace les délais d’expiration de tous les services du produit.
 1. `adobe.<serviceName>.timeout` : remplace le délai d’expiration uniquement pour le service (&lt;serviceName>) mentionné dans la clé. Si la valeur est définie au niveau du service, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application.
-1. `adobe.<serviceName>.<operationName>.timeout` : remplace uniquement le délai d’expiration pour l’opération (&lt;serviceName>) du service spécifique.&lt;operationName>) mentionné dans la clé. Si la valeur est définie au niveau de l’opération, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application ou du service.
+1. `adobe.<serviceName>.<operationName>.timeout` : remplace uniquement le délai d’expiration pour l’opération du service spécifique (&lt;serviceName>.&lt;operationName>) mentionné dans la clé.Si la valeur est définie au niveau de l’opération, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application ou du service.
 
 **Exemples :**
 
@@ -89,7 +89,7 @@ Utilisez les commandes suivantes pour définir le délai d’expiration au nivea
 
    set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
-## Installation et configuration d’AEM [!DNL Forms JEE]  {#install-and-configure-aem-forms-jee}
+## Installation et configuration d’AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
 1. Effectuez une sauvegarde du dossier /deploy. Cela est nécessaire si vous décidez de désinstaller le Quick Fix.
 1. Arrêtez le serveur d’applications.
