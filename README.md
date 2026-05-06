@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVÉ
 
-Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/experience-manager-release-information.en>.
+Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/experience-manager-release-information.fr-FR>.
