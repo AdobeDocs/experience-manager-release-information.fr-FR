@@ -2,7 +2,8 @@
 cloud: Experience Cloud
 product: experience manager
 solution: Experience Manager
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 audience: end-user
 user-guide-title: Feuille de route et mises à jour de version d’Adobe Experience Manager
 breadcrumb-title: Informations sur la version AEM
