@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d70535a5e9fd8ee9766c2876796028169a9bef4b
+source-git-commit: 084ff8eac94282c39315b2fa0da89b55898384e7
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 97%
+source-wordcount: '1216'
+ht-degree: 94%
 
 ---
 
@@ -35,8 +35,6 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance [22943](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Mise à jour automatique | 20-22 octobre 2025 | Mis à jour |
-| Disponibilité des fonctionnalités [2025.10.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | Activation des fonctionnalités | 30 octobre 2025 | Activé |
 | Version de maintenance [23385](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | Mise à jour automatique | 17-19 novembre 2025 | Mis à jour |
 | Disponibilité des fonctionnalités [2025.11.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | Activation des fonctionnalités | 20 novembre 2025 | Activé |
 | Version de maintenance [23482](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Mise à jour automatique | 8-10 décembre 2025 | Mis à jour |
@@ -51,17 +49,20 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Version de maintenance [25194](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | Mise à jour automatique | 6-8 avril 2026 | Mis à jour |
 | Version de maintenance [25520](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | Mise à jour automatique | 27-29 avril 2026 | Mis à jour |
 | Disponibilité des fonctionnalités [2026.4.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation des fonctionnalités | 30 avril 2026 | Activé |
-| Version de maintenance [25892](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Mise à jour automatique | 11-13 mai 2026 | Mis à jour |
+| Version de maintenance [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Mise à jour automatique | 11-13 mai 2026 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance | Mise à jour automatique | 25-27 mai 2026 | Cible |
+| [26125](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 25-27 mai 2026 | Cible |
 | Disponibilité des fonctionnalités 2026.5.0 | Activation des fonctionnalités | 28 mai 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 8-10 juin 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 22-24 juin 2026 | Cible |
 | Disponibilité des fonctionnalités 2026.6.0 | Activation des fonctionnalités | 25 juin 2026 | Cible |
+| Version de maintenance | Mise à jour automatique | 6-8 Juillet 2026 | Cible |
+| Version de maintenance | Mise à jour automatique | 20-22 Juillet 2026 | Target |
+| Version 2026.7.0 Des Fonctionnalités | Activation des fonctionnalités | 30 Juillet 2026 | Cible |
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
