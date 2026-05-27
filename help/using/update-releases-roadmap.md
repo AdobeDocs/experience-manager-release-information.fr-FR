@@ -2,7 +2,7 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 084ff8eac94282c39315b2fa0da89b55898384e7
+source-git-commit: ab32fce30997b2d6730e3983728432edd267d5e2
 workflow-type: tm+mt
 source-wordcount: '1216'
 ht-degree: 94%
@@ -55,7 +55,7 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| [26125](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 25-27 mai 2026 | Cible |
+| [26309](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 25-27 mai 2026 | Cible |
 | Disponibilité des fonctionnalités 2026.5.0 | Activation des fonctionnalités | 28 mai 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 8-10 juin 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 22-24 juin 2026 | Cible |
@@ -99,7 +99,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 >  Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication (jusqu’au 28/02/2027).
 >* La prise en charge d’AEM 6.5 pour les clientes et clients **Adobe Managed Service** prend fin le 31 août 2026.
 >* La prise en charge de base d’AEM 6.5 pour les clientes et clients **On Prem** doit actuellement prendre fin en février 2027.
->* La prise en charge d’AEM 6.5 se poursuit via AEM 6.5 LTS. Consultez les [questions fréquentes sur AEM 6.5 LTS](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/faq).
+>* La prise en charge d’AEM 6.5 se poursuit via AEM 6.5 LTS. Consultez les [questions fréquentes sur AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
