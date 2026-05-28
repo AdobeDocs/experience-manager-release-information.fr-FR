@@ -99,7 +99,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 >  Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication, soit jusqu’au 2/28/2027.
 >* La prise en charge d’AEM 6.5 pour les clientes et clients **Adobe Managed Service** prend fin le 31 août 2026.
 >* La prise en charge de base d’AEM 6.5 pour les clientes et clients **On Prem** doit actuellement prendre fin en février 2027.
->* La prise en charge d’AEM 6.5 se poursuit via AEM 6.5 LTS. Consultez les [questions fréquentes sur AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* La prise en charge d’AEM 6.5 se poursuit via AEM 6.5 LTS. Consultez les [questions fréquentes sur AEM 6.5 LTS](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
