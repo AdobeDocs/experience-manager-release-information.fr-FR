@@ -3,10 +3,10 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: e6c6c4d28ea2fd5d8952f026c8c4db62355fcf95
+source-git-commit: a8bfe1da18d9ae7d96209cde12499c625dfae089
 workflow-type: tm+mt
-source-wordcount: '15799'
-ht-degree: 97%
+source-wordcount: '15820'
+ht-degree: 96%
 
 ---
 
@@ -186,12 +186,10 @@ Pack de services 1 d’AEM 6.5 LTS Forms
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-windows-websphere.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-websphere.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
-        <!--
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
-          <li><a href="">AEM Forms Client SDK</a>       </li>
+          <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1482/aemfd-client-sdk-6.0.1482.jar">SDK client AEM Forms</a>       </li>
         </ul>
-        -->
         <b style="display:block; margin:10px 0;">Programmes d’installation du correctif de Forms Designer 64 bits</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">Programme d’installation de l’anglais</a> </li>
@@ -202,7 +200,7 @@ Pack de services 1 d’AEM 6.5 LTS Forms
         </ul>
       </td>
       <td>
-        <p>Programme d’installation du correctif OSGI AEM Forms : 6.0.1482<br/><p>Programme d’installation du correctif JEE AEM Forms : 6-5-0-127 <br/><!--<p>AEM Forms Compatibility Package: <br/>--></p></td>
+        <p>Programme d’installation du correctif OSGI AEM Forms : 6.0.1482<br/><p>Programme d’installation du correctif JEE AEM Forms : 6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>28 janvier 2026</td>
@@ -1066,7 +1064,7 @@ Pack de services 1 d’AEM 6.5 LTS Forms
   </tbody>
  </table>
 
-`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
+`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
 
 `[2]` Le package de modules complémentaires AEM [!DNL Forms] pour macOS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package macOS X.
 
