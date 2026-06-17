@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 6fceee5f78f67af56b67b867b9487c912bd710c1
+source-git-commit: 7243d26f051b19264dc1f75c130801c87f59f9a0
 workflow-type: tm+mt
-source-wordcount: '1237'
-ht-degree: 75%
+source-wordcount: '1256'
+ht-degree: 73%
 
 ---
 
@@ -52,13 +52,13 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Service] 
 | Version de maintenance [25892](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Mise à jour automatique | 11-13 mai 2026 | Mis à jour |
 | [26309](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) de version de maintenance | Mise à jour automatique | 25-27 mai 2026 | Mis à jour |
 | Version [2026.5.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) Des Fonctionnalités | Activation des fonctionnalités | 28 mai 2026 | Activé |
+| [26353](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) de version de maintenance | Mise à jour automatique | 8-10 juin 2026 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| [26353](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 8-10 juin 2026 | Cible |
-| Version de maintenance | Mise à jour automatique | 22-24 juin 2026 | Cible |
+| [26635](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 22-24 juin 2026 | Cible |
 | Disponibilité des fonctionnalités 2026.6.0 | Activation des fonctionnalités | 25 juin 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 6-8 Juillet 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 20-22 Juillet 2026 | Target |
