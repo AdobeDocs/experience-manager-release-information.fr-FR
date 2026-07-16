@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f99ec47fc6f25fa3582f6108cd36fb5c833c865e
+source-git-commit: af8a6e57c31622c80eb0b5db724bbd3909f4935b
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 69%
+source-wordcount: '1314'
+ht-degree: 64%
 
 ---
 
@@ -93,15 +93,20 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Pack de services | 21 mai 2026 | Activé |
 | Pack de services 26 d’[!DNL Experience Manager] 6.5 | 6.5.26.0 | Pack de services | 19 novembre 2026 | Cible |
 
+>[!AVAILABILITY]
+>
+> La prise en charge d’AEM 6.5 se poursuit avec AEM 6.5 LTS. Calendriers de prise en charge actuels de la version 6.5 :
+>
+> * **Clients Adobe Managed Services** : se termine le 31 août 2026.
+> * Clients **On Prem** : la fin de l’assistance principale est actuellement prévue pour février 2027.
+> 
+>Les deux chemins sont couverts par AEM 6.5 LTS. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/faq) consultez les questions fréquentes sur le LTS AEM 6.5.
+
 >[!NOTE]
 >
->Pour AEM 6.5 :
+> 6.5.26.0 est la dernière version du pack de services prise en charge pour AEM 6.5.
 >
->* 6.5.26.0 est la dernière version du pack de services prise en charge pour AEM 6.5.
->  Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication (jusqu’au 28/02/2027).
->* La prise en charge d’AEM 6.5 pour les clientes et clients **Adobe Managed Service** prend fin le 31 août 2026.
->* La prise en charge de base d’AEM 6.5 pour les clientes et clients **On Prem** doit actuellement prendre fin en février 2027.
->* La prise en charge d’AEM 6.5 se poursuit via AEM 6.5 LTS. Consultez les questions fréquentes sur le LTS [AEM 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/faq).
+> Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication, jusqu’au 28 février 2027. Voir [Produits et périodes d’assistance technique](https://helpx.adobe.com/fr/support/programs/eol-matrix.html#cq).
 
 >[!NOTE]
 >
