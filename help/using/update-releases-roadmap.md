@@ -2,10 +2,10 @@
 title: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 description: Feuille de route des versions d’[!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 392fd1a7b6b58c3adb0b8f0bca3eb2e55311fff3
+source-git-commit: 5aaa2a857065a1ec24c8f8996a2a474184bcd436
 workflow-type: tm+mt
-source-wordcount: '1088'
-ht-degree: 55%
+source-wordcount: '1107'
+ht-degree: 54%
 
 ---
 
@@ -43,13 +43,13 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | [26908](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) de version de maintenance | Mise à jour automatique | 6-8 Juillet 2026 | Mis à jour |
 | [27083](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) de version de maintenance | Mise à jour automatique | 20-22 Juillet 2026 | Mis à jour |
 | Version [2026.7.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) Des Fonctionnalités | Activation des fonctionnalités | 30 Juillet 2026 | Activé |
-| [27293](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 3-5 Août 2026 | Mis à jour |
+| [27293](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) de version de maintenance | Mise à jour automatique | 3-5 Août 2026 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance | Mise à jour automatique | 17-19 Août 2026 | Cible |
+| [27673](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 17-19 Août 2026 | Cible |
 | Version 2026.8.0 Des Fonctionnalités | Activation des fonctionnalités | 27 Août 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 31 août-2 septembre 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 14-16 Septembre 2026 | Cible |
