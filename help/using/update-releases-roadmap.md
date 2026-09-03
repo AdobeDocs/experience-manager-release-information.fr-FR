@@ -100,13 +100,13 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 > * **Clients Adobe Managed Services** : se termine le 31 août 2026.
 > * Clients **On Prem** : la fin de l’assistance principale est actuellement prévue pour février 2027.
 > 
->AEM 6.5 LTS couvre les deux chemins. Pour plus d’informations](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) consultez les questions fréquentes sur le LTS [AEM 6.5.
+>AEM 6.5 LTS couvre les deux chemins. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) consultez les questions fréquentes sur le LTS AEM 6.5.
 
 >[!NOTE]
 >
 > 6.5.26.0 est la dernière version du pack de services prise en charge pour AEM 6.5.
 >
-> Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication, jusqu’au 28 février 2027. Voir [ Produits et périodes d’assistance technique ](https://helpx.adobe.com/support/programs/eol-matrix.html#cq).
+> Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication, jusqu’au 28 février 2027. Voir [&#x200B; Produits et périodes d’assistance technique &#x200B;](https://helpx.adobe.com/support/programs/eol-matrix.html#cq).
 
 >[!NOTE]
 >
