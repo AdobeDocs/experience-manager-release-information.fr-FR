@@ -14,7 +14,7 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 63
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 + [Feuille de route des versions d’AEM](update-releases-roadmap.md)
 + [Définitions des véhicules de version de mise à jour d’AEM](update-release-vehicle-definitions.md)
 + Mises à jour de versions précédentes {#previous-updates}
-   + [Anciennes versions d’AEM, CQ et CRX](aem-previous-versions.md)
+  + [Anciennes versions d’AEM, CQ et CRX](aem-previous-versions.md)
 + Mises à jour des versions d’AEM Forms {#forms-updates}
-   + [Versions d’AEM Forms](aem-forms-releases.md)
-   + [Installation des packs de correctifs cumulés sur AEM Forms JEE](install-cfp-aem-forms-jee.md)
+  + [Versions d’AEM Forms](aem-forms-releases.md)
+  + [Installation des packs de correctifs cumulés sur AEM Forms JEE](install-cfp-aem-forms-jee.md)
