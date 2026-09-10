@@ -3,10 +3,10 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: ht
-source-wordcount: '16241'
-ht-degree: 100%
+source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
+workflow-type: tm+mt
+source-wordcount: '16443'
+ht-degree: 98%
 
 ---
 
@@ -43,6 +43,41 @@ Cet article fournit des informations pour :
       <td><strong>Conditions préalables</strong></td>
       <td><strong>Packages disponibles</strong></td>
       <td><strong>Version de build</strong></td>
+    </tr>
+    <tr>
+      <td>8 septembre 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">Module complémentaire OSGi LTS Service Pack 3 d’AEM Forms 6.5</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
+              Module complémentaire AEM Forms 6.5 LTS Service Pack 3 pour Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
+              Module complémentaire AEM Forms 6.5 LTS Service Pack 3 pour Linux®
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
+              Module complémentaire AEM Forms 6.5 LTS Service Pack 3 pour macOS
+            </a>
+          </li>
+        </ul>
+        <p>Les programmes d’installation d’AEM Forms 6.5 LTS Service Pack 3 JEE seront disponibles ultérieurement.</p>
+      </td>
+      <td>6.1.238</td>
     </tr>
     <tr>
       <td>18 juin 2026</td>
@@ -82,7 +117,7 @@ Cet article fournit des informations pour :
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          Pack de services 2 d’AEM 6.5 LTS Forms
+          Pack de services 2 d’AEM 6.5 LTS Forms 
         </a>
       </td>
       <td>
@@ -103,7 +138,7 @@ Cet article fournit des informations pour :
       <td>samedi 19 décembre 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 LTS Forms 
         </a>
       </td>
       <td>
@@ -126,7 +161,7 @@ Cet article fournit des informations pour :
       <td>5 septembre 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          Pack de services 1 d’AEM 6.5 LTS Forms
+          Pack de services 1 d’AEM 6.5 LTS Forms
         </a>
       </td>
       <td>
@@ -150,12 +185,12 @@ Cet article fournit des informations pour :
       <td>7 mars 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 LTS Forms
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 LTS Forms
         </a>
       </td>
       <td>
@@ -225,11 +260,11 @@ Cet article fournit des informations pour :
         </ul>
         <b style="display:block; margin:10px 0;">Programmes d’installation du correctif de Forms Designer 64 bits</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">Programme d’installation de l’anglais</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_French_Cumulative_QF.msp">Programme d’installation du français</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">Programme d’installation de l’allemand</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">Programme d’installation du japonais</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Programme d’installation de la langue espagnole</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">Programme d’installation de l’anglais</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_French_Cumulative_QF.msp">Programme d’installation du français</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">Programme d’installation de l’allemand</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">Programme d’installation du japonais</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Programme d’installation de la langue espagnole</a> </li>
         </ul>
       </td>
       <td>
@@ -1105,7 +1140,7 @@ Cet article fournit des informations pour :
   </tbody>
  </table>
 
-`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
+`[1]` Contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support) pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.
 
 `[2]` Le package de modules complémentaires AEM [!DNL Forms] pour macOS X n’est pas pris en charge dans l’environnement de production et doit être utilisé uniquement à des fins de démonstration. La fonctionnalité PDF Generator n’est pas disponible pour le package macOS X.
 
