@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -51,19 +51,19 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 |---|---|---|---|
 | Disponibilité des fonctionnalités 2026.9.0 | Activation des fonctionnalités | 24 septembre 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 28-30 septembre 2026 | Cible |
-| Version de maintenance | Mise à jour automatique | 12-14 Octobre 2026 | Cible |
-| Version de maintenance | Mise à jour automatique | 26-28 Octobre 2026 | Cible |
-| Version 2026.10.0 | Activation des fonctionnalités | 29 Octobre 2026 | Cible |
-| Version de maintenance | Mise à jour automatique | 9-11 Novembre 2026 | Cible |
+| Version de maintenance | Mise à jour automatique | 12-14 octobre 2026 | Cible |
+| Version de maintenance | Mise à jour automatique | 26-28 octobre 2026 | Cible |
+| Disponibilité des fonctionnalités 2026.10.0 | Activation des fonctionnalités | 29 octobre 2026 | Cible |
+| Version de maintenance | Mise à jour automatique | 9-11 novembre 2026 | Cible |
 
 >[!CAUTION]
 >
 >**Période d’exclusion de la maintenance planifiée**
 >
-> Aucune maintenance automatique d’AEMaaCS ne sera effectuée pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
+> Aucune maintenance automatique d’AEMaaCS ne sera effectuée pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
 >
->* Du lundi 23 novembre 2026 au mardi 1er décembre 2026.
->* Du lundi 14 décembre 2026 au dimanche 3 janvier 2027.
+>* Du lundi 23 novembre 2026 au mardi 1er décembre 2026.
+>* Du lundi 14 décembre 2026 au dimanche 3 janvier 2027.
 
 ## [!DNL Experience Manager] On-Premise et Managed Services {#aem-on-prem-managed-services}
 
