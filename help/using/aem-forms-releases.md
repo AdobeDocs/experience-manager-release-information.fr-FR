@@ -7,8 +7,8 @@
 <target xml:lang="en-XX">https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/implementing/deploying/deploying/deploy</target>
 </trans-unit>
 <trans-unit id="tu14" xml:space="preserve">
-<source xml:lang="en-US">https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support</source>
-<target xml:lang="en-XX">https://experienceleague.adobe.com/fr/home?support-solution=General&amp;lang=ja&amp;support-tab=home#support</target>
+<source xml:lang="en-US">https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support</source>
+<target xml:lang="en-XX">https://experienceleague.adobe.com/fr/home?support-solution=General&lang=ja&support-tab=home#support</target>
 </trans-unit>
 <trans-unit id="tu1" restype="x-YAML_METADATA_HEADER_VALUE" xml:space="preserve">
 <source xml:lang="en-US">AEM Forms releases</source>
@@ -27,12 +27,12 @@
 <target xml:lang="en-XX">Adobe Experience Manager <ph id="1" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> est une application déployée sur AEM. Les expériences web et mobiles pour les formulaires et documents d’entreprise sont améliorées. Grâce à cette fonctionnalité, les organisations peuvent effectuer des interactions numériques complexes, améliorer les expériences d’utilisation et étendre leur portée. Prêt à l’emploi, AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> est inclus avec AEM Quick Start, mais ses fonctionnalités sont limitées. Le package de modules complémentaires AEM <ph id="3" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> offre des fonctionnalités avancées, notamment l’intégration à <ph id="4" ctype="x-regxph" equiv-text="[!DNL Adobe Analytics]">[!DNL Adobe Analytics]</ph>, <ph id="5" ctype="x-regxph" equiv-text="[!DNL Adobe Sign]">[!DNL Adobe Sign]</ph>, les services de documents, un moteur de workflow, etc.</target>
 </trans-unit>
 <trans-unit id="tu5" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu6" xml:space="preserve">
-<source xml:lang="en-US">The Adaptive Forms feature, available in <ph id="1" ctype="x-LINK">[</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, is designed for exploration and evaluation purposes only. For production use, it is essential to obtain a valid license for AEM Forms, as Adaptive Forms functionality requires proper licensing.</source>
-<target xml:lang="en-XX">La fonctionnalité de formulaires adaptatifs, disponible dans <ph id="1" ctype="x-LINK">[</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, est conçue à des fins d’exploration et d’évaluation uniquement. Pour une utilisation à des fins de production, il est essentiel d’obtenir une licence valide pour AEM Forms, car la fonctionnalité de formulaires adaptatifs nécessite une licence appropriée.</target>
+<source xml:lang="en-US">The Adaptive Forms feature, available in <ph id="1" ctype="x-LINK">&lbrack;</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, is designed for exploration and evaluation purposes only. For production use, it is essential to obtain a valid license for AEM Forms, as Adaptive Forms functionality requires proper licensing.</source>
+<target xml:lang="en-XX">La fonctionnalité de formulaires adaptatifs, disponible dans <ph id="1" ctype="x-LINK">&lbrack;</ph>AEM 6.5 QuickStart<ph id="2" ctype="x-LINK">[#$tu7]</ph>, est conçue à des fins d’exploration et d’évaluation uniquement. Pour une utilisation à des fins de production, il est essentiel d’obtenir une licence valide pour AEM Forms, car la fonctionnalité de formulaires adaptatifs nécessite une licence appropriée.</target>
 </trans-unit>
 <trans-unit id="tu8" xml:space="preserve">
 <source xml:lang="en-US">This article provides information for both:</source>
@@ -5497,8 +5497,8 @@
 </trans-unit>
 </group>
 <trans-unit id="tu13" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[1]`</ph> Contact <ph id="2" ctype="x-LINK">[</ph>Adobe Support<ph id="3" ctype="x-LINK">[#$tu14]</ph> to obtain installers for Workbench, Rights Management SDK, Portable Protection Library (PPL), and Enhanced PPL.</source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-CODE">`[1]`</ph> Contactez l’<ph id="2" ctype="x-LINK">[</ph>assistance technique d’Adobe<ph id="3" ctype="x-LINK">[#$tu14]</ph> pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.</target>
+<source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[1]`</ph> Contact <ph id="2" ctype="x-LINK">&lbrack;</ph>Adobe Support<ph id="3" ctype="x-LINK">[#$tu14]</ph> to obtain installers for Workbench, Rights Management SDK, Portable Protection Library (PPL), and Enhanced PPL.</source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-CODE">`[1]`</ph> Contactez l’<ph id="2" ctype="x-LINK">&lbrack;</ph>assistance technique d’Adobe<ph id="3" ctype="x-LINK">[#$tu14]</ph> pour obtenir les programmes d’installation pour Workbench, le SDK Rights Management, ainsi que les bibliothèques Portable Protection Library (PPL) et Enhanced PPL.</target>
 </trans-unit>
 <trans-unit id="tu15" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-CODE">`[2]`</ph> AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> add-in package for macOS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for the macOS X package.</source>
@@ -5521,8 +5521,8 @@
 <target xml:lang="en-XX">Tous les packages de modules complémentaires AEM <ph id="1" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> et les correctifs rapides sont cumulatifs. En d’autres termes, un package de modules complémentaires et un correctif rapide inclut tous les modules complémentaires et correctifs rapides précédents d’un composant pour la version correspondante. Par exemple, si vous installez Quick Fix 2.4.50, il inclut déjà le package de modules complémentaires AEM <ph id="2" ctype="x-regxph" equiv-text="[!DNL Forms]">[!DNL Forms]</ph> 2.4.26.</target>
 </trans-unit>
 <trans-unit id="tu20" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu21" xml:space="preserve">
 <source xml:lang="en-US">Cumulative add-in packages and Quick Fixes implies that the version's first two numbers are identical.</source>
