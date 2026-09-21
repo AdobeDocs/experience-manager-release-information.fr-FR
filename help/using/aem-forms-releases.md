@@ -3,18 +3,18 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
+source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
 workflow-type: tm+mt
-source-wordcount: '16443'
-ht-degree: 100%
+source-wordcount: '16662'
+ht-degree: 98%
 ---
 # Versions d’AEM [!DNL Forms] {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] est une application déployée sur AEM. Les expériences web et mobiles pour les formulaires et documents d’entreprise sont améliorées. Grâce à cette fonctionnalité, les organisations peuvent effectuer des interactions numériques complexes, améliorer les expériences d’utilisation et étendre leur portée. Prêt à l’emploi, AEM [!DNL Forms] est inclus avec AEM Quick Start, mais ses fonctionnalités sont limitées. Le package de modules complémentaires AEM [!DNL Forms] offre des fonctionnalités avancées, notamment l’intégration à [!DNL Adobe Analytics], [!DNL Adobe Sign], les services de documents, un moteur de workflow, etc.
+Adobe Experience Manager [!DNL Forms] est une application déployée sur AEM. Les expériences web et mobiles pour les formulaires et documents d’entreprise sont améliorées. Grâce à cette fonctionnalité, les organisations peuvent effectuer des interactions numériques complexes, améliorer les expériences utilisateur et étendre leur portée métier. Prêt à l’emploi, AEM [!DNL Forms] est inclus avec AEM Quick Start, mais ses fonctionnalités sont limitées. Le package de modules complémentaires AEM [!DNL Forms] offre des fonctionnalités avancées, notamment l’intégration à [!DNL Adobe Analytics], [!DNL Adobe Sign], les services de documents, un moteur de workflow, etc.
 
 >[!NOTE]
 >
->La fonctionnalité de formulaires adaptatifs, disponible dans [AEM 6.5 QuickStart](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), est conçue à des fins d’exploration et d’évaluation uniquement. Pour une utilisation à des fins de production, il est essentiel d’obtenir une licence valide pour AEM Forms, car la fonctionnalité de formulaires adaptatifs nécessite une licence appropriée.
+>La fonctionnalité de formulaires adaptatifs, disponible dans [AEM 6.5 QuickStart](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), est conçue à des fins d’exploration et d’évaluation uniquement. Pour une utilisation en exploitation, il est essentiel d’obtenir une licence valide pour AEM Forms, car la fonctionnalité de formulaires adaptatifs nécessite une licence appropriée.
 
 <!--
 >[!NOTE]
@@ -73,7 +73,29 @@ Cet article fournit des informations pour :
             </a>
           </li>
         </ul>
-        <p>Les programmes d’installation du Service Pack 3 LTS d’AEM Forms 6.5 sur JEE seront disponibles ultérieurement.</p>
+        <strong style="display:block; margin:10px 0;">Installateurs du pack de services 3 d’AEM Forms 6.5 LTS sur JEE</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
+              Programme d’installation du pack de services 3 LTS AEM Forms 6.5 pour JBoss® et Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
+              Programme d’installation du pack de services 3 LTS AEM Forms 6.5 pour JBoss® et Linux®
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
+              Programme d’installation du pack de services 3 LTS d’AEM Forms 6.5 pour WebSphere® et Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              Programme d’installation du pack de services 3 LTS AEM Forms 6.5 pour WebSphere® et Linux®
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
@@ -252,6 +274,10 @@ Cet article fournit des informations pour :
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-windows-websphere.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-websphere.tar.gz">WebSphere® Linux®</a>      </li>
         </ul>
+        <b style="display:block; margin:10px 0;">Programme d’installation de Workbench</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">Programme d’installation d’AEM Forms Workbench</a>       </li>
+        </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
           <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1482/aemfd-client-sdk-6.0.1482.jar">SDK client AEM Forms</a>       </li>
@@ -364,7 +390,7 @@ Cet article fournit des informations pour :
         </ul>
       </td>
       <td>
-        <p>Programme d’installation complet d’AEM Forms JEE : 6-5-0-20250606-1-12345 <br/><p>Programme d’installation de correctif AEM Forms on JEE : 6-5-0-0100 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1360 <br/></p></td>
+        <p>Programme d’installation complet d’AEM Forms JEE : 6-5-0-20250606-1-12345 <br/><p>Programme d’installation de correctif AEM Forms JEE : 6-5-0-0100 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1360 <br/></p></td>
     </tr>
   <tr>
     <td>29 novembre 2024</td>
@@ -401,7 +427,7 @@ Cet article fournit des informations pour :
         </ul>
       </td>
       <td>
-        <p>Programme d’installation de correctif AEM Forms on JEE : 6.5.0-0093 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1328 <br/></p><p>Package de compatibilité AEM Forms : 2.0.50 </td>
+        <p>Programme d’installation de correctif AEM Forms JEE : 6.5.0-0093 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1328 <br/></p><p>Package de compatibilité AEM Forms : 2.0.50 </td>
     </tr>
   <tr>
     <td>13 juin 2024</td>
@@ -437,7 +463,7 @@ Cet article fournit des informations pour :
         </ul>
       </td>
       <td>
-        <p>Programme d’installation de correctif AEM Forms on JEE : 6.5.0-0087 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1244 </p></td>
+        <p>Programme d’installation de correctif AEM Forms JEE : 6.5.0-0087 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1244 </p></td>
     </tr>
   <tr>
     <td>8 mars 2024</td>
@@ -485,7 +511,7 @@ Cet article fournit des informations pour :
         </ul>
       </td>
       <td>
-        <p>Programme d’installation de correctif AEM Forms on JEE : 6-5-0-0083 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1192 </p></td>
+        <p>Programme d’installation de correctif AEM Forms JEE : 6-5-0-0083 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1192 </p></td>
     </tr>
   <tr>
     <td>15 décembre 2023</td>
@@ -512,7 +538,7 @@ Cet article fournit des informations pour :
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1120.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1120.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1120.zip">Package de module complémentaire AEM Forms pour Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1120.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms on JEE</b>
@@ -550,7 +576,7 @@ Cet article fournit des informations pour :
         </ul>
       </td>
       <td>
-        <p>Programme d’installation de correctif AEM Forms on JEE : aemforms-6-5-0-0078 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1120 </p></td>
+        <p>Programme d’installation de correctif AEM Forms JEE : aemforms-6-5-0-0078 <br/><p>Module complémentaire de packages AEM Forms : 6.0.1120 </p></td>
     </tr>
    <tr>
     <td>31 août 2023</td>
@@ -610,9 +636,9 @@ Cet article fournit des informations pour :
     <td>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.968.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.968.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.968.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.968.zip">Package de modules complémentaires Adobe Experience Manager Forms pour Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.968.zip">Package de module complémentaire AEM Forms pour Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.968.zip">Package de modules complémentaires Adobe Experience Manager Forms pour macOS X [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">Package de compatibilité AEM Forms</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms on JEE</b>
@@ -693,7 +719,7 @@ Cet article fournit des informations pour :
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.856.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.856.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.856.zip">Package de module complémentaire AEM Forms pour Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.856.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">Package de compatibilité AEM Forms</a>      </li>
         </ul>
@@ -763,7 +789,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>2 juin 2022</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">Pack de services 13 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.13.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13#forms-65130">Pack de services 13 d’AEM Forms 6.5, package de modules complémentaires AEM Forms pour AEM 6.5.13.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-13">AEM 6.5.13.0</a></td>
       <td>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
@@ -803,8 +829,8 @@ Cet article fournit des informations pour :
     <td>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.640.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.640.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.640.zip">Package de modules complémentaires Adobe Experience Manager Forms pour Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.640.zip">Package de module complémentaire AEM Forms pour Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.640.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">Programme d’installation complet d’AEM Forms sur JEE</b>
@@ -843,7 +869,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>20 décembre 2021</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Pack de services 11 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.11.1</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Pack de services AEM 6.5 Forms 11, package de modules complémentaires Forms pour AEM 6.5.11.1</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -865,11 +891,11 @@ Cet article fournit des informations pour :
           <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a>
       </ul> </td>
       <td>
-        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0038<br /> <p>Module complémentaire de packages AEM Forms : 6.0.566-NPR-37836-B0001</p></td>
+        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0038<br /> <p>Module complémentaire de packages AEM Forms : 6.0.566-NPR-37836-B0001</p></td>
     </tr>
    <tr>
     <td>3 décembre 2021</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Pack de services 11 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.11.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">Pack de services 11 d’AEM 6.5Forms, package de modules complémentaires Forms pour AEM 6.5.11.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
      <ul>
@@ -932,7 +958,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>3 juin 2021</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">Pack de services 9 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.9.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">Pack de services 9 d’AEM Forms 6.5, package de modules complémentaires AEM Forms pour AEM 6.5.9.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-9">AEM 6.5.9.0</a></td>
     <td>
      <ul>
@@ -957,7 +983,7 @@ Cet article fournit des informations pour :
           <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
       <td>
-        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0028<br /> </p> Module complémentaire de packages AEM Forms : 6.0.434</p> <p>SDK client : 6.0.434<br /> </p><p>AEM Forms Workbench : 6.5.0.20210524.1.938669</p><p>Package AEM Forms on JEE embed : 5.0.14</p></td>
+        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0028<br /> </p> Module complémentaire de packages AEM Forms : 6.0.434</p> <p>SDK client : 6.0.434<br /> </p><p>AEM Forms atelier : 6.5.0.20210524.1.938669</p><p>Package AEM Forms on JEE embed : 5.0.14</p></td>
     </tr>
    <tr>
     <td>18 mars 2021</td>
@@ -968,7 +994,7 @@ Cet article fournit des informations pour :
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.334.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">Package de compatibilité AEM Forms</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">Package de compatibilité AEM Forms</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">Correctif pour AEM Forms Designer</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs JEE</b>
@@ -986,7 +1012,7 @@ Cet article fournit des informations pour :
           <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
       <td>
-        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0025<br /> </p> Module complémentaire de packages AEM Forms : 6.0.334</p> <p>Package de compatibilité AEM Forms : 2.0.36</p><p>SDK client : 6.0.334<br /> </p><p>Correctif AEM Forms Designer : 650.014</p></td>
+        <p>Programme d’installation JEE d’AEM Forms : AEMForms-6.5.0-0025<br /> </p> Module complémentaire de packages AEM Forms : 6.0.334</p> <p>Package de compatibilité AEM Forms : 2.0.36</p><p>SDK client : 6.0.334<br /> </p><p>Correctif AEM Forms Designer : 650.014</p></td>
     </tr>
    <tr>
    <tr>
@@ -1020,7 +1046,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>3 septembre 2020</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">Pack de services 6 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.6.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">Pack de services AEM 6.5 Forms 6, package de modules complémentaires Forms pour AEM 6.5.6.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-6">AEM 6.5.6.0</a></td>
     <td>
      <ul>
@@ -1035,7 +1061,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>4 juin 2020</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">Pack de services 5 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.5.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">Pack de services 5 d’AEM 6.5 Forms, package de modules complémentaires Forms pour AEM 6.5.5.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-5">AEM 6.5.5.0</a></td>
     <td>
      <ul>
@@ -1050,14 +1076,14 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>5 mars 2020</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">Pack de services 4 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.4.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4#forms-6540">Pack de services 4 d’AEM Forms 6.5, package de modules complémentaires AEM Forms pour AEM 6.5.4.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-4">AEM 6.5.4.0</a></td>
     <td>
      <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-LX.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-WIN.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a> </li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">Package de compatibilité AEM Forms [3]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">Package de compatibilité AEM Forms[3]</a></li>
           <li>AEM Workbench [1]</li>
           <li>AEM Forms Client SDK [1]</li>
           <li>Programme d’installation d’AEM Forms JEE [1]</li>
@@ -1067,7 +1093,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>12 décembre 2019</td>
-      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">Pack de services 3 d’AEM Forms 6.5, package de modules complémentaires Forms pour AEM 6.5.3.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3#forms-6530">Pack de services 3 d’AEM Forms 6.5, package de modules complémentaires AEM Forms pour AEM 6.5.3.0</a></td>
       <td><a href="https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5.3.0</a></td>
     <td>
      <ul>
@@ -1080,7 +1106,7 @@ Cet article fournit des informations pour :
           <li>Programme d’installation d’AEM Forms JEE [1]</li>
      </ul> </td>
       <td>
-        <p>Programme d’installation d’AEM Forms JEE : 6.5.0-0007</p> <p>Package de compatibilité AEM Forms : 2.0.26</p> <p>Module complémentaire de packages et SDK client AEM Forms : 6.0.122</p> <p>AEM Forms Workbench : 6.5.0.20191119.1.935956</p> </td>
+        <p>Programme d’installation d’AEM Forms JEE : 6.5.0-0007</p> <p>Package de compatibilité AEM Forms : 2.0.26</p> <p>Module complémentaire de packages et SDK client AEM Forms : 6.0.122</p> <p>AEM Forms atelier : 6.5.0.20191119.1.935956</p> </td>
     </tr>
    <tr>
     <td>19 septembre 2019</td>
@@ -1097,7 +1123,7 @@ Cet article fournit des informations pour :
           <li>Programme d’installation d’AEM Forms JEE<sup> [1]</sup></li>
      </ul> </td>
       <td>
-        <p>Programme d’installation d’AEM Forms JEE : 6.5.0-0004_3</p> <p>Package de compatibilité AEM Forms : 2.0.22</p> <p>Module complémentaire de packages et SDK client AEM Forms : 6.0.106</p> <p>AEM Forms Workbench : 6.5.0.20190917.1.337048</p> </td>
+        <p>Programme d’installation d’AEM Forms JEE : 6.5.0-0004_3</p> <p>Package de compatibilité AEM Forms : 2.0.22</p> <p>Module complémentaire de packages et SDK client AEM Forms : 6.0.106</p> <p>AEM Forms atelier : 6.5.0.20190917.1.337048</p> </td>
     </tr>
    <tr>
     <td>3 juillet 2019</td>
@@ -1117,7 +1143,7 @@ Cet article fournit des informations pour :
     </tr>
    <tr>
     <td>8 avril 2019</td>
-    <td>Package de modules complémentaires AEM 6.5 Forms</td>
+    <td>Package de modules complémentaires pour AEM 6.5 Forms</td>
     <td>AEM 6.5</td>
     <td>
      <ul>
@@ -1151,8 +1177,8 @@ Cet article fournit des informations pour :
 
   >[!NOTE]
   >
-  >Les packages de modules complémentaires et les correctifs rapides cumulatifs impliquent que les deux premiers numéros de la version soient identiques.
+  >Les packages de modules complémentaires et les correctifs rapides cumulatifs impliquent que les deux premiers chiffres du numéro de version soient identiques.
 
-* Installez toujours le dernier module complémentaire Pack de services/Pack de fonctionnalités disponible. Il est vivement recommandé, car il comprend des correctifs et améliorations client concernant la sécurité, les performances, la stabilité et les éléments clés publiés depuis la disponibilité générale de la version de base.
+* Installez toujours le dernier module complémentaire Pack de services/Pack de fonctionnalités disponible. Il est vivement recommandé, car il comprend des correctifs et améliorations client concernant la sécurité, les performances, la stabilité et les principaux correctifs publiés depuis la disponibilité générale de la version de base.
 * Chaque fois que vous installez un pack de services ou que vous effectuez une mise à niveau d’une version précédente d’AEM vers une version plus récente, installez toujours le package de modules complémentaires AEM [!DNL Forms] correspondant. Par exemple, si vous effectuez une mise à niveau depuis le package de modules complémentaires AEM 6.1 [!DNL Forms] version 2.2.4 vers AEM 6.1, Pack de services 1, après avoir installé AEM 6.1, Pack de services 1, installez le package de modules complémentaires AEM [!DNL Forms] version 2.4.50.
 * La désinstallation du package de modules complémentaires AEM [!DNL Forms] n’est pas prise en charge.
