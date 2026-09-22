@@ -3,9 +3,9 @@ title: Versions d’AEM Forms
 description: Découvrez toutes les versions d’AEM Forms et les packages correspondants.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
+source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
 workflow-type: tm+mt
-source-wordcount: '16662'
+source-wordcount: '16723'
 ht-degree: 98%
 ---
 # Versions d’AEM [!DNL Forms] {#aem-forms-releases}
@@ -93,6 +93,22 @@ Cet article fournit des informations pour :
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               Programme d’installation du pack de services 3 LTS AEM Forms 6.5 pour WebSphere® et Linux®
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Programme d’installation de Workbench</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+              Programme d’installation d’AEM Forms Workbench
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">SDK</strong>
+        <ul>
+          <li>
+            <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
+              AEM Forms Client SDK
             </a>
           </li>
         </ul>
@@ -261,8 +277,8 @@ Cet article fournit des informations pour :
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms sur OSGi</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1482.zip">Package de modules complémentaires AEM Forms pour Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1482.zip">Package de modules complémentaires AEM Forms pour Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1482.zip">Package de modules complémentaires AEM Forms pour macOS X [2]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1482.zip">Package de module complémentaire AEM Forms pour Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1482.zip">Package de modules complémentaires Adobe Experience Manager Forms pour macOS X [2]</a></li>
           <!--<li><a href="">AEM Forms Compatibility Package</a></li>-->
         </ul>
         <b style="display:block; margin:10px 0;">Programmes d’installation de correctifs AEM Forms on JEE</b>
