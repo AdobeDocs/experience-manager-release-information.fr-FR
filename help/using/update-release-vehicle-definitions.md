@@ -1,15 +1,32 @@
 ---
 title: Définitions des véhicules de version de mise à jour
-description: Cet article décrit les différents types de versions d’ [!DNL Experience Manager] , y compris les versions complètes, les packs de fonctionnalités et les packs de services.
+description: Cet article décrit les différents types de versions d’[!DNL Experience Manager], y compris les versions complètes, les packs de fonctionnalités et les packs de services.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '743'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '744'
+ht-degree: 97%
 ---
-
 # Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager] {#update-release-vehicle-definitions}
 
 Ce document contient des informations à propos des différents types de versions d’[!DNL Adobe Experience Manager], dont les versions intégrales, les Feature Packs et les Service Packs mis par [!DNL Adobe] à la disposition des clients.
@@ -46,12 +63,12 @@ Ce document contient des informations à propos des différents types de version
 
 | Élément | Description |
 |-----|-----|
-| Définition | <ul> <li> Modèle de diffusion unique des correctifs de publication </li> <li> Module de contenu d’agrégation contenant le module de contenu de composants individuels </li> <li>  Les CFP remplacent les correctifs et ne comportent aucune amélioration.  </li> </ul> |
+| Définition | <ul> <li> Modèle de diffusion unique des correctifs de publication </li> <li> Module de contenu d’agrégation contenant le module de contenu de composants individuels </li> <li>  Les CFP regroupent des correctifs et ne comportent aucune amélioration.  </li> </ul> |
 | Dénomination | X.Y.Z.CFPx <br> Où X est le numéro de version principal, Y est le numéro de version secondaire et Z le numéro de correctif. x est le numéro cumulé du Service Pack. |
-| Inclusions | Un pack de correctifs cumulatif (CFP) contient des correctifs de l’ensemble des composants aux dates spécifiées. Par exemple, si un client applique CFP3, alors CFP3 = CFP1 + CFP2. |
+| Inclusions | Un pack de correctifs cumulatif (CFP) contient des correctifs de l’ensemble des composants jusqu’aux dates spécifiées. Par exemple, si un client applique CFP3, alors CFP3 = CFP1 + CFP2. |
 | Documentation | Les notes de mise à jour sont disponibles sur le portail de documentation. |
 | Fréquence | Trimestrielle |
-| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendant du dernier Service Pack publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients et les clientes n’ont pas à se soucier de trouver/résoudre des dépendances. Le pack de correctifs cumulatif doit être installé sur le dernier pack de services publié. </li> <li>  Le pack de correctifs cumulés peut être installé en tant que package unique, ce qui améliore l’expérience client.  </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendre du dernier pack de services publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients et les clientes n’ont pas à se soucier de trouver/résoudre des dépendances. CFP doit être installé sur le dernier pack de services publié. </li> <li>  CFP peut être installé en tant que package unique, ce qui améliore l’expérience client.  </li> </ul> |
 | Niveau de test | Contrôle qualité validé au niveau de l’intégration et test de régression |
 
 ## Recouvrement {#overlay}
@@ -69,7 +86,7 @@ Ce document contient des informations à propos des différents types de version
 
 | Eléments | Détails |
 |--------|-----|
-| Définition | <ul> <li>Les packs de fonctionnalités sont des fonctionnalités ajoutées et sont fournis par l’intermédiaire des packs de services. Si le dernier pack de services d’une version d’[!DNL Experience Manager] est publié, Adobe ne fournira plus aucun pack de fonctionnalités pour celle-ci à l’avenir. </li> <li> Les packs de fonctionnalités contiennent des améliorations de produit, prévues pour une version ultérieure du produit, mais diffusées de manière anticipée en fonction de la décision des personnes responsables de la gestion des produits d’[!DNL Adobe's].</li> <li>  Les fonctionnalités sont toujours fusionnées avec la prochaine version majeure. Elles sont ensuite transférées vers la version [!DNL Experience Manager] requise par la clientèle. </li> <li>  Les Feature Packs d’intérêt commun et de disponibilité générale (GA) sont fusionnés dans le prochain Service Pack.  </li> </ul> |
+| Définition | <ul> <li>Les packs de fonctionnalités sont des modules complémentaires et sont fournis par l’intermédiaire des packs de services. Si le dernier pack de services d’une version d’[!DNL Experience Manager] est publié, Adobe ne fournira plus aucun pack de fonctionnalités pour celle-ci à l’avenir. </li> <li> Les packs de fonctionnalités contiennent des améliorations de produit, prévues pour une version ultérieure du produit, mais diffusées de manière anticipée en fonction de la décision des personnes responsables de la gestion des produits d’[!DNL Adobe's].</li> <li>  Les fonctionnalités sont toujours fusionnées avec la prochaine version majeure. Elles sont ensuite transférées vers la version [!DNL Experience Manager] requise par la clientèle. </li> <li>  Les packs de fonctionnalités d’intérêt commun et de disponibilité générale (GA) sont fusionnés dans le prochain pack de services.  </li> </ul> |
 | Dénomination | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusions | <ul> <li> Nouvelles fonctionnalités </li> <li> Améliorations </li> <li> Correctifs de bugs (mises à jour incrémentielles des produits) </li> </ul> |
 | Documentation | La documentation est disponible sur adobe.com. |
@@ -77,4 +94,4 @@ Ce document contient des informations à propos des différents types de version
 | Disponibilité et installation | <ul> <li>Livré par le biais de Service Packs </li> <li> Disponible sur la distribution logicielle. Les clients acceptent les Termes et conditions [!DNL Adobe's] par le biais de la distribution logicielle. </li> </ul> |
 | Niveau de test | Les Feature Packs de disponibilité générale (GA) sont validés par le contrôle qualité. |
 
-* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulatif Oak. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulatifs Oak peut être mis à votre disposition. Condition préalable : le client ou la cliente possède le dernier pack de correctifs cumulatif Oak. Les diagnostic fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un Service Pack ou une version de produit. Le correctif final est fourni avec le prochain pack de correctifs cumulatifs.
+* 1 : les correctifs Oak ne sont pas fournis en tant que correctifs individuels. Toutefois, ils sont inclus dans le correctif cumulatif Oak suivant. Si nécessaire, un diagnostic intégré avec le dernier pack de correctifs cumulatifs Oak peut être mis à votre disposition. Condition préalable : le client ou la cliente possède le dernier pack de correctifs cumulatif Oak. Les diagnostics fournissent uniquement le même niveau d’assurance qualité qu’un correctif. Par conséquent, ils ne fournissent pas le même niveau d’assurance qualité qu’un pack de correctifs cumulatif, un pack de services ou une version de produit. Le correctif final est fourni avec le prochain CFP.

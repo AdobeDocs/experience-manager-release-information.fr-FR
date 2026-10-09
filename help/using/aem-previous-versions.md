@@ -3,13 +3,30 @@ title: Télécharger la documentation de versions antérieures d’AEM, CQ et CR
 description: Téléchargez les packages de documentation des versions antérieures d’Adobe Experience Manager, CQ et CRX.
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '964'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '965'
+ht-degree: 97%
 ---
-
 # Anciennes versions d’[!DNL Adobe Experience Manager], CQ et CRX {#older-versions-aem-cq-crx}
 
 Consultez les guides d’aide consacrés aux versions antérieures d’AEM, CQ et CRX.
@@ -57,11 +74,11 @@ Si vous avez besoin d’aide pour créer ou gérer votre Adobe ID, [consultez c
 | CRX 2.1 | [Télécharger CRX-DOCS-2.1 à partir de la distribution logicielle](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip) |
 | CRX 2.0 | [Télécharger CRX-DOCS-2.0 à partir de la distribution logicielle](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip) |
 
-## Installation d’un package de documentation {#how-to-install-documentation-package}
+## Installer un package de documentation {#how-to-install-documentation-package}
 
 Pour installer un ancien package de documentation, [!DNL Experience Manager] doit être installé et en cours d’exécution sur votre disque local ou votre réseau.
 
-### Téléchargement du package de documentation {#download-documentation-package}
+### Télécharger le package de documentation {#download-documentation-package}
 
 1. Dans le tableau ci-dessus, cliquez sur le lien de la version de documentation d’[!DNL Experience Manager] à télécharger. Par exemple, AEM 5.6.1.
 
@@ -73,7 +90,7 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 ![Exemple de distribution logicielle](assets/screen_shot_2020-07-10at161922.jpg)
 
-### Installation du package sur votre instance locale {#install-package-local-instance}
+### Installer le package sur votre instance locale {#install-package-local-instance}
 
 >[!NOTE]
 >
@@ -89,14 +106,14 @@ Pour installer un ancien package de documentation, [!DNL Experience Manager] doi
 
 1. Sélectionnez le module et cliquez sur **[!UICONTROL OK]**.
 
-1. Une fois le package téléchargé, installez-le.
+1. Une fois le package chargé, installez-le.
 
 1. Dans l’interface d’utilisation du gestionnaire de modules, repérez le package et sélectionnez **[!UICONTROL Installer]**.
 
 1. Dans la boîte de dialogue de confirmation, sélectionnez à nouveau **[!UICONTROL Installer]**. L’installation prend quelques minutes.
 
-1. Dans un navigateur web, lancez la page de documentation. En reprenant l’exemple d’AEM 5.6.1, l’URL serait : http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Dans un navigateur web, ouvrez la page de documentation. En reprenant l’exemple d’AEM 5.6.1, l’URL serait : http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtenir de l’aide de la communauté [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
+Si vous avez des questions sur l’utilisation d’Experience Manager, nous vous recommandons de [contacter nos experts et expertes expérimentés de la communauté dans les  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
