@@ -1,15 +1,32 @@
 ---
-title: Installation des packs de correctifs cumulatifs sur AEM Forms JEE
+title: Installer des packs de correctifs cumulatifs sur AEM Forms JEE
 description: Résumé des étapes d’installation et de configuration du pack de correctifs cumulatif (CFP) sur AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '932'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '946'
 ht-degree: 100%
-
 ---
-
 # Installation de packs de correctifs cumulés sur AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Installer le CFP sur AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
@@ -18,12 +35,12 @@ Pour installer le pack de correctifs cumulatifs sur AEM 6.3 [!DNL Forms JEE], ef
 
 1. Pour obtenir le programme d’installation AEM 6.3 [!DNL Forms JEE] pour le CFP, contactez [l’assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
-1. Installez la dernière version du CFP AEM 6.3.3.x
+1. Installer la dernière version du CFP AEM 6.3.3.x
 1. Installez le package de module complémentaire [!DNL Forms] pour AEM CFP [6.3.3.x](aem-forms-releases.md).
 
 ### Installez le package des lots AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
+Le package AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il n’est pas déjà installé.
 
 ### Instructions supplémentaires pour CQ-4208044 {#additional-instructions-for-cq}
 
@@ -45,13 +62,13 @@ Pour installer le pack de correctifs cumulatif sur AEM 6.2 [!DNL Forms JEE], ef
 1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installez AEM Hotfix 12785 version 7.0.
-1. Installez AEM 6.2 Service Pack 1.
+1. Installez AEM 6.2 Pack de services 1.
 1. Installez la dernière version de release-notes-aem-6-2-cumulative-fix-pack.md.
 1. Installez le package de module complémentaire [!DNL Forms] pour AEM 6.2 Service Pack 1 CFP.
 
 ### Installez le package des bundles AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
-Le package AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) apporte à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et capacités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
+Le package AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5 ; version 1.0.2) confère à l’utilisateur ou à l’utilisatrice de [!DNL Forms] sur AEM [!DNL Forms JEE] les mêmes droits et fonctionnalités que sur AEM [!DNL Forms OSGi]. Vérifiez les packages installés dans le gestionnaire de modules et installez le package s’il ne l’a pas déjà été.
 
 ### Configuration du délai d’expiration pour les opérations au niveau du composant (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -67,7 +84,7 @@ Vous pouvez également modifier les délais d’expiration au niveau du composan
 
 1. `adobe.all-component.timeout` : remplace les délais d’expiration de tous les services du produit.
 1. `adobe.<serviceName>.timeout` : remplace le délai d’expiration uniquement pour le service (&lt;serviceName>) mentionné dans la clé. Si la valeur est définie au niveau du service, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application.
-1. `adobe.<serviceName>.<operationName>.timeout` : remplace uniquement le délai d’expiration pour l’opération du service spécifique (&lt;serviceName>.&lt;operationName>) mentionné dans la clé.Si la valeur est définie au niveau de l’opération, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application ou du service.
+1. `adobe.<serviceName>.<operationName>.timeout` : remplace uniquement le délai d’expiration pour l’opération du service spécifique (&lt;serviceName>.&lt;operationName>) mentionné dans la clé. Si la valeur est définie au niveau de l’opération, l’utilisation de cette commande remplace uniquement la valeur du délai d’expiration du service spécifié si elle est définie au niveau de l’application ou du service.
 
 **Exemples :**
 
