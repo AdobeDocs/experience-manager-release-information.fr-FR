@@ -54,7 +54,7 @@ Avant de télécharger le package, déterminez qui va utiliser le contenu. Cette
 
 Un identifiant Adobe valide est requis :
 
-* Si vous n’avez pas d’Adobe ID, vous pouvez en créer un sur le site https://www.adobe.com/.
+* Si vous n’avez pas d’Adobe ID, vous pouvez en créer un sur le site https://www.adobe.com/fr/.
 Si vous avez besoin d’aide pour créer ou gérer votre Adobe ID, [consultez ce guide](https://helpx.adobe.com/fr/manage-account.html).
 
 | Version d’[!DNL Experience Manager] | Lien du portail Distribution logicielle |
