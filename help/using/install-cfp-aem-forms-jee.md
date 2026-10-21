@@ -23,7 +23,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '946'
 ht-degree: 100%
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Pour installer le pack de correctifs cumulatifs sur AEM 6.3 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
 
-1. Pour obtenir le programme d’installation AEM 6.3 [!DNL Forms JEE] pour le CFP, contactez [l’assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
+1. Pour obtenir le programme d’installation AEM 6.3 [!DNL Forms JEE] pour le CFP, contactez [l’assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installer la dernière version du CFP AEM 6.3.3.x
 1. Installez le package de module complémentaire [!DNL Forms] pour AEM CFP [6.3.3.x](aem-forms-releases.md).
@@ -59,7 +59,7 @@ Si vous utilisez le serveur AEM 6.3 [!DNL Forms JEE] avec la base de données O
 
 Pour installer le pack de correctifs cumulatif sur AEM 6.2 [!DNL Forms JEE], effectuez la séquence d’étapes suivante.
 
-1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr&support-tab=home#support).
+1. Pour obtenir le programme d’installation AEM 6.2 [!DNL Forms JEE]pour le CFP, contactez l’[assistance technique d’Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=fr&support-tab=home#support).
 1. Exécutez le programme d’installation du CFP et configurez AEM [!DNL Forms JEE] comme décrit dans [Installation et configuration d’AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installez AEM Hotfix 12785 version 7.0.
 1. Installez AEM 6.2 Pack de services 1.
