@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Définitions des véhicules de version de mise à jour d’[!DNL Experience Manager] {#update-release-vehicle-definitions}
 
@@ -44,10 +44,10 @@ Ce document contient des informations à propos des différents types de version
 | Inclusions | <ul> <li> Nouvelles fonctionnalités </li> <li>  Améliorations </li> <li>  Correctifs </li> </ul> |
 | Documentation | <ul> <li> Les notes de mise à jour sont disponibles sur le portail de documentation. </li> <li> La documentation sur les fonctionnalités, les améliorations et les correctifs est disponible sur le portail de documentation </li> </ul> |
 | Fréquence | Annuelle |
-| Disponibilité et installation | <ul> <li> Livré en tant que programme d’installation de produit autonome </li> <li>  Disponible sur le site web de gestion des licences et Managed Services </li> <li> Le site web de gestion des licences peut nécessiter la migration du référentiel de contenu </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré en tant que programme d’installation de produit autonome </li> <li>  Disponible sur le site web de gestion des licences et Managed Services </li> <li> Le site web de gestion des licences peut nécessiter la migration du référentiel de contenu </li> </ul> |
 | Niveau de test | Entièrement validé par le contrôle qualité |
 
-## Service Pack {#service-pack}
+## Pack de services {#service-pack}
 
 | Élément | Description |
 |-----|-----|
@@ -56,7 +56,7 @@ Ce document contient des informations à propos des différents types de version
 | Inclusions | <ul> <li> Nouvelles fonctionnalités</li> <li>  Améliorations </li> <li> Correctifs </li> <li> Feature Packs d’intérêt commun (le cas échéant) </li> </ul> |
 | Documentation | <ul> <li> Les notes de mise à jour sont disponibles sur le portail de documentation. </li> <li> Documentation sur les fonctionnalités, les améliorations et les correctifs de bogues sur le portail de documentation </li> </ul> |
 | Fréquence | Trimestrielle |
-| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li> Disponible sur la distribution logicielle</li> <li>  Nécessite une installation fonctionnelle existante </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li> Disponible sur la distribution de logiciels</li> <li>  Nécessite une installation fonctionnelle existante </li> </ul> |
 | Niveau de test | <ul> <li> Tous les correctifs ont été validés par le contrôle qualité </li> <li>  Fonctionnement général des packages avec les exécutions d’automatisation </li> </ul> |
 
 ## Pack de correctifs cumulatif {#cumulative-fix-pack-aem}
@@ -68,7 +68,7 @@ Ce document contient des informations à propos des différents types de version
 | Inclusions | Un pack de correctifs cumulatif (CFP) contient des correctifs de l’ensemble des composants jusqu’aux dates spécifiées. Par exemple, si un client applique CFP3, alors CFP3 = CFP1 + CFP2. |
 | Documentation | Les notes de mise à jour sont disponibles sur le portail de documentation. |
 | Fréquence | Trimestrielle |
-| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li>  Disponible sur la distribution logicielle </li> <li>  Dépendre du dernier pack de services publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients et les clientes n’ont pas à se soucier de trouver/résoudre des dépendances. CFP doit être installé sur le dernier pack de services publié. </li> <li>  CFP peut être installé en tant que package unique, ce qui améliore l’expérience client.  </li> </ul> |
+| Disponibilité et installation | <ul> <li> Livré sous la forme d’un package. </li> <li>  Disponible sur la distribution de logiciels </li> <li>  Dépendant du dernier pack de services publié </li> <li>  Le pack de correctifs cumulés est autonome. Les clients et les clientes n’ont pas à se soucier de trouver/résoudre des dépendances. CFP doit être installé sur le dernier pack de services publié. </li> <li>  CFP peut être installé en tant que package unique, ce qui améliore l’expérience client.  </li> </ul> |
 | Niveau de test | Contrôle qualité validé au niveau de l’intégration et test de régression |
 
 ## Recouvrement {#overlay}
