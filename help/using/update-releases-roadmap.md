@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
+source-git-commit: 3d4bc1708d541faaf1d18ee379dc0277d5bf2dc4
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 97%
+source-wordcount: '1287'
+ht-degree: 95%
 ---
 # Feuille de route des versions d’[!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -62,14 +62,14 @@ Les prochaines versions d’[!DNL Experience Manager] as a [!DNL Cloud Servic
 | Disponibilité des fonctionnalités [2026.8.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Activation des fonctionnalités | 27 août 2026 | Activé |
 | Version de maintenance [27830](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Mise à jour automatique | 31 août-2 septembre 2026 | Mis à jour |
 | Disponibilité des fonctionnalités [2026.9.0](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activation des fonctionnalités | 24 septembre 2026 | Activé |
-| Version de maintenance [28386](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Mise à jour automatique | 28-30 septembre 2026 | Mis à jour |
-| [28871](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 12-14 octobre 2026 | Mis à jour |
+| Version de maintenance [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Mise à jour automatique | 28-30 septembre 2026 | Mis à jour |
+| [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) de version de maintenance | Mise à jour automatique | 12-14 octobre 2026 | Mis à jour |
 
 ### Versions [!DNL Cloud Service] à venir {#upcoming}
 
 | Version | Événement | Planification | Statut |
 |---|---|---|---|
-| Version de maintenance | Mise à jour automatique | 26-28 Octobre 2026 | Cible |
+| [29023](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) de version de maintenance | Mise à jour automatique | 26-28 Octobre 2026 | Cible |
 | Disponibilité des fonctionnalités 2026.10.0 | Activation des fonctionnalités | 29 octobre 2026 | Cible |
 | Version de maintenance | Mise à jour automatique | 9-11 novembre 2026 | Cible |
 | Version 2026.11.0 De Feature | Activation des fonctionnalités | 19 novembre 2026 | Cible |
