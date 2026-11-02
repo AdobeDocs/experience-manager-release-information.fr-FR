@@ -23,8 +23,8 @@ level_v2:
     internal-label: Experienced
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
-source-wordcount: '1308'
-ht-degree: 96%
+source-wordcount: '1329'
+ht-degree: 98%
 ---
 # Feuille de route des versions d’[!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -130,7 +130,7 @@ Les mises à jour du produit [!DNL Experience Manager] 6.5 sont fournies par le
 >
 > 6.5.26.0 est la dernière version du pack de services prise en charge pour AEM 6.5.
 >
-> Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication (jusqu’au 28 février 2027). Voir nos [périodes d’assistance technique et produit](https://helpx.adobe.com/fr/support/programs/eol-matrix.html#cq). Si vous avez approuvé la prise en charge étendue de 6.5 jusqu’en février 2028, les correctifs de sécurité critiques ne seront disponibles que sur le dernier pack de services 26 publié.
+> Chaque pack de services est pris en charge pendant 18 mois maximum à compter de sa publication (jusqu’au 28 février 2027). Voir nos [périodes d’assistance technique et produit](https://helpx.adobe.com/fr/support/programs/eol-matrix.html#cq). Si vous avez approuvé la prise en charge étendue de la version 6.5 jusqu’en février 2028, les correctifs de sécurité critiques ne seront disponibles que sur le dernier pack de services 26 publié.
 
 >[!NOTE]
 >
